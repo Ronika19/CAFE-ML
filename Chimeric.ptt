@@ -1,0 +1,2183 @@
+Burkholderia cenocepacia J2315 chromosome 1, complete genome - 1..3870082
+3469 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+431..1645	+	404	190714215	-	BCAL0001	-	-	sodium/hydrogen exchanger family protein
+1660..2775	+	371	198034442	-	BCAL0002	-	-	carboxylate-amine ligase YbdK
+3283..3921	+	212	198034443	-	BCAL0003	-	-	MarR family regulatory protein
+3950..4660	+	236	198034444	-	BCAL0004	-	-	cysteine peptidase, family C26
+4871..5983	+	370	198034445	-	BCAL0005	-	-	putative NADH-dependent flavin oxidoreductase
+6161..6691	+	176	198034446	-	BCAL0006	-	-	putative protein lysine methyltransferase protein
+6845..8329	-	494	198034447	-	BCAL0007	-	-	two-component regulatory system, sensor kinase protein
+8450..9142	-	230	198034448	-	BCAL0008	-	-	two-component regulatory system, response regulator protein
+9265..9495	+	76	198034449	-	BCAL0008A	-	-	conserved hypothetical protein
+9588..9896	-	102	198034450	-	BCAL0009	-	-	pterin-4-alpha-carbinolamine dehydratase
+10057..10950	-	297	198034451	phhA	BCAL0010	-	-	phenylalanine-4-hydroxylase
+11090..11575	+	161	198034452	-	BCAL0011	-	-	AnsC family regulatory protein
+11647..12180	-	177	198034453	-	BCAL0012	-	-	putative adenylate cyclase
+12385..13284	-	299	198034454	-	BCAL0013	-	-	LysR family regulatory protein
+13473..15158	+	561	198034455	-	BCAL0014	-	-	putative GMC oxidoreductase
+15597..16376	+	259	198034456	-	BCAL0015	-	-	putative branched-chain amino acid ABC transporter ATP-binding protein
+16373..17128	+	251	198034457	-	BCAL0016	-	-	putative branched-chain amino acid ABC transporter ATP-binding protein
+17206..18405	+	399	198034458	-	BCAL0017	-	-	putative branched-chain amino acid ABC transporter periplasmic protein
+18538..19422	+	294	198034459	-	BCAL0018	-	-	putative branched-chain amino acid ABC transporter permease
+19422..20399	+	325	198034460	-	BCAL0019	-	-	putative branched-chain amino acid ABC transporter permease
+21481..22638	+	385	198034461	-	BCAL0020	-	-	putative branched-chain amino acid ABC transporter periplasmic substrate binding protein
+22845..23900	+	351	198034462	-	BCAL0021	-	-	putative branched-chain amino acid ABC transporter permease
+23905..25689	+	594	198034463	-	BCAL0022	-	-	putative branched-chain amino acid ABC transporter ATP-binding membrane protein
+25704..26444	+	246	198034464	-	BCAL0023	-	-	putative branched-chain amino acid ABC transporter ATP-binding protein
+26985..28955	+	656	198034465	gidA	BCAL0024	-	-	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+28952..29638	+	228	198034466	gidB	BCAL0025	-	-	methyltransferase GidB
+29690..30469	+	259	198034467	-	BCAL0026	-	-	chromosome partitioning protein ParA
+30501..31394	+	297	198034468	-	BCAL0027	-	-	chromosome partitioning protein ParB
+31405..32535	+	376	198034469	-	BCAL0028	-	-	putative citrate transporter protein
+33104..33628	+	174	198034470	-	BCAL0029	-	-	putative ATP synthase protein I AtpI
+33738..34589	+	283	198034471	atpB	BCAL0030	-	-	ATP synthase A chain
+34665..34934	+	89	198034472	atpE	BCAL0031	-	-	ATP synthase C chain
+35064..35534	+	156	198034473	atpF	BCAL0032	-	-	ATP synthase B chain
+35537..36076	+	179	198034474	atpH	BCAL0033	-	-	ATP synthase delta chain
+36121..37662	+	513	198034475	atpA	BCAL0034	-	-	ATP synthase alpha chain
+37731..38606	+	291	198034476	atpG	BCAL0035	-	-	ATP synthase gamma chain
+38673..40067	+	464	198034477	atpD	BCAL0036	-	-	ATP synthase beta chain
+40189..40614	+	141	198034478	atpC	BCAL0037	-	-	ATP synthase epsilon chain
+40897..42624	+	575	198034479	-	BCAL0038	-	-	putative long-chain-fatty-acid--CoA ligase
+43359..44171	-	270	198034480	pheC	BCAL0039	-	-	periplasmic cyclohexadienyl dehydratase
+44321..45415	+	364	198034481	hemE	BCAL0040	-	-	uroporphyrinogen decarboxylase
+45867..48128	+	753	198034482	priA	BCAL0041	-	-	primosomal protein N'
+48506..52438	+	1310	198034483	putA	BCAL0042	-	-	bifunctional PutA protein [includes: proline dehydrogenase; delta-1-pyrroline-5-carboxylate dehydrogenase]
+52523..53662	+	379	198034484	-	BCAL0043	-	-	putative extracellular ligand-binding protein
+53796..54320	+	174	198034485	-	BCAL0044	-	-	putative transposase
+54320..55156	+	278	198034486	-	BCAL0045	-	-	putative transposase
+55228..56736	-	502	198034487	-	BCAL0046	-	-	putative fatty-acid CoA ligase
+56788..58440	-	550	198034488	-	BCAL0047	-	-	putative acyl-CoA dehydrogenase
+58561..59229	+	222	198034489	-	BCAL0048A	-	-	TetR family regulatory protein
+59441..60595	+	384	198034490	-	BCAL0049	-	-	putative aminotransferase
+60764..61783	+	339	198034491	-	BCAL0050	-	-	putative transposase
+62070..62858	+	262	198034492	-	BCAL0051	-	-	periplasmic solute-binding protein
+62874..64304	+	476	198034493	-	BCAL0052	-	-	putative oxidoreductase
+64350..64922	-	190	198034494	-	BCAL0053	-	-	PadR family regulatory protein
+64991..65422	-	143	198034495	-	BCAL0054	-	-	MerR family regulatory protein
+65504..68044	+	846	198034496	-	BCAL0055	-	-	putative heavy metal resistance membrane ATPase
+68591..69472	-	293	198034497	-	BCAL0056	-	-	AraC family regulatory protein
+69748..71211	+	487	198034498	-	BCAL0057	-	-	putative membrane protein
+71401..72813	+	470	198034499	-	BCAL0058	-	-	putative ethanolamine permease
+72953..74350	+	465	198034500	eutB	BCAL0059	-	-	ethanolamine ammonia-lyase heavy chain
+74347..75144	+	265	198034501	eutC	BCAL0060	-	-	ethanolamine ammonia-lyase light chain
+75137..76021	-	294	198034502	-	BCAL0061	-	-	LysR family regulatory protein
+76174..77799	+	541	198034503	-	BCAL0062	-	-	Major Facilitator Superfamily protein
+77942..78475	-	177	198034504	-	BCAL0063	-	-	putative FMN flavoprotein
+78692..80218	+	508	198034505	acoD	BCAL0064	-	-	acetaldehyde dehydrogenase
+80395..80943	+	182	198034506	-	BCAL0065	-	-	conserved hypothetical protein
+81149..82165	+	338	198034507	-	BCAL0066	-	-	AraC family regulatory protein
+82260..83342	-	360	198034508	-	BCAL0067	-	-	conserved hypothetical protein
+83354..85057	-	567	198034509	ilvG	BCAL0068	-	-	acetolactate synthase, large subunit
+85336..85797	+	153	198034510	-	BCAL0069	-	-	conserved hypothetical protein
+85794..86078	+	94	198034511	-	BCAL0070	-	-	plasmid stabilisation system protein
+86236..87624	-	462	198034512	sdaA	BCAL0071	-	-	L-serine dehydratase I
+87655..88797	-	380	198034513	-	BCAL0072	-	-	putative membrane protein
+88949..91876	-	975	198034514	gcvP	BCAL0073	-	-	glycine dehydrogenase [decarboxylating]
+91935..92315	-	126	198034515	gcvH	BCAL0074	-	-	glycine cleavage system H protein
+92442..93560	-	372	198034516	gcvT	BCAL0075	-	-	aminomethyltransferase
+94028..94390	-	120	198034517	-	BCAL0076	-	-	putative lipoprotein
+94594..95646	-	350	198034518	-	BCAL0077	-	-	putative oxidoreductase
+97956..99110	-	384	198034557	fliC	BCAL0114	-	-	flagellin (type II)
+99641..99853	+	70	198034558	rpsU1	BCAL0115	-	-	30S ribosomal protein S21 1
+100020..102143	-	707	198034559	-	BCAL0116	-	-	putative TonB-dependent siderophore receptor
+102373..103608	+	411	198034560	-	BCAL0117	-	-	putative membrane protein
+103693..104295	-	200	198034561	tag	BCAL0118	-	-	DNA-3-methyladenine glycosylase I
+104437..105318	+	293	198034562	-	BCAL0119	-	-	BadF/BadG/BcrA/BcrD ATPase family protein
+105458..106282	+	274	198034563	-	BCAL0120	-	-	haloacid dehalogenase-like hydrolase
+106422..107165	-	247	198034564	aqpZ	BCAL0121	-	-	aquaporin Z
+107465..107761	+	98	198034565	-	BCAL0122	-	-	histone-like nucleoid-structuring (H-NS) protein
+107865..108929	-	354	198034566	-	BCAL0123	-	-	putative glycosyltransferase
+109594..109914	+	106	198034567	flhD	BCAL0124	-	-	flagellar regulon master regulator subunit FlhD
+110007..110561	+	184	198034568	flhC	BCAL0125	-	-	flagellar regulon master regulator subunit FlhC
+110742..111602	+	286	198034569	motA	BCAL0126	-	-	chemotaxis protein MotA
+111616..112635	+	339	198034570	motB	BCAL0127	-	-	chemotaxis protein MotB
+112660..113037	+	125	198034571	cheY	BCAL0128	-	-	chemotaxis two-component response regulator CheY
+113071..115338	+	755	198034572	cheA	BCAL0129	-	-	chemotaxis two-component sensor kinase CheA
+115386..115901	+	171	198034573	cheW	BCAL0130	-	-	chemotaxis protein CheW
+115939..117897	+	652	198034574	tar	BCAL0131	-	-	methyl-accepting chemotaxis protein
+117901..118893	+	330	198034575	cheR	BCAL0132	-	-	chemotaxis protein methyltransferase
+118890..119648	+	252	198034576	cheD	BCAL0133	-	-	putative chemoreceptor glutamine deamidase cheD
+119645..120736	+	363	198034577	cheB1	BCAL0134	-	-	chemotaxis response regulator protein-glutamate methylesterase 1
+120804..121199	+	131	198034578	cheY	BCAL0135	-	-	chemotaxis protein CheY
+122947..124746	+	599	198034584	-	BCAL0142	-	-	putative flagellar biosynthesis protein
+124739..125557	+	272	198034585	-	BCAL0143	-	-	putative flagellar biosynthesis protein
+125583..126314	+	243	198034586	fliA	BCAL0144	-	-	RNA polymerase sigma factor for flagellar regulon FliA
+126566..127984	+	472	198034587	ahcY	BCAL0145	-	-	adenosylhomocysteinase
+128093..128446	+	117	198034588	-	BCAL0146	-	-	putative membrane protein
+131210..132550	-	446	198034626	gudP	BCAL0184	-	-	putative glucarate transporter
+132765..133688	-	307	198034627	-	BCAL0185	-	-	LysR family regulatory protein
+133780..134511	+	243	198034628	-	BCAL0186	-	-	putative glutathione S-transferase
+134638..135270	+	210	198034629	-	BCAL0187	-	-	conserved hypothetical protein
+135286..136623	+	445	198034630	-	BCAL0188	-	-	putative dioxygenase
+136637..137803	-	388	198034631	-	BCAL0189	-	-	putative ABC transporter permease protein
+137812..138966	-	384	198034632	-	BCAL0190	-	-	putative ABC transporter permease protein
+138988..139686	-	232	198034633	-	BCAL0191	-	-	ABC transporter ATP-binding protein
+139692..140897	-	401	198034634	-	BCAL0192	-	-	transporter system transport protein
+141256..141489	+	77	198034635	-	BCAL0193	-	-	putative exported protein
+141570..142340	-	256	198034636	-	BCAL0193a	-	-	conserved hypothetical protein
+142437..143306	+	289	198034637	-	BCAL0194	-	-	putative oxidoreductase
+143380..144015	+	211	198034638	-	BCAL0195	-	-	putative amino acid transport protein
+144107..145390	-	427	198034639	-	BCAL0196	-	-	Major Facilitator Superfamily protein
+145488..146417	+	309	198034640	-	BCAL0197	-	-	LysR family regulatory protein
+146602..147438	-	278	198034641	-	BCAL0198	-	-	putative outer membrane protein
+147454..148695	-	413	198034642	-	BCAL0199	-	-	putative lipoprotein
+148844..150274	-	476	198034643	-	BCAL0200	-	-	putative lipoprotein
+150709..151659	-	316	198034644	argC	BCAL0201	-	-	N-acetyl-gamma-glutamyl-phosphate reductase
+151851..152423	-	190	198034645	-	BCAL0202	-	-	putative flavoprotein
+152638..153234	-	198	198034646	-	BCAL0203	-	-	phosphatidylethanolamine-binding protein
+153475..154161	-	228	198034647	pyrE	BCAL0204	-	-	orotate phosphoribosyltransferase
+154622..156892	+	756	198034648	-	BCAL0205	-	-	NADP-dependent malic enzyme
+157041..160631	-	1196	198034649	-	BCAL0206	-	-	putative pyruvate ferredoxin/flavodoxin oxidoreductase
+160961..161155	+	64	198034650	-	BCAL0206A	-	-	putative outer membrane protein
+162285..162560	-	91	198034715	-	BCAL0272	-	-	putative lipoprotein
+162597..162923	+	108	198034716	cyaY	BCAL0273	-	-	protein CyaY
+163002..165389	-	795	198034717	mrcA	BCAL0274	-	-	penicillin-binding protein 1A
+165616..166539	+	307	198034718	-	BCAL0275	-	-	conserved hypothetical protein
+166536..167180	+	214	198034719	-	BCAL0276	-	-	putative type IV pilus assembly protein
+167177..168043	+	288	198034720	-	BCAL0277	-	-	putative exported protein
+168040..169665	+	541	198034721	-	BCAL0278	-	-	putative type IV pilus secretin
+169706..170260	+	184	198034722	aroK	BCAL0279	-	-	shikimate kinase I
+170257..171336	+	359	198034723	aroB	BCAL0280	-	-	3-dehydroquinate synthase
+171435..172586	+	383	198034724	-	BCAL0281	-	-	putative phosphohydrolase
+172675..174009	+	444	198034725	-	BCAL0282	-	-	putative ABC transporter extracellular solute-binding protein
+174106..174990	+	294	198034726	-	BCAL0283	-	-	putative ABC transporter permease
+174987..175832	+	281	198034727	-	BCAL0284	-	-	putative ABC transporter permease
+175864..176949	+	361	198034728	-	BCAL0285	-	-	ABC transporter ATP-binding protein
+176976..177746	+	256	198034729	ugpQ	BCAL0286	-	-	glycerophosphoryl diester phosphodiesterase
+177929..178660	-	243	198034730	-	BCAL0287	-	-	putative outer membrane protein
+178854..179567	+	237	198034731	-	BCAL0288	-	-	conserved hypothetical protein
+179736..184559	+	1607	198034732	glt1	BCAL0289	-	-	glutamate synthase large subunit
+184645..186111	+	488	198034733	glt2	BCAL0290	-	-	glutamate synthase small subunit
+186487..187977	+	496	198034734	-	BCAL0291	-	-	sodium:amino acid symporter family protein
+187974..188540	+	188	198034735	-	BCAL0292	-	-	2',5' RNA ligase family protein
+188573..189856	-	427	198034736	-	BCAL0293	-	-	putative D-amino acid dehydrogenase subunit
+189882..191144	-	420	198034737	-	BCAL0294	-	-	Major Facilitator Superfamily protein
+191273..192049	-	258	198034738	-	BCAL0295	-	-	putative dehydrogenase/reductase
+192046..193815	-	589	198034739	-	BCAL0296	-	-	ABC transporter ATP-binding membrane protein
+194435..195571	+	378	198034740	thiO	BCAL0297	-	-	putative thiamine biosynthesis oxidoreductase ThiO
+195604..195801	+	65	198034741	thiS	BCAL0298	-	-	thiamine biosynthesis protein ThiS
+195840..196655	+	271	198034742	thiG	BCAL0299	-	-	thiazole biosynthesis protein ThiG
+196652..197776	+	374	198034743	thiE	BCAL0300	-	-	thiamine-phosphate pyrophosphorylase
+197861..198682	+	273	198034744	-	BCAL0301	-	-	ABC transporter ATP-binding protein
+198679..199446	+	255	198034745	-	BCAL0302	-	-	putative membrane protein
+199471..200031	+	186	198034746	-	BCAL0303	-	-	putative membrane protein
+200057..201025	+	322	198034747	-	BCAL0304	-	-	VacJ-like lipoprotein
+201137..201766	+	209	198034748	-	BCAL0305	-	-	putative exported protein
+201763..202038	+	91	198034749	-	BCAL0306	-	-	conserved hypothetical protein
+202231..203157	+	308	198034750	-	BCAL0307	-	-	ABC transporter ATP-binding protein
+203154..203975	+	273	198034751	-	BCAL0308	-	-	ABC-2 type transporter, membrane protein
+204029..204268	+	79	198034752	-	BCAL0309	-	-	BolA-like protein
+204283..205632	+	449	198034753	murA	BCAL0310	-	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+205629..206282	+	217	198034754	hisG	BCAL0311	-	-	ATP phosphoribosyltransferase
+206307..207623	+	438	198034755	hisD	BCAL0312	-	-	histidinol dehydrogenase
+207722..208795	+	357	198034756	hisC	BCAL0313	-	-	histidinol-phosphate aminotransferase
+208861..209448	+	195	198034757	hisB	BCAL0314	-	-	imidazoleglycerol-phosphate dehydratase
+209510..210130	+	206	198034758	-	BCAL0315	-	-	MarC-family integral membrane protein
+210127..210768	+	213	198034759	hisH	BCAL0316	-	-	imidazole glycerol phosphate synthase subunit HisH
+210932..211687	+	251	198034760	hisA	BCAL0317	-	-	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+211794..212567	+	257	198034761	hisF	BCAL0318	-	-	imidazole glycerol phosphate synthase subunit HisF
+212567..212983	+	138	198034762	hisI	BCAL0319	-	-	phosphoribosyl-AMP cyclohydrolase
+212980..213345	+	121	198034763	hisE	BCAL0320	-	-	phosphoribosyl-ATP pyrophosphatase
+213416..213808	+	130	198034764	-	BCAL0321	-	-	putative membrane protein
+213840..214205	+	121	198034765	-	BCAL0322	-	-	conserved hypothetical protein
+214299..214529	+	76	198034766	tatA	BCAL0323	-	-	Sec-independent protein translocase protein TatA
+214556..215095	+	179	198034767	tatB	BCAL0324	-	-	Sec-independent protein translocase protein TatB
+215137..215925	+	262	198034768	tatC	BCAL0325	-	-	Sec-independent protein translocase protein TatC
+216135..217340	-	401	198034769	-	BCAL0326	-	-	serine peptidase, subfamily S1B
+217362..218108	+	248	198034770	-	BCAL0327	-	-	conserved hypothetical protein
+218327..218947	+	206	198034771	petA	BCAL0328	-	-	ubiquinol-cytochrome c reductase iron-sulfur subunit
+218947..220329	+	460	198034772	petB	BCAL0329	-	-	cytochrome b
+220351..221109	+	252	198034773	petC	BCAL0330	-	-	cytochrome c1 precursor
+221204..221815	+	203	198034774	-	BCAL0331	-	-	putative stringent starvation protein A
+221884..222408	+	174	198034775	-	BCAL0332	-	-	putative stringent starvation protein B
+222857..223060	+	67	198034776	-	BCAL0333	-	-	conserved hypothetical protein
+225149..225652	+	167	198034786	-	BCAL0343	-	-	putative type VI secretion system protein TssD
+225715..226200	+	161	198034787	-	BCAL0344	-	-	putative type VI secretion system protein TssE
+226277..228112	+	611	198034788	-	BCAL0345	-	-	putative type VI secretion system protein TssF
+228076..229176	+	366	198034789	-	BCAL0346	-	-	putative type VI secretion system protein TssG
+229218..231887	+	889	198034790	clpB	BCAL0347	-	-	putative type VI secretion system protein TssH
+231932..233053	+	373	198034791	-	BCAL0348	-	-	putative type VI secretion system protein TssA
+233147..234097	-	316	198034792	-	BCAL0349	-	-	putative outer membrane protein
+234102..235091	-	329	198034793	-	BCAL0350	-	-	conserved hypothetical protein
+235088..239032	-	1314	198034794	-	BCAL0351	-	-	putative type VI secretion system protein TssM
+239334..240179	-	281	198034795	-	BCAL0352	-	-	metallo peptidase, subfamily M15C
+240301..241293	+	330	198034796	-	BCAL0353	-	-	putative membrane protein
+241505..242533	+	342	198034797	-	BCAL0354	-	-	putative cation transporter
+242738..243715	-	325	198034798	-	BCAL0356	-	-	putative quinone oxidoreductase
+243841..244797	+	318	198034799	-	BCAL0357	-	-	LysR family regulatory protein
+244920..247088	-	722	198034800	-	BCAL0358	-	-	metallo peptidase, family M1
+247731..248225	+	164	198034801	-	BCAL0359	-	-	putative lipoprotein
+248380..248712	+	110	198034802	-	BCAL0360	-	-	conserved hypothetical protein
+248850..249983	+	377	198034803	-	BCAL0361	-	-	putative methyltransferase
+250073..250963	+	296	198034804	-	BCAL0362	-	-	conserved hypothetical protein
+251024..251596	-	190	198034805	-	BCAL0363	-	-	conserved hypothetical protein
+251673..252293	-	206	198034806	-	BCAL0364	-	-	TetR family regulatory protein
+253069..253602	-	177	384076126	ssuE2	SMD_0100	-	-	NADPH:quinone oxidoreductase
+253682..254509	-	275	384076127	-	SMD_0101	-	-	hypothetical protein
+254583..255377	-	264	384076128	-	SMD_0102	-	-	Undecaprenyl-diphosphatase
+255600..257009	+	469	384076129	glnA	SMD_0103	-	-	Glutamine synthetase type I
+257325..257669	+	114	384076130	glnB	SMD_0104	-	-	Nitrogen regulatory protein P-II
+259184..260683	-	499	384076135	-	SMD_0110	-	-	ISStmaD3 transposase A
+261718..262779	+	353	384076136	glnL	SMD_0112	-	-	Two-component system sensor protein
+262772..264220	+	482	384076137	glnG	SMD_0113	-	-	Nitrogen regulation protein NR(I)
+264314..264883	+	189	384076138	sodC	SMD_0114	-	-	Superoxide dismutase [Cu-Zn]
+265159..265566	-	135	384076181	-	SMD_0161	-	-	putative membrane protein
+265814..267850	-	678	384076182	tolA	SMD_0162	-	-	TolA protein
+267915..268685	-	256	384076183	-	SMD_0163	-	-	hypothetical protein
+269073..269504	-	143	384076184	-	SMD_0164	-	-	ISStmaD2 Transposase B
+269491..269865	-	124	384076185	-	SMD_0165	-	-	ISStmaD2 Transposase A
+269911..270549	-	212	384076186	-	SMD_0166	-	-	two component transcriptional regulator, LuxR family
+270625..274224	+	1199	384076187	-	SMD_0167	-	-	hypothetical protein
+274218..274619	-	133	384076188	-	SMD_0168	-	-	Cytochrome c
+274685..276370	-	561	384076189	-	SMD_0169	-	-	Electron transfer flavoprotein-ubiquinone oxidoreductase
+276619..277782	+	387	384076190	GCDH	SMD_0170	-	-	Glutaryl-CoA dehydrogenase
+278651..279130	-	159	384076191	cspR	SMD_0171	-	-	tRNA (cytosine34-2'-O-)-methyltransferase
+279200..279676	-	158	384076192	-	SMD_0172	-	-	hypothetical protein
+280093..282942	+	949	384076193	-	SMD_0173	-	-	zinc protease
+283157..283474	+	105	384076194	-	SMD_0174	-	-	hypothetical protein
+283578..284594	+	338	384076195	fabH	SMD_0175	-	-	3-oxoacyl-[acyl-carrier-protein] synthase,KASIII in hypothetical gene cluster
+284735..285625	+	296	384076196	dhaA	SMD_0176	-	-	Hydrolase, alpha/beta fold family protein, in hypothetical gene cluster
+285737..286153	-	138	384076197	-	SMD_0177	-	-	Ferredoxin
+286210..287931	+	573	384076198	-	SMD_0178	-	-	Acyl-CoA synthetase (AMP-forming)/AMP-acid ligase/Peptide synthase
+287928..288920	+	330	384076199	-	SMD_0179	-	-	3-beta hydroxysteroid dehydrogenase/isomerase family protein in hypothetical gene cluster
+289234..290328	-	364	384076200	ddlA	SMD_0180	-	-	D-alanine--D-alanine ligase
+290797..291432	+	211	384076201	-	SMD_0181	-	-	Protein YigP (COG3165) clustered with ubiquinone biosynthetic genes
+291429..293084	+	551	384076202	ubiB	SMD_0182	-	-	Ubiquinone biosynthesis monooxygenase UbiB
+293137..293922	-	261	384076203	yaiO	SMD_0183	-	-	Putative uncharacterized protein YaiO
+293927..294508	-	193	384076204	-	SMD_0184	-	-	Glucose-1-phosphate thymidylyltransferase
+294519..295658	-	379	384076205	-	SMD_0185	-	-	Glycosyltransferase
+295658..296269	-	203	384076206	-	SMD_0186	-	-	Uncharacterized proteins, LmbE homologs
+296436..297023	+	195	384076207	-	SMD_0187	-	-	O-methyltransferase
+297108..297851	+	247	384076208	truC	SMD_0188	-	-	tRNA pseudouridine synthase C
+297922..298449	-	175	384076209	-	SMD_0189	-	-	hypothetical protein
+298584..299015	+	143	384076210	yaeJ	SMD_0190	-	-	Hypothetical protein YaeJ with similarity to translation release factor
+299020..299622	+	200	384076211	-	SMD_0191	-	-	Acyltransferase
+299733..301889	+	718	384076212	dcp	SMD_0192	-	-	Dipeptidyl carboxypeptidase Dcp
+302036..302482	-	148	384076213	-	SMD_0193	-	-	3-dehydroquinate dehydratase
+302486..302887	-	133	384076214	-	SMD_0194	-	-	hypothetical protein
+303163..303789	+	208	384076215	lepB2	SMD_0195	-	-	Signal peptidase I
+303913..305169	+	418	384076216	-	SMD_0196	-	-	Permeases of the major facilitator superfamily
+305288..306196	-	302	384076217	-	SMD_0197	-	-	LysR family transcriptional regulator YnfL
+306543..307511	-	322	384076218	-	SMD_0198	-	-	transcriptional regulator, LysR family
+307622..309244	+	540	384076219	mls	SMD_0199	-	-	Malate synthase
+309309..310610	+	433	384076220	aceA	SMD_0200	-	-	Isocitrate lyase
+311097..312083	+	328	384076221	-	SMD_0201	-	-	cAMP-binding proteins-catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases
+312097..314586	+	829	384076222	-	SMD_0202	-	-	Adenylate cyclase
+314594..314887	-	97	384076223	-	SMD_0203	-	-	hypothetical protein
+315026..316192	+	388	384076224	-	SMD_0204	-	-	NADH oxidase
+316212..318194	-	660	384076225	-	SMD_0205	-	-	Methylcrotonyl-CoA carboxylase biotin-containing subunit
+318236..319846	-	536	384076226	-	SMD_0206	-	-	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit
+319857..321020	-	387	384076227	ivd	SMD_0207	-	-	Isovaleryl-CoA dehydrogenase
+321180..321797	+	205	384076228	-	SMD_0208	-	-	Predicted transcriptional regulator LiuX of leucine degradation pathway, AcrR family
+322045..322524	+	159	384076229	-	SMD_0209	-	-	cytochrome C5
+322733..324178	+	481	384076230	-	SMD_0210	-	-	Nuclease
+324301..325158	-	285	384076231	-	SMD_0211	-	-	integral membrane protein
+325202..325873	+	223	384076232	-	SMD_0212	-	-	Alpha/beta hydrolase
+325870..326970	+	366	384076233	-	SMD_0213	-	-	ATPase
+328953..329558	+	201	198034808	-	BCAL0366	-	-	nitroreductase family protein
+329748..330998	+	416	198034809	-	BCAL0367	-	-	putative chaperone protein
+331100..331303	-	67	198034810	cspD	BCAL0368	-	-	cold shock-like protein CspD
+331724..333322	+	532	198034811	-	BCAL0369	-	-	putative amino acid permease
+333434..334225	-	263	198034812	-	BCAL0370	-	-	putative dioxygenase subunit
+334428..335024	-	198	198034813	-	BCAL0371	-	-	putative aromatic acid decarboxylase
+335049..335360	-	103	198034814	-	BCAL0372	-	-	putative glutaredoxin
+335428..336270	-	280	198034815	hemK	BCAL0373	-	-	protein methyltransferase HemK
+336278..337360	-	360	198034816	prfA	BCAL0374	-	-	peptide chain release factor 1
+340128..340436	-	102	198034824	-	BCAL0381	-	-	putative lipoprotein
+340526..341443	-	305	198034825	-	BCAL0382	-	-	LysR family regulatory protein
+341613..342905	+	430	198034826	-	BCAL0383	-	-	Major Facilitator Superfamily protein
+342987..343334	+	115	198034827	-	BCAL0384	-	-	conserved hypothetical protein
+343711..345102	+	463	198034828	-	BCAL0385	-	-	putative amino acid permease
+345356..346567	+	403	198034829	-	BCAL0386	-	-	putative exported metallo-beta-lactamase superfamily protein
+346641..347735	-	364	198034830	-	BCAL0387	-	-	putative GTP-binding protein
+347982..349160	+	392	198034831	-	BCAL0388	-	-	putative monooxygenase
+349251..349979	+	242	198034832	dsbC	BCAL0389	-	-	thiol:disulfide interchange protein DsbC
+350085..351884	+	599	198034833	-	BCAL0390	-	-	metallo peptidase, family M61
+352032..352628	+	198	198034834	acpD	BCAL0391	-	-	acyl carrier protein phosphodiesterase
+352743..353267	+	174	198034835	-	BCAL0392	-	-	putative transposase
+353267..354103	+	278	198034836	-	BCAL0393	-	-	putative transposase
+354197..355057	-	286	198034837	ung	BCAL0394	-	-	uracil-DNA glycosylase
+355128..355754	-	208	198034838	-	BCAL0395	-	-	putative adenylate cyclase
+355754..356539	-	261	198034839	trpC	BCAL0396	-	-	indole-3-glycerol phosphate synthase
+356568..357599	-	343	198034840	trpD	BCAL0397	-	-	anthranilate phosphoribosyltransferase
+357613..358212	-	199	198034841	trpG	BCAL0398	-	-	anthranilate synthase component II
+358226..359719	-	497	198034842	trpE	BCAL0399	-	-	anthranilate synthase component I
+361168..362259	+	363	198034876	-	BCAL0437	-	-	O6-methylguanine-DNA methyltransferase
+362256..363215	+	319	198034877	-	BCAL0438	-	-	putative DNA-3-methyladenine glycosylase II
+364106..364972	+	288	198034898	-	BCAL0459	-	-	putative patatin-like phospholipase
+365021..366034	-	337	198034899	-	BCAL0460	-	-	D-isomer specific 2-hydroxyacid dehydrogenase
+366462..367511	+	349	198034900	-	BCAL0461	-	-	LysR family regulatory protein
+367643..370240	-	865	198034901	-	BCAL0462	-	-	putative DNA topoisomerase III
+370433..370813	-	126	198034902	-	BCAL0463	-	-	putative thioredoxin
+370850..372163	-	437	198034903	-	BCAL0464	-	-	SMF family protein
+372349..372852	+	167	198034904	def	BCAL0465	-	-	peptide deformylase
+372887..373879	+	330	198034905	fmt	BCAL0466	-	-	methionyl-tRNA formyltransferase
+374000..374641	+	213	198034906	-	BCAL0467	-	-	putative LysE type translocator protein
+374741..375598	+	285	198034907	-	BCAL0468	-	-	metallo peptidase, subfamily M48B
+375819..377210	+	463	198034908	rsmB	BCAL0469	-	-	ribosomal RNA small subunit methyltransferase B
+377207..377797	+	196	198034909	-	BCAL0470	-	-	putative exported protein
+377838..380201	+	787	198034910	-	BCAL0471	-	-	two-component regulatory system, sensor kinase protein
+380202..380903	+	233	198034911	-	BCAL0472	-	-	two-component regulatory system, response regulator protein
+381391..382125	+	244	198034912	-	BCAL0473	-	-	putative putative transcriptional regulator
+382201..382833	+	210	198034913	-	BCAL0474	-	-	conserved hypothetical protein
+382852..383304	+	150	198034914	-	BCAL0475	-	-	putative 6-pyruvoyl tetrahydropterin synthase
+383631..384416	+	261	198034915	-	BCAL0476	-	-	HpcH/HpaI aldolase/citrate lyase family protein
+384413..385165	+	250	198034916	-	BCAL0477	-	-	conserved hypothetical protein
+385244..386392	-	382	198034917	rodA	BCAL0478	-	-	rod shape-determining protein
+386404..388536	-	710	198034918	mrdA	BCAL0479	-	-	penicillin-binding protein
+388638..389150	-	170	198034919	-	BCAL0480	-	-	putative rod shape-determining protein
+389147..390211	-	354	198034920	-	BCAL0481	-	-	putative rod shape-determining protein
+390350..391393	-	347	198034921	mreB	BCAL0482	-	-	putative rod shape-determining protein
+391761..392060	+	99	198034922	gatC	BCAL0483	-	-	glutamyl-tRNA amidotransferase subunit C
+392130..393620	+	496	198034923	gatA	BCAL0484	-	-	glutamyl-tRNA amidotransferase subunit A
+393625..395100	+	491	198034924	gatB	BCAL0485	-	-	glutamyl-tRNA amidotransferase subunit B
+395219..396058	+	279	198034925	-	BCAL0486	-	-	putative polyphosphate kinase
+396099..396872	+	257	198034926	-	BCAL0487	-	-	endonuclease/exonuclease/phosphatase family protein
+396980..398032	-	350	198034927	-	BCAL0488	-	-	putative alcohol dehydrogenase
+398259..399203	+	314	198034928	-	BCAL0489	-	-	AraC family regulatory protein
+399226..400266	-	346	198034929	-	BCAL0490	-	-	peptidase, family M48
+400256..401677	-	473	198034930	-	BCAL0491	-	-	Major Facilitator Superfamily protein
+401794..402402	-	202	198034931	metW	BCAL0492	-	-	methionine biosynthesis protein MetW
+402399..403544	-	381	198034932	metX	BCAL0493	-	-	putative homoserine O-acetyltransferase
+403811..404476	-	221	198034933	-	BCAL0494	-	-	TetR family regulatory protein
+404443..405234	-	263	198034934	-	BCAL0495	-	-	haloacid dehalogenase-like hydrolase
+405231..406130	-	299	198034935	argB	BCAL0496	-	-	putative acetylglutamate kinase
+406741..408171	+	476	198034936	-	BCAL0497	-	-	two-component regulatory system, sensor kinase protein
+408185..408727	+	180	198034937	-	BCAL0499	-	-	two-component regulatory system, response regulator protein
+408795..410138	-	447	198034938	hslU	BCAL0500	-	-	ATP-dependent protease ATP-binding subunit HslU
+410148..410684	-	178	198034939	hslV	BCAL0501	-	-	ATP-dependent protease HslV
+410921..411337	-	138	198034940	-	BCAL0502	-	-	DksA/TraR C4-type zinc finger family protein
+411832..412911	-	359	198034941	-	BCAL0503	-	-	putative cobalamin synthesis protein
+413104..414318	-	404	198034942	-	BCAL0504	-	-	conserved hypothetical protein
+414395..415315	-	306	198034943	xerC	BCAL0505	-	-	tyrosine recombinase XerC
+415329..416078	-	249	198034944	-	BCAL0506	-	-	conserved hypothetical protein
+416092..417021	-	309	198034945	dapF	BCAL0507	-	-	diaminopimelate epimerase
+417318..418202	-	294	198034946	-	BCAL0508	-	-	putative lipid A biosynthesis acyltransferase
+418468..419655	+	395	198034947	metK	BCAL0509	-	-	S-adenosylmethionine synthetase
+419767..420108	-	113	198034948	-	BCAL0510	-	-	conserved hypothetical protein
+420461..421234	+	257	198034949	-	BCAL0511	-	-	putative deoxygenases
+421395..421601	-	68	198034950	-	BCAL0512	-	-	putative membrane protein
+421795..422838	+	347	198034951	-	BCAL0513	-	-	aldo/keto reductase family protein
+422945..423130	-	61	198034952	-	BCAL0514	-	-	putative membrane protein
+423484..424371	-	295	198034953	-	BCAL0515	-	-	putative membrane protein
+425180..425392	+	70	198034954	-	BCAL0516	-	-	conserved hypothetical protein
+425449..426471	+	340	198034955	-	BCAL0517	-	-	hosphotransferase enzyme family protein
+426538..427980	-	480	198034956	calB	BCAL0518	-	-	putative coniferyl aldehyde dehydrogenase
+428707..430347	+	546	198034957	-	BCAL0519	-	-	putative GMC oxidoreductase
+430377..431735	-	452	198034958	fliK	BCAL0520	-	-	putative flagellar hook-length control protein FliK
+431767..432225	-	152	198034959	fliJ	BCAL0521	-	-	flagellar FliJ protein
+432231..433736	-	501	198034960	fliI	BCAL0522	-	-	flagellum-specific ATP synthase FliI
+433769..434452	-	227	198034961	fliH	BCAL0523	-	-	flagellar assembly protein FliH
+434445..435440	-	331	198034962	fliG	BCAL0524	-	-	flagellar motor switch protein FliG
+435430..437193	-	587	198034963	fliF	BCAL0525	-	-	flagellar M-ring protein FliF
+437442..437786	+	114	198034964	fliE	BCAL0526	-	-	flagellar hook-basal body complex protein FliE
+438026..438460	+	144	198034965	fliS	BCAL0527	-	-	flagellar protein FliS
+438457..438789	+	110	198034966	-	BCAL0528	-	-	conserved hypothetical protein
+438922..440274	+	450	198034967	-	BCAL0529	-	-	conserved hypothetical protein
+440271..440588	+	105	198034968	-	BCAL0530	-	-	putative export system protein
+440858..441592	+	244	198034969	-	BCAL0531	-	-	putative membrane protein
+441650..442675	-	341	198034970	-	BCAL0532	-	-	conserved hypothetical protein
+442927..444333	-	468	198034971	-	BCAL0533	-	-	putative amino-acid transporter transmembrane protein
+444549..445205	-	218	198034972	-	BCAL0534	-	-	two-component regulatory system, response regulator protein
+445213..446028	-	271	198034973	-	BCAL0535	-	-	sensor kinase protein
+446444..447214	-	256	198034974	fpr	BCAL0536	-	-	ferredoxin--NADP reductase
+447523..448338	-	271	198034975	-	BCAL0537	-	-	endonuclease/exonuclease/phosphatase family protein
+448344..448832	-	162	198034976	-	BCAL0538	-	-	putative exported protein
+448979..449707	-	242	198034977	-	BCAL0539	-	-	putative nitroreductase/p-nitrobenzoate reductase
+449957..450937	+	326	198034978	-	BCAL0540	-	-	putative ATPase
+451114..452223	+	369	198034979	-	BCAL0541	-	-	putative FAD dependent oxidoreductase
+452384..452695	+	103	198034980	-	BCAL0542	-	-	putative iron-sulfur protein
+452887..454194	+	435	198034981	-	BCAL0543	-	-	Major Facilitator Superfamily protein
+454516..456144	+	542	198034982	dppA	BCAL0544	-	-	putative periplasmic dipeptide transport protein
+456255..457265	+	336	198034983	dppB	BCAL0545	-	-	putative dipeptide transport system permease protein
+457270..458187	+	305	198034984	dppC	BCAL0546	-	-	putative dipeptide transport system permease protein
+458226..459188	+	320	198034985	dppD	BCAL0547	-	-	putative dipeptide ABC transporter ATP-binding protein
+459185..460198	+	337	198034986	dppF	BCAL0548	-	-	putative dipeptide ABC transporter ATP-binding protein
+460428..461336	+	302	198034987	-	BCAL0549	-	-	putative exported protein
+461895..462713	-	272	198034988	-	BCAL0550	-	-	LamB/YcsF family protein
+462716..463783	-	355	198034989	-	BCAL0551	-	-	allophanate hydrolase subunit 2
+463780..464436	-	218	198034990	-	BCAL0552	-	-	allophanate hydrolase subunit 1
+464583..465095	+	170	198034991	-	BCAL0553	-	-	MarR family regulatory protein
+465171..465767	-	198	198034992	-	BCAL0554	-	-	5-formyltetrahydrofolate cyclo-ligase family protein
+465788..467740	+	650	198034993	-	BCAL0555	-	-	putative transglycosylase
+467791..468750	+	319	198034994	-	BCAL0556	-	-	NAD dependent epimerase/dehydratase family protein
+468813..469460	+	215	198034995	-	BCAL0557	-	-	putative glutathione S-transferase
+469457..470698	+	413	198034996	cca	BCAL0558	-	-	tRNA nucleotidyltransferase
+470738..471520	-	260	198034997	-	BCAL0559	-	-	putative DNA-binding protein
+471896..473746	+	616	198034998	-	BCAL0560	-	-	subfamily M24B unassigned peptidase
+473796..474236	-	146	198034999	flgN	BCAL0561	-	-	flagella synthesis protein FlgN
+474315..474641	-	108	198035000	flgM	BCAL0562	-	-	negative regulator of flagellin synthesis (anti-sigma-28 factor)
+474759..475970	-	403	198035001	flgA	BCAL0563	-	-	putative flagellar basal body P-ring formation protein FlgA
+476175..476663	+	162	198035002	flgB	BCAL0564	-	-	flagellar basal-body rod protein FlgB (putative proximal rod protein)
+476702..477127	+	141	198035003	flgC	BCAL0565	-	-	flagellar basal-body rod protein FlgC (putative proximal rod protein)
+477225..477929	+	234	198035004	flgD	BCAL0566	-	-	basal-body rod modification protein FlgD
+477957..479198	+	413	198035005	flgE1	BCAL0567	-	-	flagellar hook protein 1 FlgE1
+479218..479976	+	252	198035006	flgF	BCAL0568	-	-	flagellar basal-body rod protein FlgF (putative proximal rod protein)
+480011..480799	+	262	198035007	flgG	BCAL0569	-	-	flagellar basal-body rod protein FlgG (distal rod protein)
+480820..481509	+	229	198035008	flgH	BCAL0570	-	-	flagellar L-ring protein precursor (basal body L-ring protein)
+481503..482699	+	398	198035009	flgI	BCAL0571	-	-	flagellar P-ring protein precursor (basal body P-ring protein)
+484335..485171	-	278	198035027	-	BCAL0590	-	-	putative integrase
+485171..485698	-	175	198035028	-	BCAL0591	-	-	putative transposase
+485794..487095	-	433	198035029	-	BCAL0592	-	-	putative oxidoreductase
+487121..488425	-	434	198035030	-	BCAL0593	-	-	putative oxidoreductase
+488523..490112	-	529	198035031	-	BCAL0594	-	-	putative exported protein
+490228..491067	-	279	198035032	potI	BCAL0595	-	-	putrescine transport system permease protein
+491064..492017	-	317	198035033	potH	BCAL0596	-	-	putrescine ABC transport system, permease protein
+492061..493215	-	384	198035034	potG	BCAL0597	-	-	putrescine ABC transporter ATP-binding protein
+493404..494564	-	386	198035035	potF	BCAL0598	-	-	putrescine ABC transport system, binding exported protein
+494583..496025	-	480	198035036	-	BCAL0599	-	-	putative aminotransferase
+497734..499095	-	453	198035049	glmU	BCAL0612	-	-	bifunctional glmU protein [includes: UDP-N-acetylglucosamine pyrophosphorylase; glucosamine-1-phosphate N-acetyltransferase]
+499231..500196	-	321	198035050	-	BCAL0613	-	-	conserved hypothetical protein
+500208..500612	-	134	198035051	-	BCAL0614	-	-	conserved hypothetical protein
+501301..502491	+	396	198035052	-	BCAL0616	-	-	conserved hypothetical protein
+502505..502699	+	64	198035053	-	BCAL0616a	-	-	putative membrane protein
+502754..502975	-	73	198035054	-	BCAL0617	-	-	conserved hypothetical protein
+503085..503993	-	302	198035055	-	BCAL0618	-	-	PfkB family carbohydrate kinase
+503990..505264	-	424	198035056	-	BCAL0619	-	-	putative N-acylglucosamine 2-epimerase
+505267..506286	-	339	198035057	-	BCAL0620	-	-	LacI family regulatory protein
+506669..508513	-	614	198035058	-	BCAL0621	-	-	putative cyclic-di-GMP signaling protein
+508720..509751	-	343	198035059	-	BCAL0622	-	-	putative sodium bile acid symporter family protein
+510107..510589	+	160	198035060	-	BCAL0623	-	-	putative exported protein
+510935..512011	+	358	198035061	-	BCAL0624	-	-	putative outer membrane porin protein precursor
+512195..513157	+	320	198035062	-	BCAL0625	-	-	LysR family regulatory protein
+513273..514232	-	319	198035063	-	BCAL0626	-	-	putative 2-nitropropane dioxygenase
+514472..515368	+	298	198035064	-	BCAL0627	-	-	putative hydrolase
+515430..515921	-	163	198035065	-	BCAL0628	-	-	AsnC family regulatory protein
+516034..516936	+	300	198035066	-	BCAL0629	-	-	putative membrane protein
+517189..517395	-	68	198035067	-	BCAL0629a	-	-	conserved hypothetical protein
+517392..517898	-	168	198035068	-	BCAL0630	-	-	conserved hypothetical protein
+517925..518857	-	310	198035069	-	BCAL0631	-	-	putative hydroxymethylglutaryl-CoA lyase
+520453..521067	-	204	198035084	-	BCAL0647	-	-	putative glutathione S-transferase
+523711..527283	+	1190	198035085	-	BCAL0650	-	-	putative pyruvate-flavodoxin oxidoreductase
+527376..529145	-	589	198035086	-	BCAL0651	-	-	sodium/hydrogen exchanger family protein
+530954..531673	-	239	198035100	bioD	BCAL0665	-	-	dethiobiotin synthetase
+531670..532854	-	394	198035101	bioF	BCAL0666	-	-	8-amino-7-oxononanoate synthase
+532851..534197	-	448	198035102	bioA	BCAL0667	-	-	putative adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+534677..535948	-	423	198035103	-	BCAL0668	-	-	serine peptidase, family S9 unassigned
+536055..536489	-	144	198035104	-	BCAL0669	-	-	conserved hypothetical protein
+536528..537205	-	225	198035105	-	BCAL0670	-	-	putative short chain dehydrogenase
+537317..538084	-	255	198035106	-	BCAL0671	-	-	putative carbonic anhydrase
+538141..540000	-	619	198035107	-	BCAL0672	-	-	putative isocitrate dehydrogenase kinase/phosphatase
+540263..541342	+	359	198035108	-	BCAL0673	-	-	metallo-beta-lactamase superfamily protein
+541362..543005	-	547	198035109	-	BCAL0674	-	-	ABC transporter ATP-binding protein
+543198..544793	-	531	198035110	-	BCAL0675	-	-	extracellular solute-binding protein
+545145..545918	-	257	198035111	-	BCAL0676	-	-	putative short chain dehydrogenase
+545938..546576	-	212	198035112	dsbA	BCAL0677	-	-	thiol:disulfide interchange protein
+546647..547474	-	275	198035113	-	BCAL0678	-	-	putative membrane protein
+547645..549426	-	593	198035114	argS	BCAL0679	-	-	putative arginyl-tRNA synthetase
+549627..549950	+	107	198035115	-	BCAL0680	-	-	conserved hypothetical protein
+550063..552780	-	905	198035116	metH1	BCAL0681	-	-	putative 5-methyltetrahydrofolate--homocysteine methyltransferase
+552823..553890	-	355	198035117	metH2	BCAL0682	-	-	putative 5-methyltetrahydrofolate--homocysteine methyltransferase
+554093..554350	-	85	198035118	-	BCAL0683	-	-	conserved hypothetical protein
+554609..555910	-	433	198035119	-	BCAL0684	-	-	putative exported protein
+555974..556840	-	288	198035120	-	BCAL0685	-	-	IclR family regulatory protein
+556969..557961	+	330	198035121	-	BCAL0686	-	-	fumarylacetoacetate (FAA) hydrolase family protein
+558094..558921	+	275	198035122	-	BCAL0687	-	-	enoyl-CoA hydratase/isomerase family protein
+559003..559746	+	247	198035123	-	BCAL0688	-	-	conserved hypothetical protein
+559771..560997	+	408	198035124	-	BCAL0689	-	-	putative patatin-like phospholipase
+561463..562341	+	292	198035125	-	BCAL0690	-	-	conserved hypothetical protein
+562503..562988	+	161	198035126	-	BCAL0691	-	-	putative cytidylyltransferase
+563005..563247	-	80	198035127	-	BCAL0692	-	-	putative exported protein
+563445..564245	-	266	198035128	-	BCAL0693	-	-	Bordetella pertussis Bvg accessory factor family protein
+564242..565162	-	306	198035129	-	BCAL0694	-	-	putative biotin ligase
+565443..566288	-	281	198035130	-	BCAL0695	-	-	putative membrane protein
+566297..568366	-	689	198035131	cpdB	BCAL0696	-	-	putative 2',3'-cyclic-nucleotide 2'-phosphodiesterase precursor
+568737..569861	+	374	198035132	-	BCAL0697	-	-	putative membrane protein
+569858..570772	+	304	198035133	-	BCAL0698	-	-	ABC transporter ATP-binding protein
+570790..571719	+	309	198035134	-	BCAL0699	-	-	mce related protein
+571803..572426	+	207	198035135	-	BCAL0700	-	-	putative lipoprotein
+572446..573597	+	383	198035136	-	BCAL0701	-	-	putative membrane protein
+573752..574069	+	105	198035137	-	BCAL0702	-	-	putative ferredoxin
+574083..574727	+	214	198035138	-	BCAL0703	-	-	serine peptidase, family S9 unassigned
+575236..576546	+	436	198035139	-	BCAL0704	-	-	D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein precursor)
+576595..577521	+	308	198035140	-	BCAL0705	-	-	putative D-amino acid aminotransferase
+577521..577829	+	102	198035141	-	BCAL0706	-	-	conserved hypothetical protein
+577853..578842	-	329	198035142	-	BCAL0707	-	-	LysR family regulatory protein
+578945..579271	+	108	198035143	-	BCAL0708	-	-	conserved hypothetical protein
+579450..580112	+	220	198035144	lipB	BCAL0709	-	-	putative lipoate-protein ligase B
+580105..581097	+	330	198035145	lipA	BCAL0710	-	-	lipoic acid synthetase
+581358..582374	+	338	198035146	tauA	BCAL0711	-	-	periplasmic component of taurine ABC transporter
+582413..583210	+	265	198035147	tauB	BCAL0712	-	-	taurine ABC transporter ATP-binding protein
+583282..584172	+	296	198035148	tauC	BCAL0713	-	-	permease component of taurine ABC transporter
+587698..588963	+	421	198035157	dctA	BCAL0722	-	-	C4-dicarboxylate transport protein
+588968..590977	+	669	198035158	dctB	BCAL0723	-	-	two-component regulatory system, sensor kinase protein
+591065..592417	+	450	198035159	dctD	BCAL0724	-	-	C4-dicarboxylate transport transcriptional regulatory protein
+592517..593053	-	178	198035160	-	BCAL0725	-	-	putative thiol-disulfide oxidoreductase
+593235..593783	+	182	198035161	-	BCAL0726	-	-	putative lipoprotein
+594116..595720	-	534	198035162	-	BCAL0727	-	-	putative magnesium chelatase subunit
+595985..596236	-	83	198035163	-	BCAL0728	-	-	conserved hypothetical protein
+596592..596930	+	112	198035164	glnB1	BCAL0729	-	-	nitrogen regulatory protein P-II 1
+596995..598479	+	494	198035165	-	BCAL0730	-	-	ammonium transporter family protein
+598723..600012	+	429	198035166	gshA	BCAL0731	-	-	glutamate--cysteine ligase
+600038..600994	+	318	198035167	gshB	BCAL0732	-	-	glutathione synthetase
+601232..601702	+	156	198035168	-	BCAL0734	-	-	sugar transport PTS system IIa component
+601776..602045	+	89	198035169	ptsH	BCAL0735	-	-	phosphocarrier protein HPr
+602247..604019	+	590	198035170	-	BCAL0736	-	-	putative phosphoenolpyruvate-protein phosphotransferase
+604087..604839	-	250	198035171	-	BCAL0737	-	-	putative molybdopterin biosynthesis protein
+604944..606497	-	517	198035172	-	BCAL0738	-	-	C-terminal processing protease-3
+606754..607500	-	248	198035173	gpmA	BCAL0739	-	-	phosphoglycerate mutase
+607637..608059	+	140	198035174	-	BCAL0740	-	-	putative exported protein
+608056..608316	+	86	198035175	grxC	BCAL0741	-	-	glutaredoxin 3
+608424..608915	+	163	198035176	secB	BCAL0742	-	-	protein-export protein SecB
+608941..609939	+	332	198035177	gpsA	BCAL0743	-	-	putative glycerol-3-phosphate dehydrogenase [NAD(P)+]
+610032..610556	+	174	198035178	-	BCAL0744	-	-	Appr-1-p processing enzyme family protein
+610584..611054	-	156	198035179	-	BCAL0745	-	-	SpoU rRNA methylase family protein
+611157..611927	-	256	198035180	-	BCAL0746	-	-	conserved hypothetical protein
+612036..613001	+	321	198035181	-	BCAL0747	-	-	putative methyltransferase
+613236..613721	+	161	198035182	-	BCAL0748	-	-	putative membrane protein
+613802..615376	+	524	198035183	-	BCAL0749	-	-	putative cytochrome c oxidase
+615420..617027	+	535	198035184	ctaD	BCAL0750	-	-	cytochrome c oxidase polypeptide I
+617108..617248	+	46	198035185	-	BCAL0751	-	-	putative membrane protein
+617284..617895	+	203	198035186	-	BCAL0752	-	-	putative cytochrome c oxidase assembly protein
+617912..618112	+	66	198035187	-	BCAL0753	-	-	putative membrane protein
+618271..619128	+	285	198035188	-	BCAL0754	-	-	putative cytochrome c oxidase subunit III
+619303..619512	-	69	198035189	-	BCAL0755	-	-	putative membrane protein
+619597..620307	+	236	198035190	-	BCAL0756	-	-	putative membrane protein
+620368..620994	+	208	198035191	-	BCAL0757	-	-	putative membrane protein
+621020..622132	+	370	198035192	-	BCAL0758	-	-	putative cytochrome oxidase assembly protein
+622141..623043	+	300	198035193	-	BCAL0759	-	-	UbiA prenyltransferase family protein
+623062..623679	+	205	198035194	-	BCAL0760	-	-	probable lipoprotein
+623832..624122	-	96	198035195	-	BCAL0761	-	-	conserved hypothetical protein
+624354..625991	+	545	198035196	-	BCAL0762	-	-	putative methyl-accepting chemotaxis protein
+626218..627033	+	271	198035197	-	BCAL0763	-	-	putative exported protein
+627120..627437	-	105	198035198	-	BCAL0764	-	-	putative exported protein
+627770..628735	+	321	198035199	-	BCAL0765	-	-	putative exported protein
+628875..629771	+	298	198035200	-	BCAL0766	-	-	putative branched-chain amino acid transport system permease protein
+629773..630567	+	264	198035201	-	BCAL0767	-	-	ABC transporter ATP-binding protein
+630727..631434	+	235	198035202	-	BCAL0768	-	-	conserved hypothetical protein
+631367..632863	+	498	198035203	-	BCAL0769	-	-	conserved hypothetical protein
+633884..636466	+	860	198035214	-	BCAL0780	-	-	putative multiphosphoryl transfer protein
+636553..638319	+	588	198035215	-	BCAL0781	-	-	phosphotransferase system, IIbc component
+638500..640986	-	828	198035216	-	BCAL0782	-	-	putative chitobiase
+641557..641679	-	40	198035217	-	BCAL0783	-	-	putative membrane protein
+641742..642878	-	378	198035218	cydB	BCAL0784	-	-	cytochrome d ubiquinol oxidase subunit II
+642910..644490	-	526	198035219	cydA	BCAL0785	-	-	cytochrome d ubiquinol oxidase subunit I
+644480..644746	-	88	198035220	-	BCAL0786	-	-	putative membrane protein
+645113..646048	-	311	198035221	rpoH	BCAL0787	-	-	RNA polymerase sigma-32 factor
+646409..646978	+	189	198035222	-	BCAL0788	-	-	putative exported protein
+647024..647407	+	127	198035223	-	BCAL0789	-	-	conserved hypothetical protein
+647551..649197	-	548	198035224	-	BCAL0790	-	-	hydroxymethylglutaryl-CoA lyase-like protein
+649566..650540	-	324	198035225	-	BCAL0791	-	-	glycosyl transferase family protein
+650720..651364	+	214	198035226	-	BCAL0792	-	-	putative maleylacetoacetate isomerase
+651450..652610	-	386	198035227	-	BCAL0793	-	-	putative cell division protein
+652827..653441	+	204	198035228	-	BCAL0794	-	-	conserved hypothetical protein
+653553..654050	+	165	198035229	coaD	BCAL0795	-	-	phosphopantetheine adenylyltransferase
+654110..654376	+	88	198035230	-	BCAL0796	-	-	4Fe-4S ferredoxin
+654454..655521	-	355	198035231	-	BCAL0797	-	-	putative histidinol-phosphate aminotransferase
+655638..656237	-	199	198035232	pth	BCAL0798	-	-	peptidyl-tRNA hydrolase
+656358..656975	-	205	198035233	-	BCAL0799	-	-	ribosomal L25p family protein
+657125..658060	-	311	198035234	prs	BCAL0800	-	-	ribose-phosphate pyrophosphokinase
+658264..659145	-	293	198035235	-	BCAL0802	-	-	putative 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+659173..659787	-	204	198035236	-	BCAL0803	-	-	putative lipoprotein
+659793..661616	-	607	198035237	-	BCAL0804	-	-	putative membrane protein
+661864..662691	+	275	198035238	mutM	BCAL0805	-	-	putative formamidopyrimidine-DNA glycosylase
+662716..663822	+	368	198035239	mutY	BCAL0806	-	-	putative A/G-specific adenine glycosylase
+663940..664575	-	211	198035240	-	BCAL0807	-	-	ATP-dependent protease
+664602..665510	-	302	198035241	-	BCAL0808	-	-	P-loop ATPase protein family protein
+665585..666553	-	322	198035242	-	BCAL0809	-	-	putative HPr(Ser) kinase/phosphatase
+667391..667750	-	119	198035243	-	BCAL0812	-	-	sigma-54 modulation protein
+667909..669414	-	501	198035244	rpoN	BCAL0813	-	-	putative RNA polymerase sigma-54 factor
+669587..670363	-	258	198035245	-	BCAL0814	-	-	ABC transporter ATP-binding protein
+670360..671049	-	229	198035246	-	BCAL0815	-	-	OstA-like protein
+671046..671660	-	204	198035247	-	BCAL0816	-	-	putative exported protein
+671664..672200	-	178	198035248	kdsC	BCAL0817	-	-	putative 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase
+672200..673183	-	327	198035249	-	BCAL0818	-	-	putative arabinose 5-phosphate isomerase
+673309..675312	+	667	198035250	-	BCAL0819	-	-	sodium/hydrogen exchanger family protein
+675351..675956	+	201	198035251	-	BCAL0820	-	-	putative adenine phosphoribosyltransferase
+676032..676646	+	204	198035252	-	BCAL0821	-	-	LysE type translocator
+676652..677518	+	288	198035253	-	BCAL0822	-	-	NUDIX hydrolase
+677592..678476	+	294	198035254	-	BCAL0823	-	-	putative formyltetrahydrofolate deformylase
+678570..679652	-	360	198035255	-	BCAL0824	-	-	putative membrane protein
+679873..682758	-	961	198035256	uvrA	BCAL0825	-	-	excinuclease ABC subunit A
+683023..684210	+	395	198035257	-	BCAL0826	-	-	Major Facilitator Superfamily protein
+684310..684867	+	185	198035258	ssb	BCAL0827	-	-	single-strand binding protein
+684990..685520	+	176	198035259	-	BCAL0828	-	-	putative G/U mismatch-specific DNA glycosylase
+685525..686130	+	201	198035260	-	BCAL0829	-	-	putative 3-methyladenine DNA glycosylase
+686181..686996	+	271	198035261	-	BCAL0830	-	-	putative ParA family protein
+687494..688078	+	194	198035262	-	BCAL0831	-	-	putative storage protein
+689094..690095	-	333	198035288	-	BCAL0857	-	-	putative exported protein
+690586..691020	+	144	198035289	-	BCAL0858	-	-	putative exported protein
+691110..692072	+	320	198035290	-	BCAL0859	-	-	putative hydrolase
+692042..692884	-	280	198035291	-	BCAL0860	-	-	putative protease
+692991..694586	+	531	198035292	-	BCAL0861	-	-	Major Facilitator Superfamily protein
+694645..695091	+	148	198035293	-	BCAL0862	-	-	MarR family regulatory protein
+695159..695740	-	193	198035294	-	BCAL0863	-	-	cysteine peptidase, family C56
+695898..697196	-	432	198035295	-	BCAL0864	-	-	conserved hypothetical protein
+697409..698236	+	275	198035296	-	BCAL0865	-	-	RpiR family regulatory protein
+698239..699720	+	493	198035297	dan	BCAL0866	-	-	D-aminoacylase
+699799..700185	+	128	198035298	-	BCAL0867	-	-	YjgF family protein
+700268..701098	-	276	198035299	-	BCAL0868	-	-	putative GTP cyclohydrolase I
+701111..702634	-	507	198035300	ilvA	BCAL0869	-	-	threonine dehydratase biosynthetic
+703220..707245	+	1341	198035301	-	BCAL0870	-	-	putative oxidoreductase
+707330..707773	+	147	198035302	-	BCAL0871	-	-	conserved hypothetical protein
+707770..708183	+	137	198035303	-	BCAL0872	-	-	conserved hypothetical protein
+708236..708967	+	243	198035304	ubiE	BCAL0873	-	-	ubiquinone/menaquinone biosynthesis methyltransferase
+709009..710040	+	343	198035305	-	BCAL0874	-	-	putative membrane protein
+710205..710831	+	208	198035306	-	BCAL0875	-	-	conserved hypothetical protein
+710844..712421	+	525	198035307	-	BCAL0876	-	-	putative ubiquinone biosynthesis protein
+712439..713065	+	208	198035308	-	BCAL0877	-	-	putative methyltransferase
+713161..713514	+	117	198035309	-	BCAL0878	-	-	conserved hypothetical protein
+713579..714226	+	215	198035310	-	BCAL0879	-	-	putative membrane protein
+714293..716095	+	600	198035311	aspS	BCAL0880	-	-	aspartyl-tRNA synthetase
+716255..716749	+	164	198035312	-	BCAL0881	-	-	putative dATP pyrophosphohydrolase
+716746..718020	+	424	198035313	-	BCAL0882	-	-	putative phospholipase D
+718221..718820	+	199	198035314	-	BCAL0883	-	-	TetR family regulatory protein
+718879..720666	+	595	198035315	-	BCAL0884	-	-	putative acyl-CoA dehydrogenase oxidoreductase protein
+720780..723215	+	811	198035316	-	BCAL0885	-	-	putative 3-hydroxyacyl-CoA dehydrogenase oxidoreductase
+723286..724485	+	399	198035317	-	BCAL0886	-	-	putative 3-ketoacyl-CoA thiolase
+724577..725344	+	255	198035318	-	BCAL0887	-	-	enoyl-CoA hydratase/isomerase family protein
+725396..726232	-	278	198035319	-	BCAL0888	-	-	FdhD/NarQ family protein
+726353..726835	+	160	198035320	-	BCAL0889	-	-	conserved hypothetical protein
+726872..727282	-	136	198035321	-	BCAL0890	-	-	thioesterase superfamily protein
+727443..729314	+	623	198035322	-	BCAL0891	-	-	ABC transporter ATP-binding membrane protein
+729520..730242	-	240	198035323	-	BCAL0892	-	-	putative nucleotidyl transferase
+730265..731314	-	349	198035324	-	BCAL0893	-	-	phosphotransferase enzyme family protein
+731539..733899	+	786	198035325	-	BCAL0894	-	-	putative exported protein
+733981..735309	+	442	198035326	-	BCAL0895	-	-	putative peptidyl-prolyl cis-trans isomerase
+735321..736310	+	329	198035327	pdxA	BCAL0896	-	-	4-hydroxythreonine-4-phosphate dehydrogenase
+736358..737185	+	275	198035328	ksgA	BCAL0897	-	-	dimethyladenosine transferase
+737271..738206	-	311	198035329	-	BCAL0898	-	-	putative membrane protein
+738591..738974	+	127	198035330	gloA	BCAL0899	-	-	lactoylglutathione lyase
+739083..739970	-	295	198035331	-	BCAL0900	-	-	conserved hypothetical protein
+740016..740780	-	254	198035332	-	BCAL0901	-	-	putative acyltransferase
+740824..741387	-	187	198035333	-	BCAL0902	-	-	putative hydrolase/phosphatase protein
+741398..743497	-	699	198035334	glyS	BCAL0903	-	-	putative glycyl-tRNA synthetase beta chain
+743520..744524	-	334	198035335	glyQ	BCAL0904	-	-	putative glycyl-tRNA synthetase alpha chain
+744808..746454	+	548	198035336	-	BCAL0905	-	-	conserved hypothetical protein
+746527..748227	-	566	198035337	-	BCAL0906	-	-	putative apolipoprotein N-acyltransferase
+748280..749167	-	295	198035338	-	BCAL0907	-	-	putative cation transporter efflux protein
+749655..750287	-	210	198035339	-	BCAL0908	-	-	ChaC-like protein
+750300..751076	-	258	198035340	-	BCAL0909	-	-	conserved hypothetical protein
+751228..752274	-	348	198035341	-	BCAL0910	-	-	putative PhoH-family protein
+752304..753677	-	457	198035342	miaB	BCAL0911	-	-	putative tRNA thiotransferase protein MiaB
+755367..756890	-	507	198035357	glpD	BCAL0926	-	-	putative glycerol-3-phosphate dehydrogenase
+757053..757421	+	122	198035358	-	BCAL0927	-	-	putative exported protein
+757516..757713	-	65	198035359	-	BCAL0928	-	-	conserved hypothetical protein
+758014..758793	-	259	198035360	glpR	BCAL0929	-	-	putative DeoR family glycerol-3-phosphate regulon repressor
+759006..760646	+	546	198035361	-	BCAL0930	-	-	putative gamma-glutamyltransferase precursor
+760974..761801	+	275	198035362	-	BCAL0931	-	-	conserved hypothetical protein
+761872..762378	+	168	198035363	-	BCAL0932	-	-	conserved hypothetical protein
+762372..763805	-	477	198035364	rhlE1	BCAL0933	-	-	putative ATP-dependent RNA helicase 1
+763943..765241	-	432	198035365	-	BCAL0934	-	-	putative periplasmic cytochrome c containing protein
+765261..766025	-	254	198035366	-	BCAL0935	-	-	putative periplasmic cytochrome c protein
+766356..767333	+	325	198035367	-	BCAL0936	-	-	putative transmembrane transporter protein
+767498..768646	-	382	198035368	-	BCAL0937	-	-	putative galactonate dehydratase protein
+769503..769748	-	81	198035369	-	BCAL0938a	-	-	conserved hypothetical protein
+769897..770244	+	115	198035370	-	BCAL0939	-	-	conserved hypothetical protein
+772822..773988	+	388	198035387	sucC	BCAL0956	-	-	succinyl-CoA synthetase beta chain
+774053..774934	+	293	198035388	sucD	BCAL0957	-	-	succinyl-CoA ligase alpha-chain
+775092..775796	+	234	198035389	-	BCAL0958	-	-	putative membrane protein
+775894..776490	+	198	198035390	pilA	BCAL0959	-	-	putative type IV pilin protein
+776616..778424	+	602	198035391	-	BCAL0960	-	-	O-antigen polymerase family protein
+778876..779226	+	116	198035392	-	BCAL0961	-	-	putative lipoprotein
+779576..780064	-	162	198035393	moaC	BCAL0962	-	-	molybdenum cofactor biosynthesis protein c
+780292..782028	+	578	198035394	-	BCAL0963	-	-	metallo peptidase, subfamily M48B
+782068..782655	-	195	198035395	-	BCAL0964	-	-	conserved hypothetical protein
+782648..783685	-	345	198035396	-	BCAL0965	-	-	putative hydrolase
+783719..784165	-	148	198035397	-	BCAL0966	-	-	conserved hypothetical protein
+784281..785318	-	345	198035398	waaF	BCAL0967	-	-	putative ADP-heptose--LPS heptosyltransferase II
+785458..785652	-	64	198035399	-	BCAL0968	-	-	conserved hypothetical protein
+785796..786701	-	301	198035400	-	BCAL0969	-	-	AraC family regulatory protein
+786722..787207	-	161	198035401	-	BCAL0970	-	-	CreA protein 2
+787662..787985	-	107	198035402	-	BCAL0971	-	-	4Fe-4S ferredoxin
+788255..789454	+	399	198035403	pncB	BCAL0972	-	-	nicotinate phosphoribosyltransferase
+789542..790204	+	220	198035404	-	BCAL0973	-	-	conserved hypothetical protein
+790248..791678	+	476	198035405	-	BCAL0974	-	-	putative membrane protein
+791760..792749	+	329	198035406	-	BCAL0975	-	-	putative 2-ketogluconate reductase
+792752..794221	+	489	198035407	-	BCAL0976	-	-	RmuC family protein
+794312..794797	-	161	198035408	-	BCAL0977	-	-	acetyltransferase (GNAT) family protein
+794794..795069	-	91	198035409	-	BCAL0978	-	-	putative membrane protein
+795109..796374	-	421	198035410	moeA2	BCAL0979	-	-	molybdopterin biosynthesis protein MoeA 2
+796486..797103	-	205	198035411	mobA2	BCAL0980	-	-	molybdopterin-guanine dinucleotide biosynthesis protein A 2
+797126..798238	-	370	198035412	moaA2	BCAL0981	-	-	molybdenum cofactor biosynthesis protein A 2
+798369..801533	-	1054	198035413	rne2	BCAL0982	-	-	putative ribonuclease E
+802253..803257	+	334	198035414	rluC2	BCAL0983	-	-	ribosomal large subunit pseudouridine synthase C 2
+803263..803922	+	219	198035415	-	BCAL0984	-	-	haloacid dehalogenase-like hydrolase
+803919..804320	+	133	198035416	-	BCAL0985	-	-	Rieske iron-sulphur protein
+804333..805325	+	330	198035417	-	BCAL0986	-	-	serine peptidase, family S49
+805394..806116	-	240	198035418	-	BCAL0987	-	-	putative tetrapyrrole methylase
+806868..807617	+	249	198035425	fabG2	BCAL0994	-	-	3-oxoacyl-[acyl-carrier protein] reductase 2
+807762..808001	+	79	198035426	acpP2	BCAL0995	-	-	acyl carrier protein (ACP) 2
+808166..809398	+	410	198035427	fabF2	BCAL0996	-	-	3-oxoacyl-[acyl-carrier-protein] synthase II 2
+813168..814133	+	321	198035445	-	BCAL1017	-	-	transposase
+815899..816486	+	195	198035446	pgsA2	BCAL1019	-	-	putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase 2
+817775..819253	+	492	198035447	-	BCAL1020	-	-	putative diguanylate cyclase
+819438..820370	+	310	198035448	-	BCAL1021	-	-	putative hydrolase
+820465..821013	-	182	198035449	-	BCAL1022	-	-	acetyltransferase (GNAT) family protein
+821064..821684	-	206	198035450	-	BCAL1023	-	-	putative DNA-binding protein
+821832..822068	+	78	198035451	-	BCAL1024	-	-	conserved hypothetical protein
+822068..822874	+	268	198035452	-	BCAL1025	-	-	putative methionine aminopeptidase
+822995..823498	-	167	198035453	-	BCAL1026	-	-	conserved hypothetical protein
+827883..828947	+	354	198035465	-	BCAL1040	-	-	glycosyl transferases group 1 protein
+829183..829986	+	267	198035466	-	BCAL1041	-	-	putative membrane protein
+830026..830490	+	154	198035467	-	BCAL1042	-	-	putative membrane protein
+830612..831964	-	450	198035468	gudD	BCAL1043	-	-	glucarate dehydratase
+832323..833072	+	249	198035469	-	BCAL1044	-	-	GntR family regulatory protein
+833211..834359	-	382	198035470	-	BCAL1045	-	-	periplasmic ligand binding lipoprotein
+834731..836875	-	714	198035471	plcN	BCAL1046	-	-	putative non-hemolytic phospholipase C
+837153..838013	-	286	198035472	pdxY	BCAL1047	-	-	pyridoxamine kinase
+840246..841082	-	278	198035491	-	BCAL1066	-	-	putative integrase
+841082..841609	-	175	198035492	-	BCAL1067	-	-	putative transposase
+841713..843224	-	503	198035493	-	BCAL1068	-	-	conserved hypothetical protein
+845265..846575	+	436	198035638	-	BCAL1223	-	-	Major Facilitator Superfamily protein
+846601..847878	+	425	198035639	-	BCAL1224	-	-	metallo peptidase, family M20 unassigned
+848310..848747	-	145	198035649	-	BCAL1234	-	-	putative heat shock protein
+849831..850763	+	310	198035661	-	BCAL1246	-	-	putative malonyl CoA-acyl carrier protein transacylase
+850892..851401	+	169	198035662	-	BCAL1247	-	-	putative exported protein
+851527..852174	+	215	198035663	-	BCAL1248	-	-	putative phosphoribosyl transferase protein
+852182..853399	-	405	198035664	-	BCAL1249	-	-	putative PHB depolymerase
+853572..854201	+	209	198035665	-	BCAL1250	-	-	putative glutathione S-transferase
+854386..854580	+	64	198035666	-	BCAL1251	-	-	conserved hypothetical protein
+854691..856181	-	496	198035667	-	BCAL1252	-	-	putative proline/betaine transporter
+856656..857054	+	132	198035668	-	BCAL1253	-	-	putative membrane protein
+857082..857816	-	244	198035669	dnaQ	BCAL1254	-	-	DNA polymerase III, epsilon chain
+857857..858300	-	147	198035670	rnhA	BCAL1255	-	-	ribonuclease HI
+858297..859109	-	270	198035671	-	BCAL1256	-	-	putative methyltransferase
+859269..859949	+	226	198035672	-	BCAL1257	-	-	putative gultathione hydrolase
+860101..861687	+	528	198035673	-	BCAL1258	-	-	putative exported transglycosylase protein
+861783..863060	+	425	198035674	-	BCAL1259	-	-	Major Facilitator Superfamily protein
+863426..864571	+	381	198035675	carA	BCAL1260	-	-	carbamoyl-phosphate synthase small chain
+864608..865267	+	219	198035676	-	BCAL1261	-	-	putative transport-related membrane protein
+865317..868571	+	1084	198035677	carB	BCAL1262	-	-	carbamoyl-phosphate synthase large chain
+868690..869166	+	158	198035678	greA	BCAL1263	-	-	transcription elongation factor
+869181..869639	+	152	198035679	-	BCAL1264	-	-	putative membrane protein
+869708..870235	-	175	198035680	-	BCAL1265	-	-	conserved hypothetical protein
+870429..871091	+	220	198035681	-	BCAL1266	-	-	putative ribosomal RNA large subunit methyltransferase
+871258..873156	+	632	198035682	ftsH	BCAL1267	-	-	FtsH endopeptidase
+873248..874126	+	292	198035683	folP	BCAL1268	-	-	dihydropteroate synthase
+874154..875509	+	451	198035684	-	BCAL1269	-	-	putative phosphoglucomutase
+875949..876983	+	344	198035685	pstS	BCAL1270	-	-	phosphate transport system, substrate-binding exported periplasmic protein
+877078..878064	+	328	198035686	pstC	BCAL1271	-	-	phosphate transport system permease protein
+878103..878954	+	283	198035687	pstA	BCAL1272	-	-	phosphate transport system permease protein
+878970..879818	+	282	198035688	pstB	BCAL1273	-	-	phosphate ABC transporter ATP-binding protein
+879837..880541	+	234	198035689	-	BCAL1274	-	-	phosphate transport system-related protein
+880573..881274	+	233	198035690	phoB	BCAL1275	-	-	phosphate regulon two-component regulatory system, response regulator protein
+881332..882651	+	439	198035691	-	BCAL1276	-	-	putative phosphate regulon two-component regulatory system, sensor kinase protein
+882739..884931	-	730	198035692	ppk	BCAL1277	-	-	polyphosphate kinase
+885082..886596	+	504	198035693	-	BCAL1278	-	-	putative exopolyphosphatase
+886703..887143	-	146	198035694	-	BCAL1279	-	-	putative exported protein
+887604..888065	+	153	198035695	-	BCAL1280	-	-	putative hydrolase
+890061..891437	+	458	198035817	-	BCAL1410	-	-	Di-haem cytochrome c peroxidase
+891547..891933	+	128	198035818	-	BCAL1411	-	-	putative exported protein
+891942..892415	+	157	198035819	-	BCAL1412	-	-	NUDIX hydrolase
+892550..894259	-	569	198035820	glnS	BCAL1413	-	-	glutaminyl-tRNA synthetase
+894513..894722	+	69	198035821	-	BCAL1413A	-	-	putative lipoprotein
+894914..895462	+	182	198035822	-	BCAL1414	-	-	putative hydrolase
+895496..896716	-	406	198035823	-	BCAL1415	-	-	putative lipid metabolism-related protein
+896960..899584	+	874	198035824	alaS	BCAL1416	-	-	alanyl-tRNA synthetase
+899725..900639	-	304	198035825	-	BCAL1417	-	-	LysR family regulatory protein
+900765..902036	+	423	198035826	-	BCAL1418	-	-	Major Facilitator Superfamily protein
+902149..902685	+	178	198035827	-	BCAL1419	-	-	putative phosphatase
+902771..903286	+	171	198035828	-	BCAL1420	-	-	putative thioesterase
+904930..905865	+	311	198035848	-	BCAL1440	-	-	LysR family regulatory protein
+905983..906210	+	75	198035849	-	BCAL1441	-	-	SirA-like protein
+906494..906928	+	144	198035850	-	BCAL1442	-	-	conserved hypothetical protein
+907184..907900	+	238	198035851	-	BCAL1443	-	-	two-component regulatory system, response regulator protein
+907897..909258	+	453	198035852	-	BCAL1444	-	-	putative exported protein
+909269..911656	+	795	198035853	-	BCAL1445	-	-	two-component regulatory system, sensor kinase protein
+911694..912308	+	204	198035854	-	BCAL1446	-	-	putative lipoprotein
+912361..913245	-	294	198035855	galU	BCAL1447	-	-	UTP--glucose-1-phosphate uridylyltransferase
+913333..916200	-	955	198035856	valS	BCAL1448	-	-	putative valyl-tRNA synthetase
+918946..919821	-	291	198035861	-	BCAL1453	-	-	putative fusaric acid resistance transport protein
+919834..920037	-	67	198035862	-	BCAL1454	-	-	putative membrane protein
+920034..922238	-	734	198035863	-	BCAL1455	-	-	putative fusaric acid resistance transporter protein
+922253..923818	-	521	198035864	-	BCAL1456	-	-	putative fusaric acid resistance outer membrane efflux protein
+923976..924917	+	313	198035865	-	BCAL1457	-	-	LysR family regulatory protein
+925035..925187	+	50	198035866	-	BCAL1458	-	-	putative exported protein
+925246..926076	-	276	198035867	-	BCAL1459	-	-	calcineurin-like phosphoesterase
+926102..927523	-	473	198035868	-	BCAL1460	-	-	putative FAD-binding reductase
+927542..927934	-	130	198035869	-	BCAL1461	-	-	putative membrane protein
+927931..928551	-	206	198035870	-	BCAL1462	-	-	putative Trp repressor binding protein
+928706..930025	+	439	198035871	-	BCAL1463	-	-	putative tRNA processing exoribonuclease
+930041..930358	-	105	198035872	-	BCAL1464	-	-	putative membrane protein
+930516..930971	+	151	198035873	-	BCAL1465	-	-	conserved hypothetical protein
+931111..933045	+	644	198035874	-	BCAL1466	-	-	Major Facilitator Superfamily protein
+933334..934434	+	366	198035875	aroC	BCAL1467	-	-	chorismate synthase
+934585..936258	-	557	198035876	-	BCAL1468	-	-	putative electron transport protein
+936438..937220	+	260	198035877	-	BCAL1469	-	-	putative short chain dehydrogenase
+937298..937702	+	134	198035878	-	BCAL1470	-	-	putative thioesterase
+937831..938376	-	181	198035879	-	BCAL1471	-	-	LuxR superfamily regulatory protein
+938597..939301	+	234	198035880	scoA	BCAL1472	-	-	succinyl-CoA:3-ketoacid-coenzyme A transferase subunit A
+939303..939944	+	213	198035881	scoB	BCAL1473	-	-	succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B
+940021..940767	-	248	198035882	-	BCAL1474	-	-	putative dehydrogenase
+940772..941782	-	336	198035883	-	BCAL1475	-	-	putative polysaccharide deacetylase
+941794..942351	-	185	198035884	-	BCAL1476	-	-	putative exported protein
+942486..943394	+	302	198035885	-	BCAL1477	-	-	LysR family regulatory protein
+943518..944414	+	298	198035886	-	BCAL1478	-	-	putative hydrolase
+944495..944848	+	117	198035887	-	BCAL1479	-	-	endoribonuclease L-PSP family protein
+944949..947132	+	727	198035888	relA	BCAL1480	-	-	GTP pyrophosphokinase
+947566..949473	+	635	198035889	thrS	BCAL1481	-	-	threonyl-tRNA synthetase
+950238..950435	+	65	198035890	rpmI	BCAL1483	-	-	50S ribosomal protein L35
+950466..950825	+	119	198035891	rplT	BCAL1484	-	-	50S ribosomal protein L20
+950974..951987	+	337	198035892	pheS	BCAL1485	-	-	phenylalanyl-tRNA synthetase alpha chain
+952085..954514	+	809	198035893	pheT	BCAL1486	-	-	phenylalanyl-tRNA synthetase beta chain
+954578..954973	+	131	198035894	ihfA	BCAL1487	-	-	integration host factor alpha-subunit
+955032..955445	+	137	198035895	-	BCAL1488	-	-	MerR family regulatory protein
+955462..956427	-	321	198035896	-	BCAL1489	-	-	putative transposase
+956707..958881	-	724	198035897	-	BCAL1490	-	-	putative exported protein
+959212..960090	-	292	198035898	-	BCAL1491	-	-	putative tyrosine-protein phosphatase
+960410..961123	+	237	198035899	-	BCAL1492	-	-	conserved hypothetical protein
+961884..963086	+	400	198035909	-	BCAL1502	-	-	putative aminotransferase
+963359..964396	+	345	198035910	-	BCAL1503	-	-	putative transcriptional regulator protein
+964457..966208	+	583	198035911	-	BCAL1504	-	-	RNA pseudouridylate synthase family protein
+966470..967507	-	345	198036016	pyrD	BCAL1611	-	-	dihydroorotate dehydrogenase
+967606..968436	-	276	198036017	-	BCAL1612	-	-	putative arginine-tRNA-protein transferase
+968470..969234	-	254	198036018	-	BCAL1613	-	-	putative leucyl/phenylalanyl-tRNA--protein transferase
+969246..969791	-	181	198036019	-	BCAL1614	-	-	NUDIX hydrolase
+971041..971502	+	153	384077597	-	SMD_1635	-	-	GCN5-related N-acetyltransferase
+971595..972842	-	415	384077598	-	SMD_1636	-	-	NAD(FAD)-utilizing dehydrogenases
+972829..973263	-	144	384077599	fkbP	SMD_1637	-	-	FKBP-type peptidyl-prolyl cis-trans isomerase
+973334..973699	+	121	384077600	-	SMD_1638	-	-	hypothetical protein
+974006..974773	+	255	384077601	-	SMD_1639	-	-	Rhodanese domain protein UPF0176,Betaproteobacterial subgroup
+974924..975919	+	331	384077602	-	SMD_1640	-	-	Luciferase-like
+975987..976484	+	165	384077603	-	SMD_1641	-	-	general stress protein
+976577..977236	-	219	384077604	exoD	SMD_1642	-	-	Exopolysaccharide synthesis
+977220..978533	-	437	384077605	-	SMD_1643	-	-	Hemolysins and related proteins containing CBS domains
+978817..979443	+	208	384077606	-	SMD_1644	-	-	hypothetical protein
+979457..980578	+	373	384077607	pitA	SMD_1645	-	-	Probable low-affinity inorganic phosphate transporter
+980855..982351	-	498	384077608	-	SMD_1646	-	-	Carboxypeptidase C (cathepsin A)
+982462..983055	-	197	384077609	-	SMD_1647	-	-	GCN5-related N-acetyltransferase
+983219..985108	-	629	384077610	parE	SMD_1648	-	-	Topoisomerase IV subunit B
+985741..986079	+	112	198036021	qacE	BCAL1616	-	-	quaternary ammonium compound-resistance protein
+986162..987265	+	367	198036022	-	BCAL1617	-	-	putative hydratase
+987398..987826	-	142	198036023	-	BCAL1618	-	-	putative membrane protein
+988168..989325	+	385	198036024	ssuD	BCAL1619	-	-	alkanesulfonate monooxygenase
+989342..990154	+	270	198036025	ssuC	BCAL1620	-	-	aliphatic sulfonates transport permease protein
+990151..991113	+	320	198036026	ssuB	BCAL1621	-	-	aliphatic sulfonates ABC transporter ATP-binding protein
+991171..991386	+	71	198036027	mopII	BCAL1622	-	-	molybdenum-pterin binding protein II
+991531..991728	+	65	198036028	-	BCAL1623	-	-	conserved hypothetical protein
+991784..992029	+	81	198036029	-	BCAL1624	-	-	conserved hypothetical protein
+993787..994701	-	304	198036052	-	BCAL1647	-	-	putative oligosaccharide ABC transporter ATP-binding protein
+995032..995529	+	165	198036053	-	BCAL1648	-	-	putative stress-related protein
+995617..996336	-	239	198036054	-	BCAL1649	-	-	putative membrane protein
+996366..996701	-	111	198036055	-	BCAL1650	-	-	conserved hypothetical protein
+996728..997375	-	215	198036056	lexA	BCAL1651	-	-	LexA repressor
+997640..998677	+	345	198036057	sbp	BCAL1652	-	-	sulfate-binding protein precursor
+998801..999694	+	297	198036058	cysT	BCAL1653	-	-	sulfate transport system permease protein
+999691..1000635	+	314	198036059	cysW	BCAL1654	-	-	sulfate transport system permease protein
+1000649..1001707	+	352	198036060	cysA	BCAL1655	-	-	sulfate ABC transporter ATP-binding protein
+1001783..1002709	+	308	198036061	ssuR	BCAL1656	-	-	aliphatic sulfonate utilization regulatory protein SsuR
+1003437..1004387	+	316	198036062	-	BCAL1657	-	-	putative ribose transport system, substrate-binding protein
+1004533..1006146	+	537	198036063	-	BCAL1658	-	-	putative ribose ABC transporter ATP-binding protein
+1006143..1007162	+	339	198036064	-	BCAL1659	-	-	putative ribose transport system, permease protein
+1007197..1008228	+	343	198036065	-	BCAL1660	-	-	putative ribose operon repressor
+1008225..1009154	+	309	198036066	-	BCAL1661	-	-	putative ribokinase
+1022181..1022567	+	128	384077081	-	SMD_1103	-	-	hypothetical protein
+1022728..1023045	+	105	384077082	-	SMD_1104	-	-	hypothetical protein
+1023161..1026745	-	1194	384077083	-	SMD_1105	-	-	membrane protein, putative
+1027283..1028056	+	257	384077090	-	SMD_1112	-	-	putative multi-domain protein
+1028087..1028383	-	98	384077091	-	SMD_1113	-	-	hypothetical protein
+1028402..1029265	-	287	384077092	-	SMD_1114	-	-	Sugar phosphate isomerases/epimerases
+1029285..1030409	-	374	384077093	-	SMD_1115	-	-	oxidoreductase domain protein
+1030422..1031639	-	405	384077094	-	SMD_1116	-	-	Nucleoside permease NupG
+1031667..1032719	-	350	384077095	-	SMD_1117	-	-	Inosose isomerase
+1032815..1033822	+	335	384077096	cytR	SMD_1118	-	-	Transcriptional (co)regulator CytR
+1033967..1035019	+	350	384077097	adrA	SMD_1119	-	-	hypothetical protein
+1042408..1043247	+	279	198036104	orbF	BCAL1701	-	-	ornibactin synthetase F
+1043241..1044263	+	340	198036105	orbL	BCAL1702	-	-	putative ornibactin biosynthesis protein
+1046636..1047739	-	367	198036185	-	BCAL1780	-	-	putative binding-protein component of ABC transporter
+1047693..1048745	-	350	198036186	-	BCAL1781	-	-	putative permease component of ABC transporter protein
+1051042..1051188	+	48	198036197	-	BCAL1794	-	-	putative membrane protein
+1051185..1051802	+	205	198036198	-	BCAL1795	-	-	putative ATP-ase
+1051920..1053020	-	366	198036199	-	BCAL1796	-	-	putative saccharopine dehydrogenase
+1053518..1053982	-	154	198036200	-	BCAL1797	-	-	AnsC family regulatory protein
+1054233..1054796	+	187	198036201	-	BCAL1798	-	-	putative exported protein
+1054932..1055363	+	143	198036202	-	BCAL1799	-	-	conserved hypothetical protein
+1055397..1055759	-	120	198036203	-	BCAL1800	-	-	conserved hypothetical protein
+1055773..1056561	-	262	198036204	-	BCAL1801	-	-	putative membrane protein
+1056617..1057660	-	347	198036205	-	BCAL1802	-	-	LacI family regulatory protein
+1057993..1058958	-	321	198036206	tkrA	BCAL1803	-	-	2-ketogluconate reductase
+1058963..1060243	-	426	198036207	-	BCAL1804	-	-	Major Facilitator Superfamily protein
+1060359..1061351	-	330	198036208	-	BCAL1805	-	-	putative sugar kinase
+1061380..1062144	-	254	198036209	-	BCAL1806	-	-	conserved hypothetical protein
+1062306..1063199	-	297	198036210	-	BCAL1807	-	-	LysR family regulatory protein
+1063312..1064388	+	358	198036211	-	BCAL1808	-	-	putative membrane protein
+1064456..1066225	+	589	198036212	-	BCAL1809	-	-	putative transport-related, membrane protein
+1066262..1066882	-	206	198036213	-	BCAL1810	-	-	TetR family regulatory protein
+1067072..1068181	+	369	198036214	-	BCAL1811	-	-	putative efflux system transport protein
+1068178..1071324	+	1048	198036215	-	BCAL1812	-	-	RND family efflux system transporter protein
+1071327..1072892	+	521	198036216	-	BCAL1813	-	-	multidrug efflux system outer membrane protein
+1073017..1074045	+	342	198036217	-	BCAL1814	-	-	MerR family regulatory protein
+1074094..1074792	-	232	198036218	-	BCAL1814A	-	-	putative membrane protein
+1074767..1074991	-	74	198036219	-	BCAL1815	-	-	putative transcriptional regulatory protein
+1075000..1075560	-	186	198036220	-	BCAL1816	-	-	putative membrane protein
+1075791..1077173	-	460	198036221	-	BCAL1817	-	-	putative transcriptional regulatory protein
+1077427..1078311	+	294	198036222	-	BCAL1818	-	-	metallo-beta-lactamase superfamily protein
+1078340..1080010	+	556	198036223	-	BCAL1819	-	-	conserved hypothetical protein
+1080029..1080835	+	268	198036224	-	BCAL1820	-	-	putative membrane protein
+1080928..1081749	-	273	198036225	potI	BCAL1821	-	-	putrescine transport system permease protein
+1081746..1082672	-	308	198036226	potH	BCAL1822	-	-	putrescine transport system permease protein
+1082669..1083829	-	386	198036227	potG	BCAL1823	-	-	putrescine ABC transporter ATP-binding protein
+1083916..1085010	-	364	198036228	potF	BCAL1824	-	-	putrescine-binding periplasmic protein precursor
+1085394..1085633	+	79	198036229	-	BCAL1825	-	-	conserved hypothetical protein
+1086239..1086904	+	221	198036230	-	BCAL1826	-	-	putative exported protein
+1086995..1087756	+	253	198036231	-	BCAL1827	-	-	putative fimbrial chaperone
+1087785..1090229	+	814	198036232	-	BCAL1828	-	-	putative fimbrial usher protein
+1090290..1090871	-	193	198036233	-	BCAL1829	-	-	putative outer membrane protein
+1090994..1092184	-	396	198036234	-	BCAL1830	-	-	putative 2-nitropropane dioxygenase
+1092308..1093744	-	478	198036235	-	BCAL1831	-	-	putative betaine aldehyde dehydrogenase
+1094701..1095153	+	150	198036248	-	BCAL1844	-	-	conserved hypothetical protein
+1095247..1097559	-	770	198036249	-	BCAL1845	-	-	putative membrane protein
+1097712..1098413	+	233	198036250	-	BCAL1846	-	-	ABC transporter ATP-binding protein
+1098410..1099213	+	267	198036251	-	BCAL1847	-	-	putative membrane protein
+1099250..1099723	-	157	198036252	-	BCAL1848	-	-	putative exported protein
+1099947..1100603	-	218	198036253	-	BCAL1849	-	-	putative exported protein
+1100657..1101673	-	338	198036254	-	BCAL1850	-	-	putative dehydrogenase
+1101798..1102736	+	312	198036255	-	BCAL1851	-	-	LysR family regulatory protein
+1102903..1103748	+	281	198036256	-	BCAL1852	-	-	putative phosphoserine phosphatase
+1103836..1105017	-	393	198036257	-	BCAL1853	-	-	putative cystathionine beta-lyase
+1105131..1105670	-	179	198036258	-	BCAL1854	-	-	putative exported protein
+1105789..1106715	-	308	198036259	-	BCAL1855	-	-	putative fructokinase-like protein
+1106719..1108080	-	453	198036260	-	BCAL1856	-	-	radical SAM superfamily protein
+1108645..1108905	+	86	198036261	-	BCAL1857	-	-	putative membrane protein
+1108981..1109304	+	107	198036262	-	BCAL1858	-	-	conserved hypothetical protein
+1109389..1109922	-	177	198036263	-	BCAL1859	-	-	conserved hypothetical protein
+1110579..1111145	-	188	198036264	pbhF	BCAL1860	-	-	putative polyhydroxyalkanoate (PHA) synthesis regulatory protein
+1111265..1112005	-	246	198036265	phbB	BCAL1861	-	-	acetoacetyl-CoA reductase
+1112127..1113308	-	393	198036266	phbA	BCAL1862	-	-	acetyl-CoA acetyltransferase
+1113408..1115273	-	621	198036267	phbC	BCAL1863	-	-	poly-beta-hydroxybutyrate polymerase
+1115634..1116473	-	279	198036268	-	BCAL1864	-	-	conserved hypothetical protein
+1116480..1117565	-	361	198036269	-	BCAL1865	-	-	ribosomal large subunit pseudouridine synthase D
+1117733..1118557	+	274	198036270	-	BCAL1866	-	-	putative lipoprotein
+1118680..1120929	-	749	198036271	-	BCAL1867	-	-	putative ATP-dependent DNA helicase-related protein
+1120985..1121200	-	71	198036272	-	BCAL1868	-	-	conserved hypothetical protein
+1121277..1121951	-	224	198036273	-	BCAL1869	-	-	putative exported protein
+1122194..1124518	+	774	198036274	tex	BCAL1870	-	-	putative transcription accessory protein
+1124627..1126480	-	617	198036275	kup	BCAL1871	-	-	kup system potassium uptake protein
+1126818..1127378	-	186	198036276	-	BCAL1872	-	-	putative nucleotide phosphoribosyltransferase
+1127422..1128768	-	448	198036277	purA	BCAL1873	-	-	adenylosuccinate synthetase
+1128882..1130030	-	382	198036278	-	BCAL1874	-	-	putative ATP phosphoribosyltransferase
+1130144..1130335	-	63	198036279	-	BCAL1875	-	-	putative membrane protein
+1130372..1131271	-	299	198036280	hflC	BCAL1876	-	-	protein HflC
+1131287..1132633	-	448	198036281	hflK	BCAL1877	-	-	protein HflK
+1132681..1133868	-	395	198036282	hflX	BCAL1878	-	-	putative GTP-binding protein
+1133926..1134165	-	79	198036283	hfq	BCAL1879	-	-	Hfq protein
+1134307..1135644	-	445	198036284	engA	BCAL1880	-	-	GTP-binding protein EngA
+1135891..1137036	-	381	198036285	-	BCAL1881	-	-	putative lipoprotein
+1137078..1137707	-	209	198036286	-	BCAL1882	-	-	putative membrane protein
+1137763..1139103	-	446	198036287	hisS	BCAL1883	-	-	histidyl-tRNA synthetase
+1139124..1140428	-	434	198036288	-	BCAL1884	-	-	putative 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase
+1140541..1141557	-	338	198036289	-	BCAL1885	-	-	putative membrane protein
+1141721..1142860	-	379	198036290	-	BCAL1886	-	-	radical SAM superfamily protein
+1142916..1143341	-	141	198036291	ndk	BCAL1887	-	-	nucleoside diphosphate kinase
+1143576..1144289	+	237	198036292	-	BCAL1888	-	-	putative membrane protein
+1144353..1145750	-	465	198036293	-	BCAL1889	-	-	putative 23S rRNA (uracil-5-)-methyltransferase
+1145981..1146835	+	284	198036294	-	BCAL1890	-	-	endonuclease/exonuclease/phosphatase family protein
+1146866..1147642	-	258	198036295	-	BCAL1891	-	-	conserved hypothetical protein
+1147646..1148734	-	362	198036296	rpoS	BCAL1892	-	-	RNA polymerase sigma factor
+1148746..1149645	-	299	198036297	-	BCAL1893	-	-	family M23 peptidase
+1149642..1150574	-	310	198036298	-	BCAL1894	-	-	putative L-isoaspartate O-methyltransferase
+1150571..1151332	-	253	198036299	-	BCAL1895	-	-	putative acid phosphatase
+1151554..1152759	-	401	198036300	-	BCAL1896	-	-	putative transferase
+1152808..1153404	-	198	198036301	recR	BCAL1897	-	-	recombination protein
+1153436..1153762	-	108	198036302	-	BCAL1898	-	-	conserved hypothetical protein
+1153858..1156221	-	787	198036303	dnaX	BCAL1899	-	-	DNA polymerase III subunit gamma
+1156839..1157165	+	108	198036304	trxA	BCAL1900	-	-	thioredoxin
+1157185..1157295	+	36	198036305	-	BCAL1900A	-	-	conserved hypothetical protein
+1157361..1158623	+	420	198036306	rho	BCAL1901	-	-	transcription termination factor rho
+1158780..1159253	+	157	198036307	-	BCAL1902	-	-	MerR family regulatory protein
+1159421..1160806	+	461	198036308	-	BCAL1903	-	-	putative membrane protein
+1160845..1161678	+	277	198036309	-	BCAL1904	-	-	conserved hypothetical protein
+1161835..1162095	+	86	198036310	rpmE2	BCAL1905	-	-	50S ribosomal protein L31 type B
+1162226..1164058	+	610	198036311	-	BCAL1906	-	-	putative membrane protein
+1164581..1165042	-	153	198036321	-	BCAL1916	-	-	MerR family regulatory protein
+1165288..1165938	+	216	198036322	-	BCAL1917	-	-	putative exported protein
+1166027..1166458	+	143	198036323	-	BCAL1918	-	-	conserved hypothetical protein
+1166588..1169185	-	865	198036324	clpB	BCAL1919	-	-	ClpB heat-shock protein
+1169331..1169849	-	172	198036325	-	BCAL1920	-	-	putative DNA-binding protein
+1170208..1170663	+	151	198036326	-	BCAL1921	-	-	conserved hypothetical protein
+1170726..1171202	-	158	198036327	moaE	BCAL1922	-	-	molybdopterin converting factor subunit 2
+1171213..1171470	-	85	198036328	moaD	BCAL1923	-	-	molybdopterin converting factor subunit 1
+1171490..1172737	-	415	198036329	moeA3	BCAL1924	-	-	molybdopterin biosynthesis protein MoeA 3
+1172985..1174436	-	483	198036330	thrC	BCAL1925	-	-	threonine synthase
+1174449..1175777	-	442	198036331	hom	BCAL1926	-	-	homoserine dehydrogenase
+1175831..1177069	-	412	198036332	-	BCAL1927	-	-	putative aminotransferase
+1177386..1177760	+	124	198036333	-	BCAL1928	-	-	conserved hypothetical protein
+1177884..1179560	+	558	198036334	-	BCAL1929	-	-	putative undecaprenyl phosphate-alpha-4-amino-4-deoxy-l-arabinose arabinosy transferase
+1179574..1179945	+	123	198036335	-	BCAL1930	-	-	SMR family transporter protein
+1180076..1181227	+	383	198036336	arnB	BCAL1931	-	-	putative UDP-4-amino-4-deoxy-l-arabinose--oxoglutarate aminotransferas
+1181234..1182271	+	345	198036337	-	BCAL1932	-	-	putative undecaprenyl-phosphate 4-deoxy-4-formamido-l-arabinose transferase
+1182268..1183215	+	315	198036338	-	BCAL1933	-	-	L-arabinose formyltransferase
+1183212..1184267	+	351	198036339	-	BCAL1934	-	-	UDP-glucuronic acid decarboxylase
+1184281..1185177	+	298	198036340	-	BCAL1935	-	-	polysaccharide deacetylase
+1185288..1185749	+	153	198036341	-	BCAL1936	-	-	AhpC/TSA family protein
+1186238..1187887	+	549	198036342	-	BCAL1937	-	-	putative phosphorous metabolism-related protein
+1188124..1189209	+	361	198036343	-	BCAL1938	-	-	cysteine peptidase, family C40
+1189359..1190369	-	336	198036344	-	BCAL1939	-	-	putative integral membrane transport protein
+1190380..1191006	-	208	198036345	-	BCAL1940	-	-	conserved hypothetical protein
+1191145..1192527	-	460	198036346	dnaB	BCAL1941	-	-	replicative DNA helicase
+1192668..1193120	-	150	198036347	rplI	BCAL1942	-	-	50S ribosomal protein L9
+1193148..1193423	-	91	198036348	rpsR	BCAL1943	-	-	30S ribosomal protein S18
+1193428..1193727	-	99	198036349	-	BCAL1944	-	-	putative primosomal replication protein
+1193768..1194142	-	124	198036350	rpsF	BCAL1945	-	-	30S ribosomal protein S6
+1194373..1195269	-	298	198036351	-	BCAL1946	-	-	conserved hypothetical protein
+1195259..1195900	-	213	198036352	-	BCAL1947	-	-	putative sigma factor
+1196068..1196979	-	303	198036353	-	BCAL1948	-	-	LysR family regulatory protein
+1197151..1198926	+	591	198036354	gcl	BCAL1949	-	-	glyoxylate carboligase
+1198970..1199779	+	269	198036355	hyi	BCAL1950	-	-	hydroxypyruvate isomerase
+1199821..1200714	+	297	198036356	glxR	BCAL1951	-	-	2-hydroxy-3-oxopropionate reductase
+1201174..1201644	+	156	198036357	-	BCAL1952	-	-	conserved hypothetical protein
+1201736..1202758	-	340	198036358	ansB	BCAL1953	-	-	L-asparaginase II precursor
+1203030..1203320	+	96	198036359	-	BCAL1954	-	-	putative exported protein
+1203580..1204029	+	149	198036360	-	BCAL1955	-	-	putative membrane protein
+1204279..1204866	+	195	198036361	-	BCAL1956	-	-	putative lipoprotein
+1204997..1206061	-	354	198036362	-	BCAL1957	-	-	putative sugar transferase
+1206346..1207521	-	391	198036363	-	BCAL1958	-	-	conserved hypothetical protein
+1207565..1208737	-	390	198036364	-	BCAL1959	-	-	mechanosensitive ion channel protein
+1208827..1209183	-	118	198036365	-	BCAL1960	-	-	putative exported protein
+1209302..1210012	-	236	198036366	-	BCAL1961	-	-	putative exported protein
+1210056..1210835	-	259	198036367	-	BCAL1962	-	-	putative deoxyribonuclease
+1210977..1212005	-	342	198036368	-	BCAL1963	-	-	putative DNA polymerase
+1212024..1212644	-	206	198036369	-	BCAL1964	-	-	putative thymidylate kinase
+1212644..1213663	-	339	198036370	-	BCAL1965	-	-	putative lipoprotein
+1213741..1214775	+	344	198036371	-	BCAL1966	-	-	tRNA-modifying protein YgfZ
+1214852..1215697	+	281	198036372	-	BCAL1967	-	-	conserved hypothetical protein
+1215714..1216139	-	141	198036373	-	BCAL1968	-	-	putative acetyltransferase
+1216201..1217268	-	355	198036374	-	BCAL1969	-	-	putative lipase
+1217334..1217813	-	159	198036375	-	BCAL1970	-	-	thioesterase superfamily protein
+1217810..1218124	-	104	198036376	-	BCAL1971	-	-	conserved hypothetical protein
+1218685..1219428	-	247	198036377	-	BCAL1972	-	-	hypothetical protein
+1219552..1219947	-	131	198036378	-	BCAL1973	-	-	endoribonuclease L-PSP family protein
+1220651..1222792	+	713	198036379	-	BCAL1974	-	-	putative lipoprotein
+1222884..1224284	-	466	198036380	-	BCAL1975	-	-	putative diguanylate cyclase
+1224547..1225725	-	392	198036381	-	BCAL1977	-	-	putative thiolase
+1225776..1226408	-	210	198036382	-	BCAL1978	-	-	putative pyrazinamidase/nicotinamidase
+1226453..1228555	-	700	198036383	-	BCAL1979	-	-	putative fatty acid degradation protein
+1228795..1230438	-	547	198036384	-	BCAL1980	-	-	putative acyl-CoA synthetase
+1230617..1232185	+	522	198036385	-	BCAL1981	-	-	conserved hypothetical protein
+1232230..1232661	+	143	198036386	msrB	BCAL1982	-	-	peptide methionine sulfoxide reductase
+1232791..1233321	+	176	198036387	-	BCAL1983	-	-	putative intracellular septation membrane protein
+1233323..1233631	+	102	198036388	-	BCAL1984	-	-	BolA-like protein
+1233650..1234432	+	260	198036389	-	BCAL1985	-	-	putative exported isomerase
+1234605..1235147	-	180	198036390	-	BCAL1986	-	-	putative acetyltransferase
+1235156..1239220	-	1354	198036391	purL	BCAL1987	-	-	phosphoribosylformylglycinamidine synthase
+1239549..1240850	+	433	198036392	-	BCAL1988	-	-	putative D-amino acid dehydrogenase small subunit
+1240903..1242447	+	514	198036393	-	BCAL1989	-	-	putative carbohydrate kinase
+1242559..1244181	+	540	198036394	pgi	BCAL1990	-	-	glucose-6-phosphate isomerase
+1244250..1244963	-	237	198036395	-	BCAL1991	-	-	ABC transporter ATP-binding protein
+1244962..1245630	+	222	198036396	-	BCAL1992	-	-	putative acyl-CoA thioesterase precursor
+1247513..1248658	+	381	198036402	-	BCAL1998	-	-	putative kinase
+1248721..1249170	+	149	198036403	-	BCAL1999	-	-	MarR family regulatory protein
+1249361..1250359	-	332	198036404	-	BCAL2000	-	-	putative reductase
+1250467..1251612	-	381	198036405	-	BCAL2001	-	-	LuxR superfamily regulatory protein
+1251915..1252961	+	348	198036406	-	BCAL2002	-	-	putative porin signal peptide protein
+1252983..1254191	+	402	198036407	-	BCAL2003	-	-	Major Facilitator Superfamily protein
+1254188..1255315	+	375	198036408	-	BCAL2004	-	-	histone deacetylase family protein
+1255427..1255657	+	76	198036409	-	BCAL2005	-	-	putative membrane protein
+1255850..1256101	+	83	198036410	-	BCAL2006	-	-	hypothetical protein
+1256503..1257405	+	300	198036411	-	BCAL2007	-	-	squalene/phytoene synthase family protein
+1257416..1258636	-	406	198036412	-	BCAL2008	-	-	putative exported protein
+1258704..1260206	-	500	198036413	-	BCAL2009	-	-	conserved hypothetical protein
+1260341..1260619	-	92	198036414	-	BCAL2010	-	-	putative exported protein
+1260887..1261612	+	241	198036415	ompR	BCAL2011	-	-	oxidative stress related two-component regulatory system, response regulator protein
+1261654..1263015	+	453	198036416	-	BCAL2012	-	-	putative oxidative stress related two-component regulatory system, sensor kinase protein
+1263205..1263753	+	182	198036417	-	BCAL2013	-	-	AhpC/TSA family protein
+1263830..1264357	+	175	198036418	-	BCAL2014	-	-	carboxymuconolactone decarboxylase family protein
+1264483..1264968	-	161	198036419	ispF	BCAL2015	-	-	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+1264997..1265707	-	236	198036420	ispD	BCAL2016	-	-	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+1265791..1269285	+	1164	198036421	mfd	BCAL2017	-	-	transcription-repair coupling factor
+1269390..1270610	+	406	198036422	-	BCAL2018	-	-	putative acetylornithine deacetylase
+1270671..1271690	+	339	198036423	-	BCAL2019	-	-	phenylserine dehydratase
+1271835..1272269	+	144	198036424	-	BCAL2020	-	-	putative exported protein
+1272354..1274876	-	840	198036425	-	BCAL2021	-	-	putative penicillin-binding protein
+1275320..1276000	+	226	198036426	-	BCAL2022	-	-	PspA/IM30 family protein
+1276096..1277274	+	392	198036427	-	BCAL2023	-	-	putative membrane protein
+1277513..1277944	+	143	198036428	mscL	BCAL2024	-	-	large-conductance mechanosensitive channel protein
+1278233..1278724	+	163	198036429	-	BCAL2025	-	-	conserved hypothetical protein
+1278791..1279684	-	297	198036430	-	BCAL2026	-	-	putative glyoxylate-realted oxidoreductase
+1279819..1280028	+	69	198036431	-	BCAL2027	-	-	conserved hypothetical protein
+1280250..1281179	+	309	198036432	-	BCAL2028	-	-	LysR family regulatory protein
+1281275..1282687	-	470	198036433	-	BCAL2029	-	-	putative amino hydrolase
+1283195..1283548	+	117	198036434	-	BCAL2030	-	-	putative purine catabolism-related protein
+1283600..1284793	+	397	198036435	-	BCAL2031	-	-	putative membrane protein
+1284895..1285305	-	136	198036436	-	BCAL2032	-	-	conserved hypothetical protein
+1285366..1286277	-	303	198036437	-	BCAL2033	-	-	LysR family regulatory protein
+1286421..1287236	+	271	198036438	-	BCAL2034	-	-	conserved hypothetical protein
+1287270..1287674	-	134	198036439	-	BCAL2035A	-	-	endoribonuclease L-PSP family protein
+1287825..1288790	+	321	198036440	-	BCAL2036	-	-	LysR family regulatory protein
+1288872..1289384	-	170	198036441	-	BCAL2037	-	-	putative ureidoglycolate hydrolase
+1289381..1290394	-	337	198036442	-	BCAL2038	-	-	putative allantoicase
+1290457..1290978	-	173	198036443	-	BCAL2039	-	-	putative uricase
+1290975..1291928	-	317	198036444	-	BCAL2040	-	-	polysaccharide deacetylase
+1292089..1292880	-	263	198036445	hyuE	BCAL2041	-	-	hydantoin racemase
+1292891..1294483	-	530	198036446	-	BCAL2042	-	-	putative transport-related membrane protein
+1294525..1295229	-	234	198036447	-	BCAL2043	-	-	GntR family regulatory protein
+1295538..1296476	-	312	198036448	ldcA	BCAL2044	-	-	muramoyltetrapeptide carboxypeptidase
+1296578..1297174	-	198	198036449	-	BCAL2045	-	-	putative deaminase
+1297171..1297572	-	133	198036450	-	BCAL2046	-	-	conserved hypothetical protein
+1298401..1299009	-	202	198036466	-	BCAL2062	-	-	putative membrane protein
+1299016..1300476	-	486	198036467	guaB	BCAL2063	-	-	inosine-5'-monophosphate dehydrogenase
+1300757..1301566	-	269	198036468	-	BCAL2064	-	-	putative membrane protein
+1301595..1302359	-	254	198036469	-	BCAL2065	-	-	conserved hypothetical protein
+1303694..1304410	+	238	198036470	-	BCAL2067	-	-	conserved hypothetical protein
+1304532..1305497	+	321	198036471	-	BCAL2068	-	-	putative membrane protein
+1305540..1305863	-	107	198036472	-	BCAL2069	-	-	conserved hypothetical protein
+1305868..1306305	-	145	198036473	-	BCAL2070	-	-	conserved hypothetical protein
+1306405..1306851	+	148	198036474	smpB	BCAL2071	-	-	SSRA-binding protein
+1307004..1307939	-	311	198036475	-	BCAL2072	-	-	putative membrane protein
+1307973..1308440	-	155	198036476	-	BCAL2073	-	-	putative membrane protein
+1308618..1311020	-	800	198036477	ppsA	BCAL2074	-	-	phosphoenolpyruvate synthase
+1311396..1312211	+	271	198036478	-	BCAL2075	-	-	putative ATP-binding protein
+1312309..1313091	-	260	198036479	-	BCAL2076	-	-	putative RNA methylase protein
+1313088..1313732	-	214	198036480	rnhB	BCAL2077	-	-	ribonuclease HII
+1313729..1314898	-	389	198036481	-	BCAL2078	-	-	putative lipid-A-disaccharide synthase
+1314902..1315690	-	262	198036482	lpxA	BCAL2079	-	-	acyl-[acyl-carrier-protein]--UDP-N-acetylglucos amine O-acyltransferase
+1315758..1316240	-	160	198036483	fabZ	BCAL2080	-	-	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+1316355..1317434	-	359	198036484	lpxD	BCAL2081	-	-	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+1317451..1317978	-	175	198036485	-	BCAL2082	-	-	chaperone protein Skp precursor
+1318013..1320322	-	769	198036486	-	BCAL2083	-	-	Outer membrane protein assembly factor YaeT
+1320384..1321754	-	456	198036487	ecfE	BCAL2084	-	-	protease EcfE
+1321766..1322962	-	398	198036488	dxr	BCAL2085	-	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1322978..1323799	-	273	198036489	-	BCAL2086	-	-	putative phosphatidate cytidylyltransferase membrane protein
+1323793..1324575	-	260	198036490	uppS	BCAL2087	-	-	undecaprenyl pyrophosphate synthetase
+1324625..1325185	-	186	198036491	frr	BCAL2088	-	-	ribosome recycling factor
+1325290..1326003	-	237	198036492	pyrH	BCAL2089	-	-	uridylate kinase
+1326160..1327041	-	293	198036493	tsf	BCAL2090	-	-	elongation factor TS
+1327204..1327944	-	246	198036494	rpsB	BCAL2091	-	-	30S ribosomal protein S2
+1328322..1329137	+	271	198036495	map	BCAL2092	-	-	methionine aminopeptidase
+1329186..1331762	+	858	198036496	-	BCAL2093	-	-	putative uridylyltransferase
+1331779..1333656	+	625	198036497	-	BCAL2094	-	-	putative RNA pseudouridylate synthase
+1333735..1334268	-	177	198036498	-	BCAL2095	-	-	putative deformylase
+1334265..1336340	-	691	198036499	ligA	BCAL2096	-	-	DNA ligase
+1336507..1337781	-	424	198036500	-	BCAL2097	-	-	putative membrane protein
+1337867..1341379	-	1170	198036501	-	BCAL2098	-	-	putative chromosome partition protein
+1341518..1342459	-	313	198036502	-	BCAL2099	-	-	putative membrane protein
+1342619..1343851	+	410	198036503	-	BCAL2100	-	-	putative aminotransferase
+1343897..1344724	+	275	198036504	dapD	BCAL2101	-	-	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+1344724..1345092	+	122	198036505	-	BCAL2102	-	-	ArsC family protein
+1345176..1346315	+	379	198036506	dapE	BCAL2103	-	-	succinyl-diaminopimelate desuccinylase
+1346327..1347235	+	302	198036507	-	BCAL2104	-	-	putative DNA methylase
+1347368..1348807	+	479	198036508	-	BCAL2105	-	-	putative cardiolipin synthetase
+1348866..1349345	-	159	198036509	gpo	BCAL2106	-	-	glutathione peroxidase
+1349482..1351413	+	643	198036510	-	BCAL2107	-	-	ABC transporter ATP-binding protein
+1351604..1351900	-	98	198036511	-	BCAL2108	-	-	conserved hypothetical protein
+1352020..1353396	-	458	198036512	radA	BCAL2109	-	-	DNA repair protein
+1353408..1354478	-	356	198036513	dadX	BCAL2110	-	-	alanine racemase, catabolic
+1354697..1356004	+	435	198036514	-	BCAL2111	-	-	Major Facilitator Superfamily protein
+1356063..1356872	+	269	198036515	thiD	BCAL2112	-	-	phosphomethylpyrimidine kinase
+1356891..1357856	-	321	198036516	-	BCAL2113	-	-	conserved hypothetical protein
+1357853..1358884	-	343	198036517	-	BCAL2114	-	-	uracil DNA glycosylase superfamily protein
+1358871..1359371	-	166	198036518	-	BCAL2115	-	-	putative ribosomal-protein acetyltransferase
+1359368..1360186	-	272	198036519	-	BCAL2115A	-	-	family M22 non-peptidase homologue
+1360283..1360552	+	89	198036520	-	BCAL2116	-	-	putative acyl-CoA-binding protein
+1360910..1362454	+	514	198036521	-	BCAL2117	-	-	putative ATP-dependent RNA helicase
+1362845..1364152	+	435	198036522	aceA	BCAL2118	-	-	isocitrate lyase
+1364364..1364798	-	144	198036523	-	BCAL2119	-	-	universal stress protein family protein
+1364964..1365869	-	301	198036524	-	BCAL2120	-	-	LysR family regulatory protein
+1366024..1366785	+	253	198036525	-	BCAL2121	-	-	putative dehalogenase
+1366851..1368443	+	530	198036526	aceB	BCAL2122	-	-	malate synthase A
+1368576..1368989	-	137	198036527	-	BCAL2123	-	-	conserved hypothetical protein
+1369257..1370141	+	294	198036528	-	BCAL2124	-	-	AraC family regulatory protein
+1370167..1370631	-	154	198036529	-	BCAL2125	-	-	putative acetyltransferase
+1372147..1373556	-	469	198036530	gltX	BCAL2126	-	-	glutamyl-tRNA synthetase
+1373836..1374753	+	305	198036531	-	BCAL2127	-	-	putative patatin-like phospholipase
+1374895..1375569	-	224	198036532	-	BCAL2128	-	-	cysteine peptidase, family C40
+1375698..1377320	-	540	198036533	-	BCAL2129	-	-	ABC transporter ATP-binding protein
+1377317..1378414	-	365	198036534	-	BCAL2130	-	-	binding-protein-dependent transport system protein
+1378463..1379506	-	347	198036535	-	BCAL2131	-	-	binding-protein-dependent transport system protein
+1379559..1381385	-	608	198036536	-	BCAL2132	-	-	extracellular solute-binding protein
+1381574..1381930	-	118	198036537	-	BCAL2133	-	-	putative membrane protein
+1382798..1383406	-	202	198036547	cyoC	BCAL2142	-	-	cytochrome o ubiquinol oxidase subunit III
+1383406..1385412	-	668	198036548	cyoB	BCAL2143	-	-	ubiquinol oxidase polypeptide I
+1385416..1386303	-	295	198036549	cyoA	BCAL2144	-	-	ubiquinol oxidase polypeptide II precursor
+1386577..1388106	-	509	198036550	-	BCAL2145	-	-	NADH-ubiquinone oxidoreductase subunit
+1389338..1390591	-	417	198036551	ask	BCAL2146	-	-	aspartokinase
+1390934..1392355	-	473	198036552	-	BCAL2147	-	-	tRNA(Ile)-lysidine synthase
+1392402..1393373	-	323	198036553	accA	BCAL2148	-	-	acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+1393477..1394304	-	275	198036554	-	BCAL2149	-	-	HhH-GPD superfamily base excision DNA repair protein
+1394348..1395745	-	465	198036555	cysS	BCAL2150	-	-	cysteinyl-tRNA synthetase
+1395980..1396702	+	240	198036556	-	BCAL2151	-	-	putative exported protein
+1396742..1397317	+	191	198036557	ppiA	BCAL2152	-	-	peptidyl-prolyl cis-trans isomerase A precursor
+1397406..1397897	+	163	198036558	ppiB	BCAL2153	-	-	peptidyl-prolyl cis-trans isomerase B
+1397925..1398725	+	266	198036559	-	BCAL2154	-	-	putative UDP-2,3-diacylglucosamine hydrolase (lipid A biosynthesis related protein)
+1398784..1399557	-	257	198036560	-	BCAL2155	-	-	serine acetyltransferase
+1399853..1400587	-	244	198036561	-	BCAL2156	-	-	putative tRNA/rRNA methyltransferase protein
+1400960..1401763	+	267	198036562	suhB	BCAL2157	-	-	inositol-1-monophosphatase
+1402071..1403693	+	540	198036563	-	BCAL2158	-	-	FAD dependent oxidoreductase
+1403816..1404142	-	108	198036564	-	BCAL2159	-	-	conserved hypothetical protein
+1404499..1407156	+	885	198036565	mutS	BCAL2160	-	-	DNA mismatch repair protein
+1407161..1408408	+	415	198036566	-	BCAL2161	-	-	putative exported protein
+1408388..1408930	-	180	198036567	-	BCAL2162	-	-	putative FkbP-type peptidyl-prolyl cis-trans isomerase
+1408963..1410183	+	406	198036568	-	BCAL2163	-	-	Cupin superfamily protein
+1410792..1411568	-	258	198036569	-	BCAL2165	-	-	metallo-beta-lactamase superfamily protein
+1411573..1412718	-	381	198036570	-	BCAL2166	-	-	putative lipoprotein
+1412830..1413732	-	300	198036571	dapA	BCAL2167	-	-	dihydrodipicolinate synthase
+1413779..1414381	-	200	198036572	-	BCAL2168	-	-	putative methyltransferase
+1414390..1415592	-	400	198036573	-	BCAL2169	-	-	putative tryptophanyl-tRNA synthetase
+1415601..1416263	-	220	198036574	-	BCAL2170	-	-	metallo peptidase, subfamily M50B
+1416311..1416943	-	210	198036575	-	BCAL2171	-	-	conserved hypothetical protein
+1417013..1417852	-	279	198036576	-	BCAL2172	-	-	putative phosphoesterase
+1417925..1418779	-	284	198036577	-	BCAL2173	-	-	putative hydrolase
+1418993..1419850	-	285	198036578	-	BCAL2174	-	-	conserved hypothetical protein
+1419994..1420518	+	174	198036579	-	BCAL2175	-	-	conserved hypothetical protein
+1420544..1421494	+	316	198036580	-	BCAL2176	-	-	putative Hsp33 chaperonin
+1421632..1421997	+	121	198036581	-	BCAL2177	-	-	putative lipoprotein
+1422090..1422515	-	141	198036582	-	BCAL2178	-	-	septum formation initiator
+1422597..1423880	-	427	198036583	eno	BCAL2179	-	-	enolase
+1423987..1424841	-	284	198036584	-	BCAL2180	-	-	putative 2-dehydro-3-deoxyphosphooctonate aldolase
+1424838..1426496	-	552	198036585	pyrG	BCAL2181	-	-	CTP synthase
+1426676..1427521	-	281	198036586	-	BCAL2182	-	-	conserved hypothetical protein
+1427803..1430310	-	835	198036587	-	BCAL2183	-	-	metallo-beta-lactamase superfamily membrane protein
+1430340..1431128	-	262	198036588	-	BCAL2184	-	-	putative TatD related DNase
+1431196..1431891	-	231	198036589	lolD	BCAL2185	-	-	lipoprotein releasing system ATP-binding protein
+1431947..1433200	-	417	198036590	-	BCAL2186	-	-	putative lipoprotein releasing system transmembrane protein
+1433350..1434426	+	358	198036591	-	BCAL2187	-	-	putative exported protein
+1434441..1436138	+	565	198036592	-	BCAL2188	-	-	putative single-stranded-DNA-specific exonuclease
+1436292..1437396	+	367	198036593	supK	BCAL2189	-	-	peptide chain release factor 2
+1437470..1438996	+	508	198036594	lysS	BCAL2190	-	-	lysyl-tRNA synthetase
+1439290..1440072	+	260	198036595	-	BCAL2191	-	-	putative membrane protein
+1440215..1440424	-	69	198036596	-	BCAL2192	-	-	conserved hypothetical protein
+1440444..1440785	-	113	198036597	fdx	BCAL2193	-	-	2Fe-2S ferredoxin
+1440874..1442742	-	622	198036598	hscA	BCAL2194	-	-	chaperone protein HscA homolog
+1442797..1443324	-	175	198036599	hscB	BCAL2195	-	-	co-chaperone protein HscB homolog
+1443421..1443744	-	107	198036600	-	BCAL2196	-	-	HesB family protein
+1443810..1444217	-	135	198036601	-	BCAL2197	-	-	putative iron-sulfur cluster scaffold protein
+1444285..1445508	-	407	198036602	iscS	BCAL2198	-	-	cysteine desulfurase
+1445574..1446113	-	179	198036603	-	BCAL2199	-	-	putative transcriptional regulator protein
+1446228..1446710	-	160	198036604	-	BCAL2200	-	-	low molecular weight phosphotyrosine protein phosphatase
+1446812..1447039	-	75	198036605	-	BCAL2201	-	-	putative membrane protein
+1447168..1448580	-	470	198036606	-	BCAL2202	-	-	putative iron-sulfur binding protein
+1448615..1449337	-	240	198036607	-	BCAL2203	-	-	conserved hypothetical protein
+1449521..1450330	+	269	198036608	-	BCAL2204	-	-	IclR family regulatory protein
+1450444..1451610	-	388	198036609	-	BCAL2205	-	-	D-alanyl-D-alanine endopeptidase (penicillin-binding protein precursor)
+1452265..1452831	+	188	198036610	phaP	BCAL2206	-	-	phasin-like protein
+1453030..1454799	-	589	198036611	-	BCAL2207	-	-	putative dihydrolipoamide dehydrogenase
+1455077..1456720	-	547	198036612	pdhB	BCAL2208	-	-	dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+1456789..1459485	-	898	198036613	-	BCAL2209	-	-	pyruvate dehydrogenase E1 component 1
+1459759..1462275	+	838	198036614	-	BCAL2210	-	-	two-component regulatory system, sensor kinase protein
+1462272..1462910	+	212	198036615	-	BCAL2211	-	-	two-component regulatory system, response regulator protein
+1463153..1464013	+	286	198036616	folD	BCAL2212	-	-	FolD bifunctional protein
+1464258..1466345	+	695	198036617	-	BCAL2213	-	-	oligopeptidase A
+1466405..1467580	-	391	198036618	-	BCAL2214	-	-	putative DNA polymerase IV
+1467732..1468424	+	230	198036619	-	BCAL2215	-	-	putative racemase
+1468933..1470504	-	523	198036620	-	BCAL2216	-	-	putative transposase
+1470556..1470903	-	115	198036621	-	BCAL2217	-	-	putative transposase
+1470900..1471286	-	128	198036622	-	BCAL2218	-	-	putative transposase
+1472408..1473184	+	258	198036623	-	BCAL2220	-	-	endonuclease/exonuclease/phosphatase family protein
+1473204..1475333	-	709	198036624	-	BCAL2221	-	-	putative prolyl oligopeptidase
+1475401..1476927	-	508	198036625	glnG	BCAL2222	-	-	nitrogen regulation protein NR(I)
+1476965..1478107	-	380	198036626	glnL	BCAL2223	-	-	putative nitrogen regulation protein NR(II)
+1478269..1479684	-	471	198036627	glnA	BCAL2224	-	-	glutamine synthetase
+1480091..1480558	+	155	198036628	-	BCAL2225	-	-	conserved hypothetical protein
+1480675..1481490	-	271	198036629	-	BCAL2226	-	-	putative molybdopterin-binding protein
+1481487..1482314	-	275	198036630	-	BCAL2227	-	-	putative membrane protein
+1482431..1483405	-	324	198036631	-	BCAL2228	-	-	putative membrane protein
+1483422..1484411	-	329	198036632	-	BCAL2229	-	-	putative exported protein
+1484601..1488809	-	1402	198036633	-	BCAL2230	-	-	putative ATP-dependent helicase
+1488833..1490212	+	459	198036634	-	BCAL2231	-	-	putative amino-acid acetyltransferase
+1490266..1490541	+	91	198036635	-	BCAL2232	-	-	Fe(2+) trafficking protein
+1490803..1492215	-	470	198036636	-	BCAL2233	-	-	Major Facilitator Superfamily protein
+1493447..1493809	-	120	218773188	-	PLES_42451	-	-	hypothetical protein
+1493876..1494193	-	105	218773189	-	PLES_42461	-	-	hypothetical protein
+1494212..1494466	+	84	218773190	-	PLES_42471	-	-	hypothetical protein
+1494492..1495613	+	373	218773191	braC	PLES_42481	-	-	branched-chain amino acid transport protein BraC
+1495874..1496797	+	307	218773192	braD	PLES_42491	-	-	branched-chain amino acid transport protein BraD
+1496794..1498047	+	417	218773193	braE	PLES_42501	-	-	branched-chain amino acid transport protein BraE
+1498044..1498811	+	255	218773194	braF	PLES_42511	-	-	branched-chain amino acid transport protein BraF
+1498814..1499515	+	233	218773195	braG	PLES_42521	-	-	branched-chain amino acid transport protein BraG
+1499592..1501886	-	764	218773196	-	PLES_42531	-	-	hypothetical protein
+1501923..1503833	-	636	218773197	-	PLES_42541	-	-	probable heat shock protein (hsp90 family)
+1503932..1504846	-	304	218773198	-	PLES_42551	-	-	probable transcriptional regulator
+1504895..1505551	+	218	218773199	-	PLES_42561	-	-	probable short-chain dehydrogenase
+1505562..1506035	-	157	218773200	-	PLES_42571	-	-	conserved hypothetical protein
+1506055..1506720	+	221	218773201	-	PLES_42581	-	-	hypothetical protein
+1506749..1507000	-	83	218773202	-	PLES_42591	-	-	hypothetical protein
+1506997..1507518	-	173	218773203	-	PLES_42601	-	-	hypothetical protein
+1508513..1510264	-	583	198036638	-	BCAL2235	-	-	putative acyl-CoA dehydrogenase
+1510438..1511340	+	300	198036639	-	BCAL2236	-	-	LysR family regulatory protein
+1511632..1513026	-	464	198036640	-	BCAL2237	-	-	putative aminotransferase
+1513055..1514392	-	445	198036641	-	BCAL2238	-	-	putative glutamine synthetase
+1514405..1515241	-	278	198036642	-	BCAL2239	-	-	putative gamma-glutamyl-gamma-aminobutyrate hydrolase
+1515933..1516730	-	265	198036643	-	BCAL2240	-	-	HutG protein
+1516790..1518151	-	453	198036644	-	BCAL2241	-	-	putative hlorohydrolase
+1518363..1519586	-	407	198036645	-	BCAL2242	-	-	putative imidazolonepropionase
+1519591..1520202	-	203	198036646	-	BCAL2243	-	-	conserved hypothetical protein
+1520205..1521893	-	562	198036647	hutU	BCAL2244	-	-	urocanate hydratase
+1521933..1522628	-	231	198036648	-	BCAL2245	-	-	putative histidine utilization repressor
+1524244..1524603	-	119	198036685	-	BCAL2283	-	-	putative membrane protein
+1524672..1526654	-	660	198036686	acoE	BCAL2284	-	-	acetyl-coenzyme A synthetase
+1526974..1527882	+	302	198036687	-	BCAL2285	-	-	putative membrane protein
+1527995..1528579	+	194	198036688	-	BCAL2286	-	-	putative membrane protein
+1528624..1530147	+	507	198036689	-	BCAL2287	-	-	putative fumarate hydratase
+1530342..1530818	+	158	198036690	bfr	BCAL2288	-	-	bacterioferritin
+1530853..1531710	+	285	198036691	-	BCAL2289	-	-	putative glutamate racemase
+1531863..1532099	+	78	198036692	-	BCAL2290	-	-	putative bacterioferritin ferredoxin protein
+1532318..1533049	+	243	198036693	-	BCAL2291	-	-	TonB family protein
+1533085..1533819	+	244	198036694	-	BCAL2292	-	-	putative bipolymer transport protein
+1533833..1534261	+	142	198036695	-	BCAL2293	-	-	putative biopolymer transport protein
+1534667..1535641	-	324	198036696	-	BCAL2294	-	-	LysR family regulatory protein
+1535763..1536635	+	290	198036697	-	BCAL2295	-	-	putative chromosome condensation protein
+1536674..1537216	+	180	198036698	-	BCAL2296	-	-	conserved hypothetical protein
+1537357..1537602	+	81	198036699	-	BCAL2297	-	-	conserved hypothetical protein
+1537879..1539276	-	465	198036700	-	BCAL2298	-	-	putative membrane protein
+1539273..1540115	-	280	198036701	-	BCAL2299	-	-	putative permease protein
+1540174..1540506	-	110	198036702	-	BCAL2300	-	-	putative exported protein
+1540562..1541113	-	183	198036703	-	BCAL2301	-	-	putative exported protein
+1541341..1543431	-	696	198036704	uvrB	BCAL2302	-	-	excinuclease ABC subunit B
+1543690..1544889	+	399	198036705	tyrB	BCAL2303	-	-	aromatic amino acid aminotransferase
+1545008..1545796	-	262	198036706	-	BCAL2304	-	-	putative D-beta-hydroxybutyrate dehydrogenase
+1547197..1547673	-	158	198036725	-	BCAL2324	-	-	conserved hypothetical protein
+1547670..1548131	-	153	198036726	-	BCAL2325	-	-	conserved hypothetical protein
+1548170..1549303	-	377	198036727	-	BCAL2326	-	-	putative acyl-CoA dehydrogenase family protein
+1549323..1550519	-	398	198036728	-	BCAL2327	-	-	putative acyl-CoA dehydrogenase family protein
+1550574..1550996	-	140	198036729	-	BCAL2328	-	-	conserved hypothetical protein
+1551133..1551723	-	196	198036730	-	BCAL2329	-	-	NUDIX hydrolase
+1551763..1552059	-	98	198036731	-	BCAL2330	-	-	putative membrane protein
+1552059..1553525	-	488	198036732	nuoN	BCAL2331	-	-	NADH dehydrogenase I chain N
+1553550..1555040	-	496	198036733	nuoM	BCAL2332	-	-	NADH dehydrogenase I chain M
+1555057..1557111	-	684	198036734	nuoL	BCAL2333	-	-	NADH-ubiquinone oxidoreductase I chain L
+1557129..1557434	-	101	198036735	nuoK	BCAL2334	-	-	NADH-ubiquinone oxidoreductase I chain K
+1557453..1558103	-	216	198036736	nuoJ	BCAL2335	-	-	NADH dehydrogenase I chain J
+1558209..1558697	-	162	198036737	-	BCAL2336	-	-	putative NADH dehydrogenase I chain I
+1558708..1559775	-	355	198036738	nuoH	BCAL2337	-	-	NADH dehydrogenase I chain H
+1559776..1562106	-	776	198036739	-	BCAL2338	-	-	putative NADH dehydrogenase I chain G
+1562189..1563499	-	436	198036740	nuoF	BCAL2339	-	-	NADH dehydrogenase I chain F
+1563496..1563981	-	161	198036741	-	BCAL2340	-	-	putative NADH dehydrogenase I chain E
+1564154..1565407	-	417	198036742	nuoD	BCAL2341	-	-	NADH dehydrogenase I chain D
+1565417..1566019	-	200	198036743	nuoC	BCAL2342	-	-	NADH dehydrogenase I chain C
+1566041..1566562	-	173	198036744	nuoB	BCAL2343	-	-	NADH dehydrogenase I chain B
+1566583..1566942	-	119	198036745	nuoA	BCAL2344	-	-	NADH dehydrogenase I chain A
+1567292..1567669	-	125	198036746	secG	BCAL2345	-	-	protein-export membrane protein SecG
+1567742..1568497	-	251	198036747	tpiA	BCAL2346	-	-	triosephosphate isomerase
+1568638..1569657	-	339	198036748	-	BCAL2347	-	-	putative oxidoreductase
+1569806..1571947	-	713	198036749	pnp	BCAL2348	-	-	polyribonucleotide nucleotidyltransferase
+1572244..1572513	-	89	198036750	rpsO	BCAL2349	-	-	30S ribosomal protein S15
+1572621..1573946	-	441	198036751	-	BCAL2350	-	-	putative amino acid transporter exported protein
+1574046..1574558	+	170	198036752	-	BCAL2351	-	-	putative lipoprotein
+1574942..1575583	+	213	198036753	-	BCAL2352	-	-	putative carbonic anhydrase
+1575624..1577174	+	516	198036754	-	BCAL2353	-	-	putative sulfate transporter
+1577246..1578790	-	514	198036755	leuA	BCAL2354	-	-	2-isopropylmalate synthase
+1579114..1579986	-	290	198036756	-	BCAL2355	-	-	putative phosphatidyltransferase
+1580002..1580646	-	214	198036757	-	BCAL2356	-	-	putative decarboxylase
+1580774..1581790	-	338	198036758	ilvC	BCAL2357	-	-	ketol-acid reductoisomerase
+1581896..1582387	-	163	198036759	ilvH	BCAL2358	-	-	acetolactate synthase isozyme III small subunit
+1582499..1584262	-	587	198036760	ilvI	BCAL2359	-	-	acetolactate synthase isozyme III large subunit
+1584617..1585180	+	187	198036761	-	BCAL2360	-	-	putative sigma factor
+1585177..1585596	+	139	198036762	-	BCAL2361	-	-	putative membrane protein
+1585662..1586390	+	242	198036763	-	BCAL2362	-	-	putative exported protein
+1586397..1586903	+	168	198036764	-	BCAL2363	-	-	putative membrane protein
+1587130..1588068	+	312	198036765	-	BCAL2364	-	-	putative exported protein
+1588097..1589131	+	344	198036766	-	BCAL2365	-	-	putative glycosyltransferase
+1589128..1589661	+	177	198036767	-	BCAL2366	-	-	putative kinase
+1589863..1590621	+	252	198036768	-	BCAL2367	-	-	TetR family regulatory protein
+1590618..1591199	+	193	198036769	-	BCAL2368	-	-	putative decarboxylase
+1591222..1591983	+	253	198036770	-	BCAL2369	-	-	putative dehydrogenase
+1592212..1594104	+	630	198036771	-	BCAL2370	-	-	putative membrane protein
+1594276..1594893	-	205	198036772	-	BCAL2371	-	-	conserved hypothetical protein
+1594890..1595621	-	243	198036773	-	BCAL2372	-	-	putative alanyl-tRNA synthetase
+1595731..1596141	-	136	198036774	-	BCAL2373	-	-	putative globin
+1596185..1598800	-	871	198036775	-	BCAL2374	-	-	permease protein
+1598797..1599501	-	234	198036776	-	BCAL2375	-	-	putative membrane protein
+1599632..1599952	-	106	198036777	sugE	BCAL2376	-	-	quaternary ammonium compound-resistance protein SugE
+1600304..1601269	+	321	198036778	-	BCAL2377a	-	-	putative transposase
+1601286..1601567	-	93	198036779	-	BCAL2378	-	-	putative exported protein
+1601720..1602418	-	232	198036780	kdpE	BCAL2379	-	-	two-component regulatory system, response regulator protein KdpE
+1602411..1605254	-	947	198036781	kdpD	BCAL2380	-	-	two-component regulatory system, sensor kinase protein
+1605407..1605988	-	193	198036782	kdpC	BCAL2381	-	-	potassium-transporting ATPase C chain
+1606014..1608098	-	694	198036783	kdpB	BCAL2382	-	-	potassium-transporting ATPase B chain
+1608153..1609958	-	601	198036784	kdpA	BCAL2383	-	-	potassium-transporting ATPase A chain
+1610354..1611328	-	324	198036785	qor	BCAL2384	-	-	quinone oxidoreductase
+1611501..1611893	-	130	198036786	mgsA	BCAL2385	-	-	methylglyoxal synthase
+1611949..1612728	-	259	198036787	-	BCAL2386	-	-	putative dehydrogenase
+1612937..1613587	+	216	198036788	upp	BCAL2387	-	-	uracil phosphoribosyltransferase
+1613806..1614534	+	242	198036789	-	BCAL2388	-	-	conserved hypothetical protein
+1614639..1615919	+	426	198036790	purD	BCAL2389	-	-	phosphoribosylamine--glycine ligase
+1616038..1616961	+	307	198036791	hemF	BCAL2390	-	-	coproporphyrinogen III oxidase, aerobic
+1617045..1617701	+	218	198036792	-	BCAL2391	-	-	putative nicotinate-nucleotide adenylyltransferase
+1617706..1618149	+	147	198036793	-	BCAL2392	-	-	conserved hypothetical protein
+1618168..1618638	+	156	198036794	-	BCAL2393	-	-	conserved hypothetical protein
+1618690..1619337	+	215	198036795	-	BCAL2394	-	-	Maf-like protein
+1619346..1620815	+	489	198036796	cafA	BCAL2395	-	-	ribonuclease G
+1620942..1621277	+	111	198036797	-	BCAL2396	-	-	conserved hypothetical protein
+1621733..1622884	+	383	198036798	-	BCAL2397	-	-	putative lipoprotein
+1623138..1624103	+	321	198036799	-	BCAL2398	-	-	putative lipoprotein
+1624100..1625359	+	419	198036800	-	BCAL2399	-	-	Major Facilitator Superfamily protein
+1625398..1625964	+	188	198036801	-	BCAL2400	-	-	putative membrane protein
+1626029..1626409	-	126	198036802	-	BCAL2401	-	-	putative exported protein
+1626552..1627322	+	256	198036803	-	BCAL2402	-	-	putative LPS biosynthesis-related protein
+1627357..1628541	-	394	198036804	-	BCAL2403	-	-	putative LPS core biosynthesis protein
+1628609..1629850	-	413	198036805	-	BCAL2404	-	-	putative glycosyltransferase
+1629847..1631133	-	428	198036806	-	BCAL2405	-	-	putative membrane protein
+1631130..1632260	-	376	198036807	-	BCAL2406	-	-	putative glycosyltransferase
+1632523..1633587	-	354	198036808	-	BCAL2407	-	-	putative glycosyltransferase
+1633620..1635407	-	595	198036809	msbA	BCAL2408	-	-	lipid A export ATP-binding/permease protein MsbA
+1635440..1638973	-	1177	198036810	dnaE	BCAL2409	-	-	putative DNA polymerase III alpha subunit
+1639190..1640044	+	284	198036811	-	BCAL2410	-	-	conserved hypothetical protein
+1640070..1640966	+	298	198036812	-	BCAL2411	-	-	putative glutamyl tRNA synthetase
+1644532..1646022	+	496	198036821	-	BCAL2420	-	-	putative depolymerase/histone-like protein
+1646105..1646629	+	174	198036822	-	BCAL2421	-	-	putative transposase
+1646629..1647465	+	278	198036823	-	BCAL2422	-	-	putative transposase
+1647570..1648202	-	210	198036824	-	BCAL2423	-	-	TetR family regulatory protein
+1648455..1649366	+	303	198036825	-	BCAL2424	-	-	putative electron transport-related protein
+1649363..1650007	+	214	198036826	nth	BCAL2425	-	-	endonuclease III
+1650066..1650995	-	309	198036827	-	BCAL2426	-	-	putative membrane protein
+1651203..1651637	+	144	198036828	-	BCAL2427	-	-	conserved hypothetical protein
+1651740..1652099	-	119	198036829	-	BCAL2428	-	-	putative cytochrome C precursor-related protein
+1652140..1652499	-	119	198036830	-	BCAL2429	-	-	putative cytochrome C precursor-related protein
+1652727..1653587	+	286	198036831	-	BCAL2430	-	-	putative ATPases
+1653612..1654787	+	391	198036832	-	BCAL2431	-	-	conserved hypothetical protein
+1654844..1656055	+	403	198036833	-	BCAL2432	-	-	putative benzoate membrane transport protein
+1656224..1657177	+	317	198036834	talB	BCAL2433	-	-	transaldolase B
+1657420..1657875	+	151	198036835	-	BCAL2434	-	-	glyoxalase/bleomycin resistance protein/dioxygenase superfamily protein
+1657975..1659525	-	516	198036836	-	BCAL2435	-	-	Na+/solute symporter family protein
+1659522..1659956	-	144	198036837	-	BCAL2436	-	-	putative membrane protein
+1659963..1660880	-	305	198036838	-	BCAL2437	-	-	conserved hypothetical protein
+1661026..1661280	+	84	198036839	-	BCAL2438	-	-	putative membrane protein
+1661509..1662771	+	420	198036840	-	BCAL2439	-	-	putative membrane protein
+1662795..1663274	-	159	198036841	-	BCAL2440	-	-	conserved hypothetical protein
+1663274..1663870	-	198	198036842	-	BCAL2441	-	-	chorismate lyase
+1663879..1665777	-	632	198036843	htpG	BCAL2442	-	-	chaperone protein HtpG
+1665956..1667431	-	491	198036844	-	BCAL2443	-	-	GntR family regulatory protein
+1667647..1668339	+	230	198036845	-	BCAL2444	-	-	conserved hypothetical protein
+1668394..1669302	+	302	198036846	-	BCAL2445	-	-	putative membrane protein
+1669454..1670635	+	393	198036847	-	BCAL2446	-	-	putative aminotransferase
+1670678..1671136	+	152	198036848	-	BCAL2447	-	-	endoribonuclease L-PSP family protein
+1671150..1672034	+	294	198036849	-	BCAL2448	-	-	putative phenazine biosynthesis-like protein
+1674311..1675627	-	438	198036986	-	BCAL2605	-	-	two-component regulatory system, sensor kinase protein
+1675611..1676336	-	241	198036987	-	BCAL2606	-	-	two-component regulatory system, response regulator protein
+1676561..1677115	+	184	198036988	-	BCAL2607	-	-	putative exported protein
+1677185..1677889	-	234	198036989	-	BCAL2608	-	-	Pirin-like protein
+1678256..1679038	+	260	198036990	hisJ	BCAL2609	-	-	periplasmic histidine-binding protein
+1679268..1679957	+	229	198036991	hisQ	BCAL2610	-	-	histidine transport system permease protein
+1679954..1680667	+	237	198036992	hisM	BCAL2611	-	-	histidine transport system permease protein
+1680686..1681465	+	259	198036993	hisP	BCAL2612	-	-	histidine ABC transporter ATP-binding protein
+1681532..1682029	-	165	198036994	-	BCAL2613	-	-	putative acetyltransferase
+1682164..1683090	+	308	198036995	-	BCAL2614	-	-	LysR family regulatory protein
+1683626..1684714	+	362	198036996	-	BCAL2615	-	-	putative exported outer membrane porin protein
+1684860..1685198	-	112	198036997	glnB2	BCAL2616	-	-	nitrogen regulatory protein P-II 2
+1685282..1687000	-	572	198036998	-	BCAL2617	-	-	putative glutamine-dependent NAD synthase
+1687110..1688288	+	392	198036999	-	BCAL2618	-	-	conserved hypothetical protein
+1688360..1690606	-	748	198037000	-	BCAL2619	-	-	glycosyl hydrolase family protein
+1690758..1691792	+	344	198037001	-	BCAL2620	-	-	AraC family regulatory protein
+1691842..1692711	+	289	198037002	-	BCAL2621	-	-	conserved hypothetical protein
+1692766..1693293	-	175	198037003	ppa	BCAL2622	-	-	inorganic pyrophosphatase
+1693531..1694970	+	479	198037004	-	BCAL2623	-	-	putative aldehyde dehydrogenase
+1695056..1695814	+	252	198037005	-	BCAL2624	-	-	putative aromatic hydrocarbon catabolic dehydrogenase
+1695960..1697264	+	434	198037006	-	BCAL2625	-	-	Major Facilitator Superfamily protein
+1697520..1697933	+	137	198037007	-	BCAL2626	-	-	putative DNA-binding protein
+1697930..1699156	+	408	198037008	-	BCAL2627	-	-	putative hydrolase
+1699254..1700441	-	395	198037009	-	BCAL2628	-	-	putative porphyrin biosynthesis related protein
+1702809..1703198	+	129	218774533	-	PLES_55961	-	-	hypothetical protein
+1703405..1704988	+	527	218774534	gshA	PLES_55971	-	-	glutamate--cysteine ligase
+1705031..1706329	-	432	218774535	argA	PLES_55981	-	-	N-acetylglutamate synthase
+1706666..1707367	+	233	218774536	-	PLES_55991	-	-	conserved hypothetical protein
+1707340..1708494	-	384	218774537	argE	PLES_56001	-	-	acetylornithine deacetylase
+1708594..1709862	-	422	218774538	-	PLES_56011	-	-	probable phosphate transporter
+1709909..1710586	-	225	218774539	-	PLES_56021	-	-	putative phosphate transport regulator
+1710700..1712064	+	454	218774540	-	PLES_56031	-	-	putative adenylate cyclase
+1712102..1713886	+	594	218774541	-	PLES_56041	-	-	probable secretion pathway ATPase
+1714108..1714560	+	150	218774542	-	PLES_56051	-	-	putative membrane protein
+1714692..1715021	+	109	218774543	-	PLES_56061	-	-	hypothetical protein
+1717414..1718418	-	334	198037011	hemC	BCAL2630	-	-	putative porphobilinogen deaminase protein
+1718672..1721641	+	989	198037012	-	BCAL2631	-	-	phosphoenolpyruvate carboxylase
+1721765..1722517	-	250	198037013	-	BCAL2632	-	-	putative biotin biosyntehsis related protein
+1722736..1723545	+	269	198037014	-	BCAL2633	-	-	putative DNA-binding protein
+1723553..1724548	-	331	198037015	-	BCAL2634a	-	-	putative exported protein
+1724845..1725381	+	178	198037016	-	BCAL2635	-	-	putative exported protein
+1725388..1726098	+	236	198037017	-	BCAL2636	-	-	putative fimbriae chaperone
+1726169..1728505	+	778	198037018	-	BCAL2637	-	-	putative fimbriae usher protein
+1728595..1730004	+	469	198037019	argH	BCAL2638	-	-	argininosuccinate lyase
+1730101..1730784	+	227	198037020	-	BCAL2639	-	-	putative hydrolase
+1730863..1731684	-	273	198037021	-	BCAL2640	-	-	putative exported protein
+1731684..1733963	-	759	198037022	-	BCAL2641	-	-	putative ornithine decarboxylase
+1734045..1734614	-	189	198037023	dcd	BCAL2642	-	-	deoxycytidine triphosphate deaminase
+1734810..1735346	-	178	198037024	sodC	BCAL2643	-	-	superoxide dismutase SodC
+1735480..1736571	-	363	198037025	-	BCAL2644	-	-	putative ATP-binding protein
+1736924..1737571	+	215	198037026	-	BCAL2645	-	-	putative OmpA family membrane protein
+1738256..1739149	-	297	218774031	phuT	PLES_50931	-	-	Heme-transport protein, PhuT
+1739159..1740223	-	354	218774032	-	PLES_50941	-	-	probable hemin degrading factor
+1740403..1742697	+	764	218774033	phuR	PLES_50951	-	-	Haem/Haemoglobin uptake outer membrane receptor PhuR precursor
+1742800..1743147	+	115	218774034	-	PLES_50961	-	-	putative iron-sulfur cluster-binding protein, Rieske family
+1743228..1743740	+	170	218774035	-	PLES_50971	-	-	hypothetical protein
+1743744..1744193	-	149	218774036	-	PLES_50981	-	-	hypothetical protein
+1744443..1744892	+	149	218774037	-	PLES_50991	-	-	putative metal-binding protein
+1744950..1746185	-	411	218774038	-	PLES_51001	-	-	probable aminotransferase
+1746355..1747209	+	284	218774039	-	PLES_51011	-	-	hypothetical
+1747277..1748170	+	297	218774040	-	PLES_51021	-	-	putative zinc metallopeptidase
+1748192..1748668	-	158	218774041	-	PLES_51031	-	-	hypothetical protein
+1749082..1750377	+	431	218774042	-	PLES_51041	-	-	probable transporter
+1750374..1751465	+	363	218774043	trmA	PLES_51051	-	-	tRNA (uracil-5-)-methyltransferase
+1751497..1752204	-	235	218774044	-	PLES_51061	-	-	putative sugar fermentation stimulation protein
+1755201..1759244	-	1347	198037028	-	BCAL2647	-	-	putative membrane protein
+1759290..1761104	-	604	198037029	-	BCAL2648	-	-	putative outer membrane protein
+1761321..1761509	+	62	198037030	-	BCAL2649	-	-	conserved hypothetical protein
+1761514..1762386	+	290	198037031	-	BCAL2650	-	-	putative chromosome condensation and segregation protein
+1762657..1763496	+	279	198037032	panC	BCAL2651	-	-	pantoate--beta-alanine ligase
+1763541..1763927	+	128	198037033	panD	BCAL2652	-	-	putative aspartate 1-decarboxylase
+1764059..1764721	-	220	198037034	-	BCAL2653	-	-	ParA family ATPase
+1764868..1765281	-	137	198037035	-	BCAL2654	-	-	putative membrane protein
+1765651..1767153	-	500	198037036	cobQ	BCAL2656	-	-	putative cobyric acid synthase protein
+1767229..1767783	+	184	198037037	-	BCAL2657	-	-	putative bifunctional cobalamin biosynthesis protein
+1767777..1768721	+	314	198037038	-	BCAL2658	-	-	putative cobalamin biosynthesis protein
+1768714..1769730	+	338	198037039	cobC	BCAL2659	-	-	putative cobalamin biosynthesis aminotransferase protein
+1769727..1770644	+	305	198037040	btuF	BCAL2660	-	-	putaive vitamin B12 transport protein
+1770749..1771333	-	194	198037041	-	BCAL2661	-	-	phosphoglycerate mutase family
+1771318..1772070	-	250	198037042	-	BCAL2662	-	-	putative cobalamin [5'-phosphate] synthase
+1772084..1773139	-	351	198037043	-	BCAL2663	-	-	putative nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+1773201..1774016	-	271	198037044	-	BCAL2664	-	-	ABC transporter ATP-binding protein
+1774013..1775008	-	331	198037045	-	BCAL2665	-	-	putative transmembrane ABC transporter permease
+1775562..1775912	+	116	198037046	-	BCAL2666	-	-	conserved hypothetical protein
+1775909..1776223	+	104	198037047	-	BCAL2667	-	-	cell division protein ZapA
+1776824..1777612	+	262	384076593	xpsN	SMD_0589	-	-	General secretion pathway protein N
+1777622..1779829	+	735	384076594	xpsD	SMD_0590	-	-	General secretion pathway protein D / Type II secretion outermembrane pore forming protein (PulD)
+1780447..1781298	+	283	384076595	-	SMD_0591	-	-	Glycosyltransferase
+1781295..1782134	+	279	384076596	-	SMD_0592	-	-	Glycosyl transferase
+1782236..1783417	+	393	384076597	pncB	SMD_0593	-	-	Nicotinate phosphoribosyltransferase
+1783434..1783799	-	121	384076598	-	SMD_0594	-	-	hypothetical protein
+1784259..1784798	+	179	384076599	fimA	SMD_0595	-	-	Fimbrial protein precursor
+1784884..1785612	+	242	384076600	-	SMD_0596	-	-	pili assembly chaperone:Bacterial pili assembly chaperone
+1785684..1788269	+	861	384076601	mrkC	SMD_0597	-	-	outer membrane usher protein precursor
+1788260..1789297	+	345	384076602	-	SMD_0598	-	-	fimbrial adhesin precursor
+1789564..1790739	+	391	384076603	wecB	SMD_0599	-	-	UDP-N-acetylglucosamine 2-epimerase
+1791798..1792259	+	153	198037048	-	BCAL2668	-	-	conserved hypothetical protein
+1792442..1793182	+	246	198037049	-	BCAL2669	-	-	putative exported protein
+1793306..1794202	-	298	198037050	lgt	BCAL2670	-	-	prolipoprotein diacylglyceryl transferase
+1794290..1795204	-	304	198037051	-	BCAL2671	-	-	LysR family regulatory protein
+1795339..1797012	+	557	198037052	ilvD	BCAL2672	-	-	putative dihydroxy-acid dehydratase
+1797141..1797467	+	108	198037053	-	BCAL2673	-	-	putative cytochrome c protein
+1797605..1798360	-	251	198037054	-	BCAL2674	-	-	conserved hypothetical protein
+1798386..1798802	-	138	198037055	-	BCAL2675	-	-	putative DNA polymerase III chi subunit
+1798837..1800348	-	503	198037056	pepA	BCAL2676	-	-	aminopeptidase A
+1800471..1801565	+	364	198037057	-	BCAL2677	-	-	putative permease protein
+1801569..1802717	+	382	198037058	-	BCAL2678	-	-	putative permease protein
+1802745..1803128	+	127	198037059	-	BCAL2679	-	-	putative cobaltochelatase
+1803210..1803959	-	249	198037060	-	BCAL2680	-	-	putative uroporphyrin-III C-methyltransferase
+1804020..1805336	-	438	198037061	cysN	BCAL2681	-	-	putative sulfate adenylyltransferase subunit 1
+1805359..1806321	-	320	198037062	cysD1	BCAL2682	-	-	putative sulfate adenylyltransferase subunit 2 1
+1806397..1807149	-	250	198037063	cysH	BCAL2683	-	-	putative phosphoadenosine phosphosulfate reductase
+1807146..1807688	-	180	198037064	-	BCAL2684	-	-	conserved hypothetical protein
+1807714..1809393	-	559	198037065	cysI	BCAL2685	-	-	putative sulfite reductase
+1809606..1810547	+	313	198037066	cysB	BCAL2686	-	-	cys regulon transcriptional activator CysB
+1810618..1811784	+	388	198037067	-	BCAL2687	-	-	putative lipoprotein
+1812106..1813008	-	300	198037068	-	BCAL2688	-	-	LysR family regulatory protein
+1813058..1813867	+	269	198037069	-	BCAL2689	-	-	putative short-chain type dehydrogenase/reductase
+1813911..1814810	+	299	198037070	-	BCAL2690	-	-	short chain dehydrogenase
+1814841..1815731	-	296	198037071	-	BCAL2691	-	-	putative hydrolase
+1815802..1816734	+	310	198037072	-	BCAL2692	-	-	LysR family regulatory protein
+1816760..1817695	-	311	198037073	-	BCAL2693	-	-	LysR family regulatory protein
+1817862..1818635	-	257	198037074	-	BCAL2694	-	-	putative dehydrogenase
+1818816..1819316	-	166	198037075	-	BCAL2695	-	-	conserved hypothetical protein
+1819383..1819757	-	124	198037076	-	BCAL2696	-	-	putative copper resistance protein
+1819873..1820589	+	238	198037077	-	BCAL2697	-	-	putative ribosomal small subunit pseudouridine synthase A
+1820695..1820883	+	62	198037078	-	BCAL2698	-	-	putative membrane protein
+1820866..1821903	-	345	198037079	-	BCAL2699	-	-	NAD dependent epimerase/dehydratase family protein
+1822011..1823042	+	343	198037080	-	BCAL2700	-	-	putative oxidoreductase
+1823335..1824519	+	394	198037081	-	BCAL2701	-	-	aminotransferase class-III
+1824533..1824988	+	151	198037082	-	BCAL2702	-	-	putative acetyltransferase
+1825006..1825677	-	223	198037083	-	BCAL2703	-	-	conserved hypothetical protein
+1825907..1826431	+	174	198037084	-	BCAL2703a	-	-	putative transposase
+1826431..1827267	+	278	198037085	-	BCAL2704	-	-	putative transposase
+1827367..1828083	-	238	198037086	-	BCAL2705	-	-	ABC transporter ATP-binding protein
+1828083..1828859	-	258	198037087	-	BCAL2706	-	-	ABC transporter ATP-binding protein
+1828883..1830052	-	389	198037088	-	BCAL2707	-	-	putative transport system permease protein
+1830072..1831022	-	316	198037089	-	BCAL2708	-	-	putative amino-acid transport permease protein
+1831234..1831944	-	236	198037090	-	BCAL2709	-	-	conserved hypothetical protein
+1832149..1833129	-	326	198037091	ispH1	BCAL2710	-	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase 1
+1833132..1833587	-	151	198037092	-	BCAL2711	-	-	putative FkpB-type peptidyl-prolyl cis-trans isomerase
+1835812..1836504	+	230	218770220	-	PLES_12551	-	-	hypothetical protein
+1836611..1837150	+	179	218770221	-	PLES_12561	-	-	conserved hypothetical protein
+1837194..1838909	+	571	218770222	recJ	PLES_12571	-	-	single-stranded-DNA-specific exonuclease RecJ
+1839196..1840692	+	498	218770223	lasB	PLES_12581	-	-	elastase LasB
+1840861..1841967	+	368	218770224	-	PLES_12591	-	-	probable FMN oxidoreductase
+1842156..1842506	+	116	218770225	-	PLES_12601	-	-	hypothetical protein
+1842519..1843160	-	213	218770226	-	PLES_12611	-	-	probable transcriptional regulator
+1843203..1843790	+	195	218770227	-	PLES_12621	-	-	hypothetical protein
+1843798..1843959	+	53	218770228	-	PLES_12631	-	-	hypothetical protein
+1844107..1845348	+	413	218770229	-	PLES_12641	-	-	probable major facilitator superfamily (MFS) transporter
+1845447..1845788	-	113	218770230	-	PLES_12651	-	-	probable peptidyl-prolyl cis-trans isomerase, FkbP-type
+1845999..1847705	+	568	218770231	-	PLES_12661	-	-	hypothetical protein
+1847784..1848587	-	267	218770232	-	PLES_12671	-	-	hypothetical protein
+1849735..1849968	+	77	198037094	rpmB	BCAL2714	-	-	50S ribosomal protein L28
+1849986..1850153	+	55	198037095	rpmG	BCAL2715	-	-	50S ribosomal protein L33
+1850322..1851908	+	528	198037096	nadB	BCAL2716	-	-	putative L-aspartate oxidase
+1852004..1852885	-	293	198037097	nadC	BCAL2717	-	-	putative nicotinate-nucleotide pyrophosphorylase
+1852882..1854024	-	380	198037098	nadA	BCAL2718	-	-	quinolinate synthetase A
+1854273..1855469	-	398	198037099	-	BCAL2719	-	-	putative transmembrane fatty acid desaturase
+1855685..1857067	-	460	198037100	-	BCAL2720	-	-	putative mechanosensitive ion channel protein
+1857086..1858351	-	421	198037101	-	BCAL2721	-	-	NOL1/NOP2/Sun family protein
+1858348..1859010	-	220	198037102	purN	BCAL2722	-	-	phosphoribosylglycinamide formyltransferase
+1859134..1860126	+	330	198037103	-	BCAL2723	-	-	putative riboflavin biosynthesis protein
+1860231..1863068	+	945	198037104	ileS1	BCAL2724	-	-	isoleucyl-tRNA synthetase
+1863071..1863571	+	166	198037105	lspA	BCAL2725	-	-	signal peptidase II
+1863639..1864850	+	403	198037106	dfp	BCAL2726	-	-	putative DNA/pantothenate metabolism flavoprotein
+1864906..1865352	+	148	198037107	dut	BCAL2727	-	-	deoxyuridine 5'-triphosphate nucleotidohydrolase
+1865414..1866184	-	256	198037108	-	BCAL2728	-	-	putative membrane protein
+1866319..1867698	-	459	198037109	-	BCAL2729	-	-	putative amino acid permease
+1867802..1870102	-	766	198037110	clpA	BCAL2730	-	-	putative ATP-dependent Clp protease ATP-binding subunit
+1870099..1870413	-	104	198037111	clpS	BCAL2731	-	-	ATP-dependent Clp protease adaptor protein ClpS
+1870959..1871162	+	67	198037112	-	BCAL2732	-	-	cold shock-like protein
+1871344..1872942	-	532	198037113	-	BCAL2733	-	-	putative multicopper oxidase
+1873531..1873755	+	74	198037114	-	BCAL2734	-	-	conserved hypothetical protein
+1873879..1876116	-	745	198037115	-	BCAL2735	-	-	isocitrate dehydrogenase [NADP]
+1876390..1877646	-	418	198037116	-	BCAL2736	-	-	isocitrate dehydrogenase
+1877924..1878502	+	192	198037117	-	BCAL2737	-	-	putative pseudouridine synthase
+1879160..1879660	+	166	198037118	-	BCAL2738	-	-	putative exported protein
+1883049..1884281	+	410	198037125	-	BCAL2746	-	-	putative citrate synthase
+1884254..1884577	-	107	198037126	-	BCAL2746A	-	-	conserved hypothetical protein
+1886091..1887473	-	460	198037137	xseA	BCAL2758	-	-	putative exodeoxyribonuclease VII large subunit
+1887923..1888951	+	342	198037138	-	BCAL2759	-	-	putative tetraacyldisaccharide 4'-kinase
+1888932..1889126	+	64	198037139	-	BCAL2760	-	-	conserved hypothetical protein
+1889251..1890042	+	263	198037140	kdsB	BCAL2761	-	-	putative 3-deoxy-manno-octulosonate cytidylyltransferase
+1890251..1890913	+	220	198037141	adk	BCAL2762	-	-	putative adenylate kinase
+1891172..1892014	-	280	198037142	-	BCAL2763	-	-	conserved hypothetical protein
+1892023..1893573	-	516	198037143	-	BCAL2764	-	-	MviN-like protein
+1893878..1894150	+	90	198037144	rpsT	BCAL2765	-	-	30S ribosomal protein S20
+1894297..1894629	-	110	198037145	-	BCAL2766	-	-	conserved hypothetical protein
+1895030..1895959	+	309	198037146	argF	BCAL2767	-	-	putative ornithine carbamoyltransferase
+1896046..1897089	-	347	198037147	murB	BCAL2768	-	-	putative UDP-N-acetylenolpyruvoylglucosamine reductase
+1897232..1897717	+	161	198037148	-	BCAL2769	-	-	conserved hypothetical protein
+1897797..1898438	-	213	198037149	-	BCAL2770	-	-	putative membrane protein
+1898555..1899046	-	163	198037150	-	BCAL2771	-	-	conserved hypothetical protein
+1899361..1900845	+	494	198037151	-	BCAL2772	-	-	putative AMP-binding enzyme
+1900922..1901872	-	316	198037152	xerD	BCAL2773	-	-	putative integrase/recombinase
+1901869..1902339	-	156	198037153	-	BCAL2774	-	-	putative methylated-DNA--protein-cysteine methyltransferase
+1902405..1903628	-	407	198037154	-	BCAL2775	-	-	4Fe-4S ferredoxin
+1903646..1904200	+	184	198037155	-	BCAL2776	-	-	putative hydrolase
+1904194..1905708	+	504	198037156	-	BCAL2777	-	-	putative N-acetylmuramoyl-L-alanine amidase
+1905754..1906632	-	292	198037157	-	BCAL2778	-	-	putative permease protein
+1906907..1907788	+	293	198037158	-	BCAL2779	-	-	Pirin-like protein
+1907841..1908689	+	282	198037159	-	BCAL2780	-	-	putative thioredoxin protein
+1908793..1909581	-	262	198037160	-	BCAL2781	-	-	ThiF family protein
+1909779..1910423	+	214	198037161	pdxH	BCAL2782	-	-	putative pyridoxamine 5'-phosphate oxidase
+1910545..1911765	+	406	198037162	-	BCAL2783	-	-	putative cyclopropane-fatty-acyl-phospholipid synthase
+1911789..1913084	+	431	198037163	-	BCAL2784	-	-	conserved hypothetical protein
+1913107..1913667	-	186	198037164	-	BCAL2785	-	-	putative peptide methionine sulfoxide reductase
+1914187..1915593	+	468	198037165	-	BCAL2786	-	-	putative selenium-binding protein
+1915590..1916255	+	221	198037166	-	BCAL2787	-	-	putative membrane protein
+1916536..1917045	+	169	198037167	-	BCAL2788	-	-	flavin reductase family protein
+1917032..1917532	-	166	198037168	-	BCAL2789	-	-	AnsC family regulatory protein
+1917662..1918303	+	213	198037169	-	BCAL2790	-	-	putative cyclase
+1918331..1919584	+	417	198037170	-	BCAL2791	-	-	putative kynureninase
+1919660..1920610	+	316	198037171	-	BCAL2792	-	-	putative tryptophan 2,3-dioxygenase
+1920631..1922058	-	475	198037172	-	BCAL2793	-	-	Major Facilitator Superfamily protein
+1922295..1923239	-	314	198037173	-	BCAL2794	-	-	putative ketopantoate reductase
+1923254..1924705	-	483	198037174	-	BCAL2795	-	-	aldehyde dehydrogenase family protein
+1924735..1926339	-	534	198037175	-	BCAL2796	-	-	putative benzoylformate decarboxylase
+1926439..1927350	+	303	198037176	-	BCAL2797	-	-	LysR family regulatory protein
+1927523..1928917	+	464	198037177	dalD	BCAL2798	-	-	putative D-arabinitol 4-dehydrogenase
+1929022..1930503	+	493	198037178	dalK	BCAL2799	-	-	putative carbohydrate kinase
+1930624..1931580	+	318	198037179	-	BCAL2800	-	-	putative transcriptional regulator
+1931609..1932790	-	393	198037180	-	BCAL2801	-	-	Major Facilitator Superfamily protein
+1932829..1934025	-	398	198037181	-	BCAL2802	-	-	putative esterase
+1934139..1935023	+	294	198037182	-	BCAL2803	-	-	LysR family regulatory protein
+1935038..1936147	-	369	198037183	-	BCAL2804	-	-	putative sugar ABC transporter ATP-binding protein
+1936203..1936901	-	232	198037184	-	BCAL2805	-	-	putative haloacid dehalogenase hydrolase
+1936898..1937749	-	283	198037185	-	BCAL2806	-	-	putative ABC transporter permease protein
+1937746..1938699	-	317	198037186	-	BCAL2807	-	-	putative transmembrane ABC transporter protein
+1938813..1940138	-	441	198037187	-	BCAL2808	-	-	putative periplasmic ABC transporter substrate-binding component
+1940211..1941563	-	450	198037188	-	BCAL2809	-	-	putative tagatose 6-phosphate kinase protein
+1941551..1942507	-	318	198037189	scrK	BCAL2810	-	-	putative fructokinase
+1942586..1943362	-	258	198037190	-	BCAL2811	-	-	sorbitol dehydrogenase
+1943691..1944152	+	153	198037191	-	BCAL2812	-	-	putative Fur family transcriptional regulator
+1944197..1945108	+	303	198037192	-	BCAL2813	-	-	putative periplasmic solute-binding protein
+1945126..1946010	+	294	198037193	-	BCAL2814	-	-	ABC transporter ATP-binding protein
+1946021..1946785	+	254	198037194	-	BCAL2815	-	-	putative ABC transporter permease component
+1946919..1947767	-	282	198037195	-	BCAL2816	-	-	S-formylglutathione hydrolase
+1947784..1948890	-	368	198037196	flhA	BCAL2817	-	-	S-(hydroxymethyl)glutathione dehydrogenase
+1949105..1950646	-	513	198037197	-	BCAL2818	-	-	putative sugar kinase protein
+1950938..1952386	+	482	198037198	-	BCAL2819	-	-	putative permease protein
+1952761..1954284	-	507	198037199	oprM	BCAL2820	-	-	efflux system outer membrane protein
+1954284..1957484	-	1066	198037200	-	BCAL2821	-	-	RND family efflux system transporter protein
+1957500..1958774	-	424	198037201	bpeA	BCAL2822	-	-	efflux system transport protein
+1959175..1959816	+	213	198037202	bpeR	BCAL2823	-	-	TetR family regulatory protein
+1959854..1960531	-	225	198037203	-	BCAL2824	-	-	isochorismatase family protein
+1960684..1961691	+	335	198037204	-	BCAL2825	-	-	AraC family regulatory protein
+1961743..1962450	-	235	198037205	-	BCAL2826a	-	-	putative membrane protein
+1962479..1962898	-	139	198037206	-	BCAL2827	-	-	conserved hypothetical protein
+1962968..1963432	-	154	198037207	-	BCAL2828	-	-	putative exported protein
+1963514..1964998	-	494	198037208	-	BCAL2829	-	-	serine peptidase, subfamily S1B
+1965100..1966446	-	448	198037209	-	BCAL2830	-	-	two-component regulatory system, sensor kinase protein
+1966450..1967112	-	220	198037210	-	BCAL2831	-	-	two-component regulatory system, response regulator protein
+1967300..1968823	+	507	198037211	dacB	BCAL2832	-	-	D-alanyl-D-alanine carboxypeptidase/endopeptidase (penicillin-binding protein precursor)
+1969156..1970070	+	304	198037212	-	BCAL2833	-	-	putative membrane protein
+1970166..1971302	+	378	198037213	-	BCAL2834	-	-	putative acylhydrolase
+1971393..1972421	-	342	198037214	-	BCAL2835	-	-	conserved hypothetical protein
+1972433..1973629	-	398	198037215	purK	BCAL2836	-	-	phosphoribosylaminoimidazole carboxylase ATPase subunit
+1973720..1974241	-	173	198037216	purE	BCAL2837	-	-	phosphoribosylaminoimidazole carboxylase catalytic subunit
+1974258..1975148	-	296	198037217	purC	BCAL2838	-	-	5'-phosphoribosyl-4-N-succinocarboxamide-5-amin o imidazole synthetase
+1975383..1976447	-	354	198037218	cbbA	BCAL2839	-	-	fructose-bisphosphate aldolase
+1976766..1978202	-	478	198037219	pykA	BCAL2840	-	-	putative pyruvate kinase II protein
+1978487..1979833	-	448	198037220	pgk	BCAL2841	-	-	phosphoglycerate kinase
+1979964..1980287	-	107	198037221	-	BCAL2842	-	-	putative branched-chain amino acid transport protein
+1980284..1981039	-	251	198037222	-	BCAL2843	-	-	putative branched-chain amino acid transport protein
+1981247..1982170	+	307	198037223	ilvE	BCAL2844	-	-	putative branched-chain amino acid aminotransferase IlvE
+1982187..1983152	-	321	198037224	-	BCAL2845	-	-	putative transposase
+1983453..1983956	+	167	198037225	-	BCAL2846	-	-	conserved hypothetical protein
+1984077..1984886	-	269	198037226	-	BCAL2847	-	-	putative methionine aminopeptidase
+1984883..1985119	-	78	198037227	-	BCAL2848	-	-	conserved hypothetical protein
+1985267..1985887	+	206	198037228	-	BCAL2849	-	-	putative DNA-binding protein
+1985938..1986486	+	182	198037229	-	BCAL2850	-	-	acetyltransferase (GNAT) family protein
+1986581..1987513	-	310	198037230	-	BCAL2851	-	-	putative hydrolase
+1987698..1989176	-	492	198037231	-	BCAL2852	-	-	putative diguanylate cyclase
+1990465..1991052	-	195	198037232	pgsA1	BCAL2853	-	-	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase 1
+1992818..1993783	-	321	198037233	-	BCAL2855	-	-	transposase
+1997717..1998367	+	216	218772764	-	PLES_38221	-	-	probable transcriptional regulator
+1998405..1998803	+	132	218772765	-	PLES_38231	-	-	hypothetical protein
+1998819..1999295	-	158	218772766	-	PLES_38241	-	-	conserved hypothetical protein
+1999364..2000470	-	368	218772767	-	PLES_38251	-	-	hypothetical protein
+2000491..2000871	-	126	218772768	-	PLES_38261	-	-	hypothetical protein
+2001018..2001443	+	141	218772769	-	PLES_38271	-	-	hypothetical protein
+2001480..2001893	+	137	218772770	-	PLES_38281	-	-	hypothetical protein
+2002063..2003274	+	403	218772771	-	PLES_38291	-	-	putative membrane protein
+2004225..2004971	+	248	218772782	-	PLES_38401	-	-	probable permease of ABC transporter
+2004968..2005636	+	222	218772783	-	PLES_38411	-	-	probable permease of ABC transporter
+2005633..2006367	+	244	218772784	-	PLES_38421	-	-	probable ATP-binding component of ABC transporter
+2006445..2008118	+	557	218772785	ggt	PLES_38431	-	-	gamma-glutamyltranspeptidase precursor
+2008204..2009292	+	362	218772786	ansB	PLES_38441	-	-	glutaminase-asparaginase
+2012591..2013823	-	410	198037251	fabF1	BCAL2874	-	-	3-oxoacyl-[acyl-carrier-protein] synthase II 1
+2013988..2014227	-	79	198037252	acpP1	BCAL2875	-	-	acyl carrier protein (ACP) 1
+2014372..2015121	-	249	198037253	fabG1	BCAL2876	-	-	3-oxoacyl-[acyl-carrier-protein] reductase 1
+2015876..2016598	+	240	198037260	-	BCAL2883	-	-	putative tetrapyrrole methylase
+2016667..2017659	-	330	198037261	-	BCAL2884	-	-	serine peptidase, family S49
+2017672..2018073	-	133	198037262	-	BCAL2885	-	-	Rieske iron-sulphur protein
+2018070..2018729	-	219	198037263	-	BCAL2886	-	-	haloacid dehalogenase-like hydrolase
+2018735..2019739	-	334	198037264	rluC1	BCAL2887	-	-	ribosomal large subunit pseudouridine synthase C 1
+2020459..2023623	+	1054	198037265	rne1	BCAL2888	-	-	ribonuclease E 1
+2023754..2024866	+	370	198037266	moaA1	BCAL2889	-	-	molybdenum cofactor biosynthesis protein A 1
+2024889..2025506	+	205	198037267	moeA1	BCAL2890	-	-	putative molybdopterin-guanine dinucleotide biosynthesis protein A 1
+2025618..2026883	+	421	198037268	moeA1	BCAL2891	-	-	molybdopterin biosynthesis protein MoeA 1
+2026923..2027198	+	91	198037269	-	BCAL2892	-	-	putative membrane protein
+2027195..2027680	+	161	198037270	-	BCAL2893	-	-	acetyltransferase (GNAT) family protein
+2027771..2029240	-	489	198037271	-	BCAL2894	-	-	RmuC family protein
+2029243..2030232	-	329	198037272	-	BCAL2895	-	-	putative 2-ketogluconate reductase
+2030314..2031744	-	476	198037273	-	BCAL2896	-	-	putative membrane protein
+2031788..2032450	-	220	198037274	-	BCAL2897	-	-	conserved hypothetical protein
+2032538..2033737	-	399	198037275	-	BCAL2898	-	-	putative nicotinate phosphoribosyltransferase
+2034007..2034330	+	107	198037276	-	BCAL2899	-	-	4Fe-4S ferredoxin
+2035006..2036157	+	383	384079014	-	SMD_3088	-	-	TPR domain protein
+2036165..2036500	-	111	384079015	phnA	SMD_3089	-	-	Alkylphosphonate utilization operon protein PhnA
+2036693..2038054	+	453	384079016	yegD	SMD_3090	-	-	Putative heat shock protein YegD
+2038326..2038577	+	83	384079017	-	SMD_3091	-	-	hypothetical protein
+2038589..2038771	+	60	384079018	-	SMD_3092	-	-	hypothetical protein
+2038821..2039687	-	288	384079019	-	SMD_3093	-	-	hypothetical protein
+2039714..2040247	-	177	384079020	-	SMD_3094	-	-	hypothetical protein
+2040244..2040822	-	192	384079021	-	SMD_3095	-	-	RNA polymerase ECF-type sigma factor
+2040949..2041128	+	59	384079022	-	SMD_3096	-	-	hypothetical protein
+2041164..2041757	+	197	384079023	-	SMD_3097	-	-	Small-conductance mechanosensitive channel
+2042303..2042569	-	88	384079024	-	SMD_3098	-	-	Hypothetical Zinc-finger containing protein
+2042700..2043416	+	238	384076371	-	SMD_0364	-	-	Cytochrome oxidase biogenesis protein Surf1,facilitates heme A insertion
+2043417..2044313	-	298	384079576	xerC	SMD_3663	-	-	Site-specific tyrosine recombinase
+2044314..2045030	+	238	384076371	-	SMD_0364	-	-	Cytochrome oxidase biogenesis protein Surf1,facilitates heme A insertion
+2045031..2045366	-	111	384076631	-	SMD_0628	-	-	Predicted endonuclease distantly related to archaeal Holliday junction resolvase
+2045367..2046866	-	499	384076135	-	SMD_0110	-	-	ISStmaD3 transposase A
+2046867..2046989	-	40	384079102	-	SMD_3178	-	-	plasmid stabilization system
+2046990..2047967	+	325	384076577	xerD	SMD_0573	-	-	Tyrosine recombinase XerD
+2047968..2048525	-	185	384079025	-	SMD_3099	-	-	nucleoprotein/polynucleotide-associated enzyme
+2048588..2049088	+	166	384079026	-	SMD_3100	-	-	Predicted metal-dependent hydrolase
+2049785..2050270	+	161	198037277	-	BCAL2900	-	-	CreA protein 1
+2050291..2051196	+	301	198037278	-	BCAL2901	-	-	AraC family regulatory protein
+2052364..2052858	-	164	198037286	-	BCAL2909	-	-	long-chain acyl-CoA thioester hydrolase
+2053333..2054040	+	235	198037287	-	BCAL2910	-	-	ArsR family regulatory protein
+2054203..2056731	+	842	198037288	-	BCAL2911	-	-	proline-rich exported protein
+2056831..2057802	-	323	198037289	-	BCAL2912	-	-	putative thymidylate synthase
+2057844..2059241	-	465	198037290	-	BCAL2913	-	-	sigma-54 interacting regulatory protein
+2059744..2060070	+	108	198037291	-	BCAL2914	-	-	conserved hypothetical protein
+2060361..2060861	+	166	198037292	dfrA	BCAL2915	-	-	dihydrofolate reductase
+2060948..2062318	-	456	198037293	-	BCAL2916	-	-	microcin-processing peptidase
+2062437..2063048	+	203	198037294	-	BCAL2917	-	-	conserved hypothetical protein
+2063065..2063640	+	191	198037295	mog	BCAL2918	-	-	molybdopterin biosynthesis protein
+2063675..2064295	-	206	198037296	orn	BCAL2919	-	-	oligoribonuclease
+2064421..2065680	+	419	198037297	-	BCAL2920	-	-	metallo peptidase, subfamily M48A
+2065743..2066618	+	291	198037298	-	BCAL2921	-	-	conserved hypothetical protein
+2066683..2067000	+	105	198037299	-	BCAL2922	-	-	conserved hypothetical protein
+2067078..2068016	-	312	198037300	-	BCAL2923	-	-	putative cobalamin biosynthesis membrane protein
+2068137..2068823	-	228	198037301	-	BCAL2924	-	-	NUDIX hydrolase
+2068911..2069303	-	130	198037302	rplS	BCAL2925	-	-	50S ribosomal protein L19
+2069437..2070231	-	264	198037303	trmD	BCAL2926	-	-	tRNA(guanine-N(1)-)-methyltransferase
+2070233..2070913	-	226	198037304	rimM	BCAL2927	-	-	16S rRNA processing protein
+2070953..2071207	-	84	198037305	rpsP	BCAL2928	-	-	30S ribosomal protein S16
+2071360..2072499	+	379	198037306	-	BCAL2929	-	-	putative exported protein
+2072611..2073078	+	155	198037307	-	BCAL2930	-	-	putative membrane protein
+2073130..2074296	-	388	198037308	-	BCAL2931	-	-	radical SAM superfamily protein
+2074399..2074887	-	162	198037309	lrp	BCAL2932	-	-	leucine-responsive regulatory protein
+2075034..2076320	+	428	198037310	dadA	BCAL2933	-	-	D-amino acid dehydrogenase small subunit
+2076547..2077482	-	311	198037311	etfA	BCAL2934	-	-	electron transfer flavoprotein alpha-subunit
+2077499..2078248	-	249	198037312	etfB	BCAL2935	-	-	electron transfer flavoprotein beta-subunit
+2078477..2079271	-	264	198037313	-	BCAL2936	-	-	putative exported protein
+2079300..2079953	-	217	198037314	-	BCAL2937	-	-	ABC transporter membrane permease
+2079943..2080977	-	344	198037315	-	BCAL2938	-	-	ABC transporter ATP-binding protein
+2081194..2082102	+	302	198037316	-	BCAL2939	-	-	putative exported monoglyceride lipase
+2082131..2083054	-	307	198037317	-	BCAL2940	-	-	putative histone deacetylase-family protein
+2083224..2084441	+	405	198037318	-	BCAL2941	-	-	putative exported transglycosylase
+2084519..2085421	-	300	198037319	cysM	BCAL2942	-	-	cysteine synthase
+2085631..2085978	-	115	198037320	-	BCAL2943	-	-	putative exported protein
+2086052..2087044	-	330	198037321	hldD	BCAL2944	-	-	ADP-l-glycero-D-manno-heptose-6-epimerase
+2087109..2088059	-	316	198037322	hldA	BCAL2945	-	-	D-beta-D-heptose 7-phosphate kinase
+2088067..2089467	-	466	198037323	udg	BCAL2946	-	-	putative UDP-glucose dehydrogenase
+2089558..2090730	-	390	198037324	-	BCAL2947	-	-	putative membrane protein
+2090784..2091077	-	97	198037325	-	BCAL2948	-	-	putative membrane protein
+2091288..2091611	-	107	198037326	ihfB	BCAL2949	-	-	integration host factor beta-subunit
+2091634..2093346	-	570	198037327	rpsA	BCAL2950	-	-	30S ribosomal protein S1
+2093489..2094175	-	228	198037328	cmk	BCAL2951	-	-	cytidylate kinase
+2094189..2095493	-	434	198037329	aroA	BCAL2952	-	-	3-phosphoshikimate 1-carboxyvinyltransferase
+2095507..2096445	-	312	198037330	-	BCAL2953	-	-	putative prephenate dehydrogenase
+2096620..2097702	-	360	198037331	pheA	BCAL2954	-	-	P-protein [bifunctional includes: chorismate mutase and prephenate dehydratase]
+2097736..2098818	-	360	198037332	serC	BCAL2955	-	-	phosphoserine aminotransferase
+2098974..2099573	-	199	198037333	-	BCAL2956	-	-	putative exported protein
+2099657..2102260	-	867	198037334	gyrA	BCAL2957	-	-	DNA Gyrase, subunit A
+2105211..2105723	+	170	198037374	dsbB	BCAL2987	-	-	disulfide bond formation protein B
+2106349..2107353	+	334	198037375	-	BCAL2988	-	-	conserved hypothetical protein
+2107372..2108397	+	341	198037376	add	BCAL2989	-	-	adenosine deaminase
+2108769..2110088	+	439	198037377	guaD	BCAL2990	-	-	guanine deaminase
+2110434..2111006	+	190	198037378	-	BCAL2991	-	-	putative membrane protein
+2111061..2111768	-	235	198037379	-	BCAL2992	-	-	putative lipoprotein
+2111956..2114649	+	897	198037380	-	BCAL2993	-	-	aminopeptidase N
+2114932..2115945	+	337	198037381	fbp	BCAL2994	-	-	fructose-1,6-bisphosphatase, chromosomal
+2117298..2117861	-	187	198037396	greB	BCAL3009	-	-	transcription elongation factor
+2118539..2120905	-	788	198037397	spoT	BCAL3010	-	-	guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+2120969..2121172	-	67	198037398	rpoZ	BCAL3011	-	-	DNA-directed RNA polymerase omega chain
+2121231..2121914	-	227	198037399	gmk	BCAL3012	-	-	guanylate kinase
+2121922..2122845	-	307	198037400	-	BCAL3013	-	-	conserved hypothetical protein
+2123021..2123761	+	246	198037401	rph	BCAL3014	-	-	ribonuclease PH
+2123754..2124380	+	208	198037402	-	BCAL3015	-	-	Ham1 family protein
+2124415..2125629	+	404	198037403	-	BCAL3016	-	-	putative coproporphyrinogen III oxidase family protein
+2125903..2126298	+	131	198037404	-	BCAL3017	-	-	putative exported protein
+2126529..2126822	+	97	198037405	-	BCAL3018	-	-	conserved hypothetical protein
+2127120..2127611	+	163	198037406	-	BCAL3019	-	-	putative lipoprotein
+2129115..2129915	-	266	198037413	minD	BCAL3026	-	-	septum site-determining protein
+2129990..2130775	-	261	198037414	minC	BCAL3027	-	-	probable septum site-determining protein
+2130944..2131444	-	166	198037415	-	BCAL3028	-	-	acetyltransferase (GNAT) family protein
+2132124..2133284	+	386	198037416	-	BCAL3029	-	-	putative alkane monooxygenase
+2133727..2135028	-	433	198037417	serS	BCAL3030	-	-	seryl-tRNA synthetase
+2135277..2135543	+	88	198037418	-	BCAL3031	-	-	conserved hypothetical protein
+2135586..2136911	-	441	198037419	-	BCAL3032	-	-	putative ATPase protein
+2137076..2137765	-	229	198037420	-	BCAL3033	-	-	probable outer-membrane lipoproteins carrier protein
+2137812..2140121	-	769	198037421	-	BCAL3034	-	-	DNA translocase FtsK
+2140510..2141472	+	320	198037422	trxB	BCAL3035	-	-	thioredoxin reductase
+2141608..2142387	+	259	198037423	-	BCAL3036	-	-	hypothetical protein
+2143598..2144278	+	226	198037430	pgl	BCAL3043	-	-	6-phosphogluconolactonase
+2145861..2146982	+	373	198037437	ribD	BCAL3050	-	-	multifunctional riboflavin biosynthetic protein [includes: diaminohydroxyphosphoribosylaminopyrimidine deaminase; 5-amino-6-(5-phosphoribosylamino)uracil reductase]
+2146997..2147626	+	209	198037438	ribE	BCAL3051	-	-	riboflavin synthase alpha chain
+2147956..2148474	+	172	198037439	-	BCAL3052	-	-	conserved hypothetical protein
+2148617..2149759	+	380	198037440	ribB	BCAL3053	-	-	3,4-dihydroxy-2-butanone 4-phosphate synthase
+2149813..2150328	+	171	198037441	ribH	BCAL3054	-	-	6,7-dimethyl-8-ribityllumazine synthase
+2150325..2150762	+	145	198037442	nusB	BCAL3055	-	-	probable N utilization substance protein B
+2150833..2152029	+	398	198037443	-	BCAL3056	-	-	putative aminotransferase
+2152148..2153275	-	375	198037444	-	BCAL3057	-	-	putative lipoprotein
+2153873..2155429	+	518	198037445	ubiD	BCAL3058	-	-	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+2155488..2156156	+	222	198037446	-	BCAL3059	-	-	LysE type translocator protein
+2156275..2156571	-	98	198037447	RS03543	BCAL3059A	-	-	putative exported protein
+2157086..2158015	+	309	198037448	-	BCAL3060	-	-	conserved hypothetical protein
+2158091..2158654	+	187	198037449	-	BCAL3061	-	-	putative membrane protein
+2158668..2159018	-	116	198037450	-	BCAL3062	-	-	conserved hypothetical protein
+2159043..2159429	-	128	198037451	-	BCAL3063	-	-	CrcB-family inner membrane protein
+2159611..2160477	-	288	198037452	-	BCAL3064	-	-	putative NAD-dependent deacetylase
+2161266..2162096	-	276	198037479	-	BCAL3091	-	-	putative undecaprenol kinase
+2162176..2162757	-	193	198037480	-	BCAL3092	-	-	putative exported protein
+2162754..2163071	-	105	198037481	-	BCAL3093	-	-	conserved hypothetical protein
+2163245..2164636	+	463	198037482	hemN	BCAL3094	-	-	oxygen-independent coproporphyrinogen III oxidase
+2164733..2164990	+	85	198037483	-	BCAL3095	-	-	conserved hypothetical protein
+2165095..2165751	+	218	198037484	pcm	BCAL3096	-	-	probable protein-L-isoaspartate O-methyltransferase
+2165766..2166089	+	107	198037485	-	BCAL3097	-	-	conserved hypothetical protein
+2166443..2167750	+	435	198037486	-	BCAL3098	-	-	putative exported protein
+2167890..2169509	+	539	198037487	-	BCAL3099	-	-	putative branched-chain amino acid transport system, permease component
+2169583..2170698	+	371	198037488	-	BCAL3100	-	-	putative branched-chain amino acid transport system, permease component
+2170695..2171549	+	284	198037489	-	BCAL3101	-	-	ABC transporter ATP-binding protein
+2171554..2172246	+	230	198037490	-	BCAL3102	-	-	ABC transporter ATP-binding protein
+2172412..2173287	+	291	198037491	UreD	BCAL3103	-	-	UreD-family accessory protein
+2173520..2173822	+	100	198037492	ureA	BCAL3104	-	-	urease gamma subunit
+2173831..2174136	+	101	198037493	ureB	BCAL3105	-	-	urease beta subunit
+2174166..2175872	+	568	198037494	ureC	BCAL3106	-	-	urease alpha subunit
+2175891..2176505	+	204	198037495	ureE	BCAL3107	-	-	urease accessory protein
+2176492..2177172	+	226	198037496	ureF	BCAL3108	-	-	urease accessory protein
+2177189..2177836	+	215	198037497	ureG	BCAL3109	-	-	urease accessory protein
+2177902..2179263	-	453	198037498	waaA	BCAL3110	-	-	putative 3-deoxy-D-manno-octulosonic acid transferase
+2179301..2180185	-	294	198037499	wbxY	BCAL3111	-	-	conserved hypothetical protein
+2180209..2181204	-	331	198037500	waaC	BCAL3112	-	-	heptosyltransferase I
+2183058..2183897	+	279	198037522	apaH	BCAL3136	-	-	bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+2183935..2184792	-	285	198037523	plsC	BCAL3137	-	-	putative 1-acyl-SN-glycerol-3-phosphate acyltransferase
+2184812..2186089	-	425	198037524	pyrX	BCAL3138	-	-	dihydroorotase-like protein
+2186151..2187182	-	343	198037525	pyrB	BCAL3139	-	-	aspartate carbamoyltransferase
+2187256..2187780	-	174	198037526	pyrR	BCAL3140	-	-	bifunctional regulator/uracil phosphoribosyltransferase
+2187767..2188216	-	149	198037527	-	BCAL3141	-	-	conserved hypothetical protein
+2188213..2188791	-	192	198037528	-	BCAL3142	-	-	conserved hypothetical protein
+2188974..2190281	-	435	198037529	-	BCAL3143	-	-	conserved hypothetical protein
+2190380..2190550	-	56	198037530	rubA	BCAL3144	-	-	rubredoxin
+2190806..2191672	+	288	198037531	-	BCAL3145	-	-	putative kinase
+2191862..2193502	-	546	198037532	groEL1	BCAL3146	-	-	60 kDa chaperonin 1
+2194518..2196419	-	633	218774269	mutL	PLES_53321	-	-	DNA mismatch repair protein MutL
+2196419..2197846	-	475	218774270	amiB	PLES_53331	-	-	N-acetylmuramoyl-L-alanine amidase
+2197855..2198322	-	155	218774271	-	PLES_53341	-	-	putative ATPase
+2198310..2199818	-	502	218774272	-	PLES_53351	-	-	putative carbohydrate kinase
+2199900..2200985	+	361	218774273	-	PLES_53361	-	-	putative iron-sulfur cluster-binding protein
+2201019..2201561	-	180	218774274	orn	PLES_53371	-	-	oligoribonuclease
+2201590..2202378	-	262	218772893	-	PLES_39511	-	-	probable plasmid partitioning protein
+2202379..2203074	+	231	218770216	-	PLES_12511	-	-	putative phage shock protein
+2203075..2203770	+	231	218770216	-	PLES_12511	-	-	putative phage shock protein
+2203771..2204466	+	231	218770216	-	PLES_12511	-	-	putative phage shock protein
+2204467..2205162	+	231	218770216	-	PLES_12511	-	-	putative phage shock protein
+2205163..2205858	+	231	218770216	-	PLES_12511	-	-	putative phage shock protein
+2205859..2206770	+	303	218774612	sss	PLES_56751	-	-	site-specific recombinase Sss
+2206771..2207790	+	339	218774275	-	PLES_53381	-	-	putative GTPase
+2213306..2215669	-	787	198037558	xdhB	BCAL3172	-	-	putative xanthine dehydrogenase large subunit
+2218401..2219588	+	395	198037577	-	BCAL3191	-	-	putative glutaryl-CoA dehydrogenase
+2219714..2220352	-	212	198037578	-	BCAL3192	-	-	putative oxidoreductase
+2220671..2220973	+	100	198037579	-	BCAL3193	-	-	conserved hypothetical protein
+2221093..2221482	+	129	198037580	-	BCAL3194	-	-	putative membrane protein
+2221526..2221969	+	147	198037581	-	BCAL3195	-	-	conserved hypothetical protein
+2222499..2222978	-	159	198037582	-	BCAL3196	-	-	putative ATP-binding regulatory protein
+2222985..2224232	-	415	198037583	glyA	BCAL3197	-	-	serine hydroxymethyltransferase
+2224651..2225397	+	248	198037584	-	BCAL3198	-	-	putative short-chain dehydrogenase
+2225499..2225984	+	161	198037585	-	BCAL3199	-	-	putative thioesterase
+2226129..2226806	+	225	198037586	tolQ	BCAL3200	-	-	putative TolQ transport transmembrane protein
+2226824..2227456	-	210	198037640	tetR	BCAL3258	-	-	tetracycline repressor protein
+2228735..2229130	-	131	198037641	-	BCAL3260	-	-	conserved hypothetical protein
+2229242..2230297	-	351	198037642	purM	BCAL3261	-	-	putative phosphoribosylformylglycinamidine cyclo-ligase
+2230548..2231282	+	244	198037643	-	BCAL3262	-	-	DnaA-homolog protein Hda
+2231294..2231971	+	225	198037644	-	BCAL3263	-	-	conserved hypothetical protein
+2231977..2233527	+	516	198037645	-	BCAL3264	-	-	putative polynucleotide adenylyltransferase
+2233563..2234105	+	180	198037646	-	BCAL3265	-	-	putative 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+2234102..2234788	+	228	198037647	-	BCAL3266	-	-	putative deoxyguanosine kinase/deoxyadenosine kinase
+2234832..2235647	+	271	198037648	panB	BCAL3267	-	-	putative 3-methyl-2-oxobutanoate hydroxymethyltransferase
+2235758..2237680	-	640	198037649	-	BCAL3268	-	-	chorismate binding enzyme
+2237684..2238820	-	378	198037650	dnaJ	BCAL3269	-	-	putative DnaJ chaperone protein
+2239074..2241026	-	650	198037651	dnaK	BCAL3270	-	-	putative DnaK chaperone protein
+2241175..2241618	-	147	198037652	-	BCAL3271	-	-	thioredoxin
+2241629..2242174	-	181	198037653	-	BCAL3272	-	-	putative heat shock protein
+2242660..2243067	-	135	198037654	-	BCAL3273	-	-	putative heat shock protein
+2243070..2244140	-	356	198037655	-	BCAL3274	-	-	putative ferrochelatase protein
+2244290..2245312	-	340	198037656	-	BCAL3275	-	-	putative heat-inducible transcription repressor
+2245444..2246346	+	300	198037657	-	BCAL3276	-	-	putative ATP-NAD kinase/inorganic polyphosphatase
+2246366..2248015	+	549	198037658	-	BCAL3277	-	-	putative RecN DNA repair protein
+2248110..2250986	-	958	198037659	glnE	BCAL3278	-	-	putative glutamate-ammonia-ligase adenylyltransferase
+2251144..2255343	+	1399	198037660	-	BCAL3279	-	-	putative membrane protein
+2255406..2256233	+	275	198037661	-	BCAL3280	-	-	putative carbon-nitrogen hydrolase protein
+2256319..2257785	+	488	198037662	tldD	BCAL3281	-	-	putative DNA gyrase control protein
+2258183..2259256	+	357	198037663	aroG	BCAL3282	-	-	putative phospho-2-dehydro-3-deoxyheptonate aldolase
+2259366..2259635	+	89	198037664	-	BCAL3283	-	-	conserved hypothetical protein
+2259632..2260021	+	129	198037665	-	BCAL3284	-	-	conserved hypothetical protein
+2260094..2261302	-	402	198037666	hmpA	BCAL3285	-	-	flavohemoprotein
+2261397..2261948	-	183	198037667	-	BCAL3286	-	-	cobalamin adenosyltransferase protein
+2262085..2263494	+	469	198037668	-	BCAL3287	-	-	putative FAD-binding oxidase
+2263532..2265025	+	497	198037669	glcD	BCAL3288	-	-	putative glycolate oxidase subunit GlcD
+2265209..2266297	+	362	198037670	glcE	BCAL3289	-	-	putative glycolate oxidase subunit GlcE
+2266305..2267531	+	408	198037671	glcF	BCAL3290	-	-	putative glycolate oxidase iron-sulfur subunit
+2267660..2268358	+	232	198037672	-	BCAL3291	-	-	conserved hypothetical protein
+2268412..2269224	+	270	198037673	-	BCAL3292	-	-	putative pyrroline-5-carboxylate reductase
+2269347..2269742	+	131	198037674	-	BCAL3293	-	-	putative transposase
+2269739..2270086	+	115	198037675	-	BCAL3294	-	-	putative transposase
+2270138..2271709	+	523	198037676	-	BCAL3295	-	-	putative transposase
+2271850..2272743	-	297	198037677	ubiA	BCAL3296	-	-	putative 4-hydroxybenzoate transmembrane octaprenyltransferase
+2272920..2273408	-	162	198037678	-	BCAL3297	-	-	putative ferritin DPS-family DNA binding protein
+2273547..2273717	-	56	198037679	-	BCAL3298	-	-	conserved hypothetical protein
+2273828..2276014	-	728	198037680	katB	BCAL3299	-	-	peroxidase/catalase KatB
+2276637..2277596	-	319	198037681	oxyR	BCAL3301	-	-	oxidative stress regulatory protein
+2277733..2279964	-	743	198037682	recG	BCAL3302	-	-	putative ATP-dependent DNA helicase
+2280213..2281280	+	355	198037683	queA	BCAL3303	-	-	putative queuosine S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+2281434..2282585	+	383	198037684	tgt	BCAL3304	-	-	putative queuine tRNA-ribosyltransferase
+2282819..2283142	+	107	198037685	-	BCAL3305	-	-	preprotein translocase subunit
+2283249..2285270	+	673	198037686	secD	BCAL3306	-	-	putative protein-export membrane protein SecD
+2285289..2286239	+	316	198037687	secF	BCAL3307	-	-	putative protein-export membrane protein SecF
+2286563..2287972	+	469	198037688	-	BCAL3308	-	-	putative peptidase
+2287991..2289268	-	425	198037689	-	BCAL3309	-	-	Major Facilitator Superfamily protein
+2289461..2290042	-	193	198037690	-	BCAL3310	-	-	putative exported protein
+2290108..2290668	-	186	198037691	-	BCAL3311	-	-	putative exported protein
+2290677..2291237	-	186	198037692	-	BCAL3312	-	-	putative cytochrome b-561 membrane protein
+2291497..2292162	+	221	198037693	-	BCAL3313	-	-	putative membrane protein
+2292171..2292794	+	207	198037694	-	BCAL3314	-	-	putative membrane protein
+2292787..2294406	+	539	198037695	-	BCAL3315	-	-	mammalian cell entry related membrane protein
+2294403..2295128	+	241	198037696	-	BCAL3316	-	-	putative lipoprotein
+2295607..2297721	+	704	198037697	-	BCAL3317	-	-	putative membrane protein
+2297874..2299175	+	433	198037698	-	BCAL3318	-	-	putative RNA-methylase protein
+2299249..2299713	-	154	198037699	-	BCAL3319	-	-	conserved hypothetical protein
+2299706..2300038	-	110	198037700	-	BCAL3320	-	-	ArsR family regulatory protein
+2300216..2300620	+	134	198037701	-	BCAL3321	-	-	glyoxalase/bleomycin resistance protein/dioxygenase superfamily protein
+2300694..2301380	+	228	198037702	-	BCAL3322	-	-	putative DNA-binding protein
+2301454..2302377	-	307	198037703	-	BCAL3323	-	-	nitrilase
+2302467..2303387	+	306	198037704	-	BCAL3324	-	-	LysR family regulatory protein
+2303476..2304930	-	484	198037705	pntB	BCAL3325	-	-	NAD(P) transhydrogenase subunit beta
+2304927..2305253	-	108	198037706	pntAB	BCAL3326	-	-	NAD(P) transhydrogenase subunit alpha
+2305265..2306404	-	379	198037707	pntAA	BCAL3327	-	-	NAD(P) transhydrogenase subunit alpha
+2306684..2307193	+	169	198037708	-	BCAL3328	-	-	putative hydrolase
+2307190..2308365	+	391	198037709	trmU	BCAL3329	-	-	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+2308451..2310103	+	550	198037710	-	BCAL3330	-	-	putative glutamate synthase
+2310207..2310818	-	203	198037711	-	BCAL3331	-	-	putative glutathione S-transferase
+2311006..2312391	+	461	198037712	-	BCAL3332	-	-	aminopeptidase P
+2312429..2313616	+	395	198037713	-	BCAL3333	-	-	putative ubiquinone biosynthesis-related protein
+2313745..2314812	+	355	198037714	-	BCAL3334	-	-	putative nitrogen regulation-related protein
+2314809..2315042	+	77	198037715	fis	BCAL3335	-	-	DNA-binding protein
+2315087..2316652	+	521	198037716	purH	BCAL3336	-	-	bifunctional purine biosynthesis protein
+2316807..2317349	+	180	198037717	ruvC	BCAL3337	-	-	crossover junction endodeoxyribonuclease
+2317521..2318102	+	193	198037718	ruvA	BCAL3338	-	-	holliday junction DNA helicase
+2318211..2319281	+	356	198037719	ruvB	BCAL3339	-	-	holliday junction DNA helicase
+2319305..2320258	+	317	198037720	-	BCAL3340	-	-	conserved hypothetical protein
+2320319..2321536	+	405	198037721	-	BCAL3341	-	-	putative lipoprotein
+2321599..2322261	-	220	198037722	-	BCAL3342	-	-	putative phosphoglycerate mutase
+2322285..2322743	-	152	198037723	dtd	BCAL3343	-	-	D-tyrosyl-tRNA
+2322740..2323981	-	413	198037724	tyrZ	BCAL3344	-	-	tyrosyl-tRNA synthetase
+2324124..2325272	+	382	198037725	-	BCAL3345	-	-	conserved hypothetical protein
+2325380..2325751	-	123	198037726	-	BCAL3346	-	-	putative HesB-like protein
+2325979..2326371	-	130	198037727	rpsI	BCAL3347	-	-	30S ribosomal protein S9
+2326383..2326811	-	142	198037728	rplM	BCAL3348	-	-	50S ribosomal protein L13
+2327123..2327428	+	101	198037729	-	BCAL3348a	-	-	putative exported protein
+2327839..2328303	+	154	198037730	-	BCAL3349	-	-	putative OsmC-like protein
+2328794..2329684	-	296	198037731	-	BCAL3350	-	-	conserved hypothetical protein
+2329681..2330775	-	364	198037732	pyrC	BCAL3351	-	-	dihydroorotase
+2330969..2331865	+	298	198037733	-	BCAL3352	-	-	family C44 non-peptidase homologue
+2332481..2337763	+	1760	198037734	-	BCAL3353	-	-	putative outer membrane autotransporter
+2338569..2339246	-	225	198037735	gltK	BCAL3356	-	-	glutamate/aspartate transport system permease protein
+2339246..2339986	-	246	198037736	gltJ	BCAL3357	-	-	glutamate/aspartate transport system permease protein
+2340071..2340964	-	297	198037737	gltI	BCAL3358	-	-	periplasmic glutamate/aspartate-binding protein
+2341226..2342512	-	428	198037738	-	BCAL3359	-	-	putative glutamate dehydrogenase
+2342790..2343752	-	320	198037739	-	BCAL3360	-	-	LysR family regulatory protein
+2346223..2347071	+	282	198037747	-	BCAL3368	-	-	putative regulatory protein
+2347180..2347602	-	140	198037748	-	BCAL3369	-	-	putative membrane protein
+2347626..2348933	-	435	198037749	proA	BCAL3370	-	-	gamma-glutamyl phosphate reductase
+2349107..2350201	-	364	198037750	-	BCAL3371	-	-	putative DNA polymerase III delta subunit
+2350220..2350771	-	183	198037751	-	BCAL3372	-	-	putative lipoprotein
+2350810..2353404	-	864	198037752	leuS	BCAL3373	-	-	leucyl-tRNA synthetase
+2353669..2354127	-	152	198037753	-	BCAL3374	-	-	putative transport-related membrane protein
+2354152..2354820	-	222	198037754	-	BCAL3375	-	-	putative transport-related membrane protein
+2354839..2355636	-	265	198037755	dapB	BCAL3376	-	-	dihydrodipicolinate reductase
+2355702..2356499	-	265	198037756	omlA	BCAL3377	-	-	putative outer membrane protein
+2356641..2357069	+	142	198037757	fur	BCAL3378	-	-	ferric uptake regulator
+2357164..2357697	-	177	198037758	-	BCAL3379	-	-	putative ureidoglycolate hydrolase
+2357712..2358719	-	335	198037759	-	BCAL3380	-	-	putative allantoicase
+2358824..2360143	-	439	198037760	dctA	BCAL3381	-	-	aerobic C4-dicarboxylate transport protein
+2360356..2361078	+	240	198037761	-	BCAL3382	-	-	GntR family regulatory protein
+2363063..2363680	+	205	384079470	-	SMD_3556	-	-	Lysophospholipase L1 and related esterases
+2363685..2364404	+	239	384079471	-	SMD_3557	-	-	hypothetical protein
+2364505..2365284	-	259	384079472	-	SMD_3558	-	-	acetylxylan esterase
+2365314..2366270	+	318	384079473	-	SMD_3559	-	-	Glutaredoxin-like protein
+2366390..2366929	-	179	384079474	-	SMD_3560	-	-	Putative transmembrane protein
+2366973..2367749	-	258	384079475	amn	SMD_3561	-	-	AMP nucleosidase
+2370947..2371663	+	238	384076371	-	SMD_0364	-	-	Cytochrome oxidase biogenesis protein Surf1,facilitates heme A insertion
+2371664..2372560	-	298	384079576	xerC	SMD_3663	-	-	Site-specific tyrosine recombinase
+2372561..2373175	+	204	384078508	-	SMD_2561	-	-	RecA/RadA recombinase
+2373176..2373298	-	40	384079102	-	SMD_3178	-	-	plasmid stabilization system
+2373299..2374798	-	499	384076135	-	SMD_0110	-	-	ISStmaD3 transposase A
+2374799..2375776	+	325	384076577	xerD	SMD_0573	-	-	Tyrosine recombinase XerD
+2375777..2376673	-	298	384079576	xerC	SMD_3663	-	-	Site-specific tyrosine recombinase
+2376674..2376796	-	40	384079102	-	SMD_3178	-	-	plasmid stabilization system
+2376797..2377774	+	325	384076577	xerD	SMD_0573	-	-	Tyrosine recombinase XerD
+2377775..2377897	-	40	384079102	-	SMD_3178	-	-	plasmid stabilization system
+2377898..2378794	-	298	384079576	xerC	SMD_3663	-	-	Site-specific tyrosine recombinase
+2378795..2379691	-	298	384079576	xerC	SMD_3663	-	-	Site-specific tyrosine recombinase
+2379692..2380087	+	131	384077000	-	SMD_1022	-	-	Putative Holliday junction resolvase
+2380088..2380423	-	111	384076631	-	SMD_0628	-	-	Predicted endonuclease distantly related to archaeal Holliday junction resolvase
+2380424..2381038	+	204	384078508	-	SMD_2561	-	-	RecA/RadA recombinase
+2381039..2383186	+	715	384076605	nfrB	SMD_0601	-	-	bacteriophage N4 adsorption protein B
+2383187..2385334	+	715	384076605	nfrB	SMD_0601	-	-	bacteriophage N4 adsorption protein B
+2385335..2386312	+	325	384076577	xerD	SMD_0573	-	-	Tyrosine recombinase XerD
+2386313..2388460	+	715	384076605	nfrB	SMD_0601	-	-	bacteriophage N4 adsorption protein B
+2388461..2389438	+	325	384076577	xerD	SMD_0573	-	-	Tyrosine recombinase XerD
+2389439..2389774	-	111	384076631	-	SMD_0628	-	-	Predicted endonuclease distantly related to archaeal Holliday junction resolvase
+2389775..2391922	+	715	384076605	nfrB	SMD_0601	-	-	bacteriophage N4 adsorption protein B
+2391923..2392318	+	131	384077000	-	SMD_1022	-	-	Putative Holliday junction resolvase
+2392319..2393296	+	325	384076577	xerD	SMD_0573	-	-	Tyrosine recombinase XerD
+2393297..2394274	+	325	384076577	xerD	SMD_0573	-	-	Tyrosine recombinase XerD
+2394275..2394397	-	40	384079102	-	SMD_3178	-	-	plasmid stabilization system
+2394398..2395294	-	298	384079576	xerC	SMD_3663	-	-	Site-specific tyrosine recombinase
+2395295..2396794	-	499	384076135	-	SMD_0110	-	-	ISStmaD3 transposase A
+2396795..2397772	+	325	384076577	xerD	SMD_0573	-	-	Tyrosine recombinase XerD
+2397773..2399920	+	715	384076605	nfrB	SMD_0601	-	-	bacteriophage N4 adsorption protein B
+2399921..2400043	-	40	384079102	-	SMD_3178	-	-	plasmid stabilization system
+2400044..2401543	-	499	384076135	-	SMD_0110	-	-	ISStmaD3 transposase A
+2401544..2402260	+	238	384076371	-	SMD_0364	-	-	Cytochrome oxidase biogenesis protein Surf1,facilitates heme A insertion
+2402261..2403670	+	469	384079477	-	SMD_3563	-	-	Amidohydrolase family protein
+2403670..2404932	+	420	384079478	-	SMD_3564	-	-	hypothetical protein
+2404953..2405585	+	210	384079479	-	SMD_3565	-	-	2-hydroxychromene-2-carboxylate isomerase
+2405681..2406622	+	313	384079480	-	SMD_3566	-	-	Hypothetical protein DUF194, DegV family
+2406700..2407038	+	112	384079481	-	SMD_3567	-	-	hypothetical protein
+2407212..2408624	-	470	384079482	-	SMD_3568	-	-	Outer membrane component of tripartite multidrug resistance system
+2408621..2409703	-	360	384079483	-	SMD_3569	-	-	Membrane fusion component of tripartite multidrug resistance system
+2409725..2411254	-	509	384079484	-	SMD_3570	-	-	Inner membrane component of tripartite multidrug resistance system
+2411408..2412325	-	305	384079485	-	SMD_3571	-	-	Transcriptional regulator
+2412467..2412913	+	148	384079486	-	SMD_3572	-	-	Universal stress protein family
+2412937..2413389	+	150	384079487	-	SMD_3573	-	-	hypothetical protein
+2413429..2414874	-	481	384079488	-	SMD_3574	-	-	FOG: GGDEF domain
+2415035..2415865	-	276	384079489	-	SMD_3575	-	-	S-formylglutathione hydrolase
+2415929..2416285	-	118	384079490	-	SMD_3576	-	-	hypothetical protein
+2416294..2417403	-	369	384079491	adhC	SMD_3577	-	-	S-(hydroxymethyl)glutathione dehydrogenase
+2417462..2417737	-	91	384079492	-	SMD_3578	-	-	Uncharacterized protein YaiN in in formaldehyde detoxification operon
+2417808..2418713	-	301	384079493	-	SMD_3579	-	-	Transcriptional regulator
+2418798..2419946	+	382	384079494	-	SMD_3580	-	-	N-ethylmaleimide reductase
+2420059..2420736	-	225	384079495	-	SMD_3581	-	-	hypothetical protein
+2420851..2421267	+	138	384079496	-	SMD_3582	-	-	putative lyase
+2421280..2421918	-	212	384079497	-	SMD_3583	-	-	hypothetical protein
+2422006..2422668	+	220	384079498	-	SMD_3584	-	-	transcriptional regulator, TetR family
+2422784..2423668	-	294	384079499	-	SMD_3585	-	-	Transcriptional regulator, LysR family
+2423776..2424834	+	352	384079500	-	SMD_3586	-	-	Alcohol dehydrogenase
+2424957..2426321	-	454	384079501	-	SMD_3587	-	-	Glutamate--cysteine ligase
+2426474..2427178	+	234	384079502	-	SMD_3588	-	-	nodulin 21-related protein
+2427175..2427999	+	274	384079503	-	SMD_3589	-	-	Transcriptional regulator, AraC family
+2428717..2429688	+	323	384079504	-	SMD_3590	-	-	methyl parathion hydrolase
+2429762..2430364	-	200	384079505	engB	SMD_3591	-	-	GTP-binding protein EngB
+2430521..2431321	+	266	384079506	-	SMD_3592	-	-	Cytochrome c4
+2431422..2432078	+	218	384079507	dsbA	SMD_3593	-	-	Periplasmic thiol:disulfide interchange protein DsbA
+2432186..2433019	+	277	384079508	dsbA2	SMD_3594	-	-	Periplasmic thiol:disulfide interchange protein DsbA
+2433073..2433810	+	245	384079509	-	SMD_3595	-	-	Endonuclease/exonuclease/phosphatase family protein
+2433922..2434767	-	281	384079510	-	SMD_3596	-	-	protein of unknown function DUF6, transmembrane
+2434846..2435346	+	166	384079511	-	SMD_3597	-	-	Transcriptional regulator, AsnC family
+2435424..2435975	+	183	384079512	-	SMD_3598	-	-	peptidase, M23/M37 family
+2438045..2440117	-	690	198037768	tktA	BCAL3389	-	-	transketolase 1
+2440333..2441190	+	285	198037769	-	BCAL3390	-	-	putative spermidine synthase
+2441279..2441695	+	138	198037770	-	BCAL3391	-	-	glyoxalase/bleomycin resistance protein/dioxygenase superfamily protein
+2441740..2442480	+	246	198037771	-	BCAL3392	-	-	conserved hypothetical protein
+2442635..2443198	-	187	198037772	-	BCAL3393	-	-	conserved hypothetical protein
+2443215..2443646	-	143	198037773	-	BCAL3394	-	-	putative exported ribonuclease
+2444023..2446380	-	785	198037774	maeB	BCAL3395	-	-	NADP-dependent malic enzyme
+2446500..2447498	+	332	198037775	-	BCAL3396	-	-	putative thiamine-monophosphate kinase
+2447488..2448033	+	181	198037776	-	BCAL3397	-	-	putative phosphatidylglycerophosphatase
+2448065..2448565	+	166	198037777	-	BCAL3398	-	-	putative competence-damaged related protein
+2448598..2449656	-	352	198037778	-	BCAL3399	-	-	putative exported protein
+2449897..2450724	-	275	198037779	-	BCAL3400	-	-	putative orotidine 5'-phosphate decarboxylase
+2450764..2451723	-	319	198037780	-	BCAL3401	-	-	putative epimerase
+2451876..2452682	-	268	198037781	-	BCAL3402	-	-	putative dehydrogenase
+2452711..2453727	-	338	198037782	araH	BCAL3403	-	-	L-arabinose transport system, permease protein
+2453797..2455308	-	503	198037783	araG	BCAL3404	-	-	L-arabinose ABC transporter ATP-binding protein
+2455376..2456371	-	331	198037784	-	BCAL3405	-	-	putative L-arabinose transport system, exported protein
+2458565..2459266	-	233	198037791	-	BCAL3412	-	-	putative peptidoglycan biosynthesis-related protein
+2459317..2460183	-	288	198037792	aroE	BCAL3413	-	-	shikimate 5-dehydrogenase
+2460180..2462264	-	694	198037793	-	BCAL3414	-	-	putative exoribonuclease II
+2462344..2462913	-	189	198037794	-	BCAL3415	-	-	conserved hypothetical protein
+2462910..2464295	-	461	198037795	mpl	BCAL3416	-	-	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+2464542..2465186	+	214	198037796	-	BCAL3417	-	-	conserved hypothetical protein
+2465194..2465745	+	183	198037797	-	BCAL3418	-	-	putative thioredoxin protein
+2465940..2466392	+	150	198037798	aroQ1	BCAL3419	-	-	3-dehydroquinate dehydratase
+2466441..2466932	+	163	198037799	accB	BCAL3420	-	-	biotin carboxyl carrier protein of acetyl-CoA carboxylase
+2467018..2468385	+	455	198037800	accC	BCAL3421	-	-	biotin carboxylase
+2468388..2469290	+	300	198037801	prmA	BCAL3422	-	-	ribosomal protein L11 methyltransferase
+2469336..2470733	+	465	198037802	-	BCAL3423	-	-	putative membrane protein
+2470805..2471308	+	167	198037803	tpx	BCAL3424	-	-	thiol peroxidase
+2471394..2472332	+	312	198037804	-	BCAL3425	-	-	putative sugar kinase
+2472352..2472825	+	157	198037805	-	BCAL3426	-	-	putative lipoprotein
+2473056..2473706	-	216	198037806	hctB	BCAL3427	-	-	histone H1-like protein
+2474144..2475355	-	403	198037807	nrdB	BCAL3428	-	-	ribonucleoside-diphosphate reductase beta chain
+2475721..2478732	-	1003	198037808	-	BCAL3429	-	-	putative ribonucleoside reductase
+2479178..2479768	-	196	198037809	ampD	BCAL3430	-	-	N-acetylmuramyl-L-alanine amidase
+2479765..2480079	-	104	198037810	-	BCAL3431	-	-	putative exported protein
+2480093..2480986	-	297	198037811	-	BCAL3432	-	-	cytochrome c assembly protein
+2481076..2482443	+	455	198037812	ffh	BCAL3433	-	-	signal recognition particle protein
+2482511..2483089	+	192	198037813	-	BCAL3434	-	-	putative hypoxanthine phosphoribosyltransferase
+2483174..2483782	-	202	198037814	-	BCAL3435	-	-	MarC family integral membrane protein
+2483804..2485540	-	578	198037815	proS	BCAL3436	-	-	prolyl-tRNA synthetase
+2485769..2486413	+	214	198037816	-	BCAL3437	-	-	putative (di)nucleoside polyphosphate hydrolase
+2486477..2487034	+	185	198037817	-	BCAL3438	-	-	putative lipoprotein
+2487130..2488248	-	372	198037818	proB	BCAL3439	-	-	glutamate 5-kinase
+2488338..2489450	-	370	198037819	-	BCAL3440	-	-	putative conserved GTP-binding protein
+2489637..2489900	-	87	198037820	rpmA	BCAL3441	-	-	50S ribosomal protein L27
+2489925..2490236	-	103	198037821	rplU	BCAL3442	-	-	50S ribosomal protein L21
+2490447..2491442	+	331	198037822	ispB	BCAL3443	-	-	octaprenyl-diphosphate synthase
+2491809..2493101	+	430	198037823	-	BCAL3444	-	-	putative membrane protein
+2493212..2494498	+	428	198037824	-	BCAL3445	-	-	putative type IV pilus assembly protein
+2494507..2495712	+	401	198037825	pilC	BCAL3446	-	-	type IV pilus assembly protein PilC
+2495758..2496669	+	303	198037826	gspO	BCAL3447	-	-	type IV prepilin leader peptide type M1
+2496671..2497279	+	202	198037827	coaE	BCAL3448	-	-	dephospho-CoA kinase
+2497389..2498144	+	251	198037828	-	BCAL3449	-	-	conserved hypothetical protein
+2498434..2498877	-	147	198037829	-	BCAL3450	-	-	NUDIX hydrolase
+2498874..2499743	-	289	198037830	-	BCAL3451	-	-	conserved hypothetical protein
+2499763..2501004	-	413	198037831	argJ	BCAL3452	-	-	arginine biosynthesis bifunctional protein ArgJ
+2501149..2503950	-	933	198037832	secA	BCAL3453	-	-	preprotein translocase SecA subunit
+2504207..2504683	+	158	198037833	-	BCAL3454	-	-	conserved hypothetical protein
+2504765..2505682	-	305	198037834	envA	BCAL3455	-	-	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+2505923..2506429	-	168	198037835	-	BCAL3456	-	-	putative thioredoxin reductase
+2506627..2507823	-	398	198037836	ftsZ	BCAL3457	-	-	cell division protein FtsZ
+2507936..2509168	-	410	198037837	ftsA	BCAL3458	-	-	cell division protein FtsA
+2509195..2509947	-	250	198037838	ftsQ	BCAL3459	-	-	cell division protein FtsQ
+2509967..2510908	-	313	198037839	ddlB	BCAL3460	-	-	D-alanine--D-alanine ligase B
+2510910..2512307	-	465	198037840	murC	BCAL3461	-	-	UDP-N-acetylmuramate--alanine ligase
+2512304..2513407	-	367	198037841	murG	BCAL3462	-	-	UDP-N-acetylglucosamine--N-acetylmuramyl-(penta peptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase MurG
+2513404..2514687	-	427	198037842	ftsW	BCAL3463	-	-	cell division protein FtsW
